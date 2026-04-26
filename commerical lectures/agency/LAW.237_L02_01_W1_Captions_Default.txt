@@ -1,0 +1,2032 @@
+Richard Austen-Baker: Good afternoon,
+everyone. We plunged in to
+
+the actual content of
+
+the module and start
+next as Topic 3 Agency.
+
+It's Topic 1.
+
+It's been moved around
+so many plenty times.
+
+For those of you
+who weren't here
+
+on Tuesday for the
+intro lecture,
+
+just read the module handbook,
+
+and the module schedule,
+
+which are both in the same
+section of the Moodle.
+
+I talked about what agency
+is about and why we do it.
+
+Well, we'll know more today.
+
+The contents of this topic,
+
+as far as you're concerned,
+
+are purpose of agency law,
+
+terminology,
+formation of agency,
+
+the idea of disclosed and
+undisclosed principals,
+
+duties of agent to principal,
+
+duties of principal to agent,
+
+termination of an agency
+
+and I look at
+
+a special category of agent
+
+called the 'Commercial agent.'
+
+I put that in inverted commas
+
+because it has a specific
+technical meaning.
+
+In reality, of course,
+any agent used
+
+for commercial transactions
+is commercial in that sense,
+
+but this has a special
+meaning in legislation.
+
+We will not necessarily over
+
+the course of three
+lecture sessions,
+
+be able to cover everything.
+
+But all of this
+scope and material,
+
+all the topic
+contents are covered
+
+in Chapters 2 and 3
+of your textbook,
+
+which I wrote specifically
+those chapters to cover
+
+everything that was in
+our topic on this module.
+
+You can turn to there for
+anything that we're unable to,
+
+you should read anyway.
+
+But if there's
+something you haven't
+
+covered in lectures, yes,
+
+carry on reading that
+bit in the textbook.
+
+Today we're going to start
+
+looking at the purpose
+of agency law,
+
+the terminology that we
+use in this branch of law,
+
+and getting on to how
+agents are formed,
+
+and this business, perhaps we
+
+cover this business of
+
+disclosed and
+undisclosed principals.
+
+I bet you,
+
+he thought this was
+a geography lecture.
+
+The last time I was teaching
+in this room years ago,
+
+I was constantly
+interrupted by people
+
+coming in because that used
+to be the main entrance.
+
+They discover that they
+
+weren't in the right place
+at all for their lecture.
+
+It take ages to dawn on
+them, and then they'd leave.
+
+I took to asking them
+what they were doing.
+
+They're all geography
+students or
+
+totally hopeless at finding
+the right place to be in.
+
+Never lend to an economics
+student. Terrible with money.
+
+Our starting point
+doctrine of privity,
+
+which we covered very briefly
+in contract law last year.
+
+It's an important
+doctrine of contract,
+
+but we covered it
+briefly because
+
+the main thing that you
+have to be doing around
+
+it is agency as the way of
+
+avoiding the problems that
+the doctrine can create.
+
+Now, just to remind you of
+
+the doctrine which
+you can find set
+
+out in the House of Lords in
+
+the 1915 judgments of
+Dunlop and Selfridge,
+
+that's the year, of
+course, in which
+
+the volume of the law
+reports was published.
+
+The judgement was
+given in '13 or '14.
+
+Now, this was the case where
+we'd have looked at it,
+
+I suppose in the context of
+consideration in particular.
+
+This is the case where Dunlop's
+
+had sold tires to a
+firm called appellant,
+
+who were importers and
+wholesalers of car parts.
+
+In the contract of sale to
+
+appellant there's a term saying,
+
+"You mustn't sell
+any of our tires to
+
+the public below our
+published list price
+
+at any given time."
+
+You can sell them at a
+discount to other traders,
+
+but if you do so, it must be on
+
+terms that this term
+will be incorporated.
+
+They also must not sell to
+
+the public at less than
+our published price.
+
+Now, appellant then sold
+some ties to Selfridges,
+
+the big department
+store in Oxford Street,
+
+and they included a
+clause mustn't be sold to
+
+the public at below Dunlop's
+published list price.
+
+Dunlop's then you'll
+remember that
+
+this clause was
+backed up with for
+
+every tie you sell
+at below your price,
+
+it's a five pound sum to be
+
+paid for the breach of contract.
+
+We saw in the case of Dunlop
+and New garage and Motor Co,
+
+that that was upheld
+as liquidated damages,
+
+not as a void penalty.
+
+But Dunlop lost their case
+against Selfridge because,
+
+they had no contract
+with Selfridge.
+
+They had a direct contract
+with New garage and Motor Co.
+
+They sold them the tires..
+
+New Garage and Motor Co then
+
+sold them to the
+public at below price.
+
+But here, of course,
+
+Dunlop sold to appellants
+
+Selfridge is bought
+from appellants.
+
+Now, appellants had included
+
+the clause and appellants could,
+
+if they wished, have
+
+sued under the contract
+for breach by Selfridges.
+
+The only thing is
+that of course,
+
+Appellant and Co wouldn't have
+
+suffered any loss whatsoever.
+
+Which would probably
+have converted
+
+the valid liquidated
+damages clause
+
+into a penalty clause
+in their case.
+
+Dunlop argued that
+nevertheless the clause was
+
+enforceable by them and
+
+that appellants were
+effectively their agent.
+
+An already recognised
+way around the problem.
+
+The House Lord dismissed
+that suggestion and says,
+
+'At no point did appellant
+
+and Co say they were
+acting as an agent and
+
+there's no reason for it to
+be supposed by Selfridges'.
+
+If there was an agency,
+
+it was with an
+undisclosed principle,
+
+which would be
+coming on to later.
+
+In those cases, you
+got a defence against
+
+an undisclosed principle
+because you didn't mean to
+
+deal with them and you couldn't
+
+predict what their
+losses might be.
+
+This rule, is what we're
+trying to get around.
+
+Because obviously, in
+the commercial world,
+
+we're often going to have to
+deal through other people.
+
+Now, sometimes you'll see
+
+in contracts when you
+get into practise.
+
+We're not actions are
+servants or agents.
+
+Now, a servant is an employee.
+
+Now, a servant can act as
+
+agent with the apparent
+authority that they have.
+
+When you go into the supermarket
+
+and you pay at the checkout,
+
+if you go to the human checkout,
+
+you're making that contract
+
+with the woman or man
+who's sitting there.
+
+But you know that the agent for
+
+Booths or Tesco or
+wherever it is,
+
+and [NOISE] they're
+also a servant.
+
+Them being a servant
+of Booths is what
+
+makes them also a
+disclosed agent.
+
+That all has to be
+dealt with because
+
+Edwin Booth can't himself
+
+man every checkout in every
+one of his shops, can he?
+
+Anyway even if it did,
+
+it's a limited company,
+
+so all limited companies
+
+must necessarily
+act through agents.
+
+The directors are
+agents as well.
+
+Because while a limited
+company has legal personality,
+
+it doesn't have arms, legs,
+
+or mouth, can't sign anything.
+
+Humans have to act
+on its behalf.
+
+But also it's been
+
+a common feature of
+commercial life for
+
+centuries that we have
+
+people acting in different
+parts of the country and
+
+in different parts
+of the world on
+
+our behalf to make
+contracts for us.
+
+Now, if those were
+unenforceable,
+
+if well, you weren't there.
+You didn't make the contract.
+
+Billy Blogs made the
+contract with us,
+
+not Austin Baker, PLC.
+
+Um, Dunlop and Selfridge.
+
+You're a stranger to the
+consideration. You're not privy.
+
+The law of agency
+is to get around
+
+the practical problems that
+are raised by privity.
+
+Well, the basic rule itself
+of privity remains there to
+
+protect us against
+the abuse of being
+
+sued by people that
+
+people we never thought
+we'd made a contract with.
+
+How does it help? Well, it
+
+makes a contract
+directly enforceable.
+
+Between two parties,
+even when one or both of
+
+them have actually been
+
+represented and have
+made the contract,
+
+which might be oral or written.
+
+These are both third parties.
+
+But nevertheless, the
+two principals have
+
+all the rights under the
+contract and can sue
+
+each other where necessary.
+
+Now, the Eurymedon didn't
+invent agency law.
+
+As I said, it's been
+going for centuries.
+
+But it's a really good
+modern example and one of
+
+the most important modern
+cases on this subject.
+
+What happened here is that
+
+expensive goods were
+shipped to Australia,
+
+I think, it might have
+
+been New Zealand,
+somewhere down there.
+
+On a ship called the Eurymedon,
+
+and in the contract,
+
+the shipping company
+excluded liability,
+
+including for
+negligence, they had
+
+a clause that would have
+
+perfectly satisfied
+Canada steamship lines.
+
+I would work against negligence.
+
+Now, when the goods were being
+
+unloaded the receiving
+the destination port,
+
+they were damaged
+or otherwise lost.
+
+This was the result.
+It was damaged.
+
+They were cackhandedly
+handled by the stevedores.
+
+Have I got a marker?
+
+Good. You'll come across us
+again and probably encourage.
+
+Stevedores. I think in the US,
+
+they call them longshoremen.
+
+Now, stevedores are
+very critical part
+
+of the operation of any port.
+
+They do the loading and
+
+unloading and carry out
+movements around the docks.
+
+Now, there may be
+
+one or more firms of stevedores
+in operation at any port.
+
+A little port will probably just
+
+have the one that
+does for everyone.
+
+Others, there'll be
+competing business.
+
+Now, these goods were damaged by
+
+the negligence of
+the stevedores.
+
+[NOISE] The owner of
+
+the goods wished to sue the
+stevedores for damages.
+
+The stevedores said, "Oh, no,
+
+you signed away your right
+
+to sue people for damages or
+
+negligence when you signed
+
+the contract with the
+shipping company."
+
+Actually here's another bit
+
+of some commercial terminology.
+
+I've got some goods, I
+want to send them to you.
+
+Where do you fancy living?
+
+Bermuda? The Bahamas?
+In the Bahamas.
+
+I'm going to send the goods
+to you in the Bahamas.
+
+I'm the shipper.
+
+The person who sends it,
+
+also called the consignor,
+as in consignment.
+
+The people with the
+ship are the carriers.
+
+Actually they might
+subcontract that,
+
+so you might have a
+number of sub-carriers,
+
+but essentially all
+covered by a carrier.
+
+Then you're the consignee.
+
+Now, in the contract
+
+between the shipper
+and the carrier here,
+
+we've got this clause.
+
+The question is, does it
+
+protect these third
+parties, the stevedores?
+
+Is Steve protected?
+
+Well, on the face of it, not.
+
+You look at it and
+you say, hang on,
+
+did they say they
+were acting as agent?
+
+On a reading of the
+contract the court
+
+concluded that the wording
+of the contract was
+
+such as to make
+
+the shippers their agents,
+
+whoever the eventual
+stevedores appointed were.
+
+Now, this is going
+to a big port.
+
+There'd be multiple choices,
+
+and they probably wouldn't
+appoint until the ships
+
+alongside or about to come
+alongside the quay side,
+
+and then whichever stevedores
+
+company is available
+and cheap so use them.
+
+[NOISE] It was held
+
+that they had although
+contractors as agent.
+
+Because it said servants
+and agents and so on,
+
+so the other principal
+would be protected,
+
+anyone acting on
+behalf of the shipper.
+
+Since it's a
+shipper's job to get
+
+the stuff off the ship
+at the other end,
+
+then the stevedores are
+acting as their agent.
+
+The only way to give them
+protection under the contract,
+
+the only meaningfulness of
+mentioning our servants or
+
+agents would be if
+
+they also act as an
+agent for the agent.
+
+We got around the
+problem here and
+
+the stevedores were able to
+rely on the liability shield.
+
+You might be thinking, well,
+
+why do we want to do that?
+
+They were the careless bastards
+
+who ruined all those stuff.
+
+Surely they should pay up.
+
+But of course, what would
+happen there if that became
+
+a thing and stevedores couldn't
+
+rely on protection
+of these clauses.
+
+They'd need to insure themselves
+for losses and they'd
+
+have to pass that on in
+
+higher charges for
+cargo handling,
+
+and so you're adding
+an extra cost into
+
+the whole business of shipping
+stuff around the world.
+
+That's how agency helps us
+
+to get around the
+inconveniences,
+
+the bad aspects of the
+doctrine of privity.
+
+Let's go into the terminology
+that we're using in
+
+relation to agency itself.
+
+The principal, and note
+the spelling, please.
+
+Not principle. Principles
+are what you have.
+
+I have principles.
+
+I absolutely refuse
+to drink and drive.
+
+But I don't drive
+over the limit.
+
+That's the important thing.
+
+I live in the countryside.
+
+You're not going anywhere if
+you don't drink and drive.
+
+But that's a principle.
+
+You might have a principle
+that you support
+
+the continuous revolution and
+
+the dictatorship of
+the proletariat.
+
+But a principal is
+
+someone who is a party
+or it's the main thing.
+
+In our context,
+
+someone who's a party to
+something, the principal.
+
+You get a principal,
+
+actor or actress as well.
+
+Principal, that's a
+
+particularly dim
+looking chap, isn't it?
+
+He's the last but one Vice
+Chancellor of Cambridge.
+
+I generally find vice chancellors
+are pretty dim looking.
+
+But anyway, that's
+another meaning
+
+of principal, of course,
+
+is the head of an
+educational institution.
+
+Now, agent is our next thing.
+
+Now, who can tell me what's
+
+wrong with putting a picture
+of James Bond there?
+
+Apart from the fact you might
+be triggered by the gun.
+
+Apparently there's lots
+of adverts showing
+
+various people and they've
+pasted out the gun.
+
+They look like
+they're masturbating.
+
+[LAUGHTER] Because you
+got your hand there.
+
+What's wrong with putting
+James Bond as an example of
+
+an agent? No one?
+
+Because James Bond,
+
+the fictional character is
+
+an intelligence
+officer not an agent.
+
+An agent is someone that
+an intelligence officer
+
+recruits in a foreign country
+to provide information.
+
+When we look last year at
+Attorney General and Blake,
+
+the people who got killed
+because Blake passed
+
+all their information to
+the Russians were agents.
+
+Blake was an
+intelligence officer.
+
+It's the agents on the ground,
+
+it was Russian citizens who
+were murdered by their state.
+
+This is the extra
+service that I like to
+
+provide on top for your
+general knowledge.
+
+James Bond isn't an agent.
+
+Now, an agent is
+someone who does
+
+something on somebody
+else's behalf.
+
+It's the doing of stuff.
+
+That's why we talk about
+people having agency.
+
+Do we have rights? Are we able
+to make our own decisions?
+
+Are we responsible for things?
+
+We have the agent and
+
+the agent is rewarded
+by commission.
+
+Differently from
+the servant who has
+
+agency powers but is rewarded
+by a salary or wage.
+
+[NOISE] An agent is
+paid by commission,
+
+usually a percentage of
+the value of the deal.
+
+The setup is then we
+have Principal 1,
+
+Principle 2, they are the
+parties to the contract.
+
+Acting on behalf of let's
+say Principal 1 is an agent.
+
+The agent is a go between.
+
+Now, the idea is not
+that people can go
+
+around suing the agent if
+the contract is breached,
+
+the principals sue each other.
+
+If Principal 1
+breaches the contract,
+
+Principal 2 sues Principal 1.
+
+There's an exception to this
+as you always expect in law,
+
+where there's an
+undisclosed principal.
+
+You dealt with the
+agent thinking
+
+they were the other principal,
+
+thinking they were
+working for themselves.
+
+You can also sue them.
+
+You might want to do that in
+
+some cases because
+you find out that
+
+the other party is
+someone you'd never have
+
+dealt with because
+they're not worth
+
+a penny if you sue them,
+
+or they're hidden away in
+
+the Cayman Islands
+and, I forget it.
+
+These are the actors
+in our drama.
+
+Now, we're all happy with that.
+
+We know what it is for,
+
+how it works, and
+who the players are,
+
+the basics of how it works
+and who the players are.
+
+It can be created in two ways.
+
+There is not necessarily
+
+a contract between a
+Principal and an Agent.
+
+There very often is,
+
+but there is not necessarily so.
+
+Now, you can create
+by agreement,
+
+which may or may
+not be contractual.
+
+It'll typically be contractual
+
+if it is created by agreement,
+
+because implicitly there's
+the right to the commission.
+
+Therefore, there's
+a consideration,
+
+generally speaking
+going to be a contract,
+
+but it doesn't have to be
+contractually binding.
+
+For instance, an agent who is
+a minor, say a 17-year-old,
+
+can validly act as agent
+
+and enforce their right
+to the commission,
+
+and they bind their
+principal to the contract.
+
+It's a valid contract that
+they make on their behalf.
+
+Even though they can't
+have a valid contract with
+
+the principal because they're
+
+underage to enter into
+enforceable contracts.
+
+[NOISE] We have three agreement
+
+which are express
+actual authority,
+
+implied actual authority,
+and usual authority.
+
+The express and implied you
+can work out for yourself.
+
+It's not that we won't cover
+
+it and you certainly
+
+will in your reading,
+but it's obvious.
+
+It means what it says
+on the other side.
+
+Usual authority can probably
+
+work out for yourself
+just as well.
+
+If I go into the pub
+and order a beer,
+
+I would expect that
+the bar staff person
+
+has authority to deal
+
+on behalf of the pub
+and sell me a pint.
+
+That would be usual.
+
+Then even without an agreement,
+
+it could be by ratification.
+
+You've got done a
+great deal for me.
+
+I know is after
+
+such and such a supply of
+computers or whatever,
+
+and you found someone who's
+got some going really cheap.
+
+That would be a marriage
+made in heaven.
+
+You go along to
+them and say, I'm
+
+acting for Austen-Baker Corp
+
+and I'd like to
+
+do a deal with you on these
+computers you're selling.
+
+You do it, then you
+come to me and say,
+
+hey, I've done a great deal on
+
+your behalf. I say,
+who the fuck are you?
+
+You tell me, and I say,
+
+well, what's the deal?
+
+You say, well, I like that.
+
+I like a bit. I'll
+get behind that.
+
+That's ratification.
+
+You'd be surprised how
+common that is in real life.
+
+There's some bloody
+cheeky people
+
+out there doing business.
+
+Then there's ostensible
+or apparent authority.
+
+That really means pretty
+
+much the same as
+usual authority.
+
+But we use this
+terminology where
+
+there's no agreement
+between the agent and
+
+the principal that's specific
+about them being an agent.
+
+Someone who appears to be
+able to act on your behalf
+
+is taken to be able to do
+
+so and can create
+a valid contract.
+
+Estoppel.
+
+We've covered in
+first year contracts,
+
+we looked at promissory
+estoppel, didn't we?
+
+We see estoppel is a rule
+of evidence that prevents
+
+you bringing evidence to
+deny a particular thing.
+
+Here, there are cases where
+you've behaved in such a way
+
+as to lead the other
+part into thinking
+
+that X acts on your behalf.
+
+It will be quite inequitable
+then for you to be
+
+allowed to deny that if that
+
+would cause a loss to
+this other person.
+
+We get an estoppel in that way.
+
+Then finally, under
+otherwise than by agreement,
+
+the agency of necessity.
+
+I suppose this is
+
+a much rarer thing now
+than it was in the past.
+
+But can you think of an
+example from cases we did
+
+last year where somebody acted
+
+actually as an agent
+for an owner of cargo?
+
+In a situation where
+
+they'd not been appointed
+to sell anything,
+
+but they did it because
+
+it was essential to do that
+and get you something.
+
+Do you have a case?
+
+[NOISE]
+
+MALE_1: Katurian and Hastie.
+
+Richard Austen-Baker:
+Katurian and Hastie.
+
+Sorry, I thought you give
+me the name of a very
+
+long so and so
+shipping corporation.
+
+Katurian and Hastie,
+
+the shipping of the corn.
+
+There the master of the ship
+on which the corn is being
+
+carried sees that it's
+
+heating up and will be
+ruined soon enough,
+
+so sells it on behalf of
+
+the cargo owner who never gave
+any authority to do that,
+
+but is doing it from necessity.
+
+In a similar way,
+
+mostly agency of
+necessity tends to
+
+apply to ships masters.
+
+Similarly, a ship's master
+can contract on behalf of
+
+the owner of the ship for
+urgent repairs and so on.
+
+Now, generally, it's not
+
+necessary simply
+because of these.
+
+Not to mention ships radios
+and satellites and so on,
+
+because you can't claim
+
+to act as an agency
+of necessity if
+
+you could contact the principal,
+
+the owner of the
+ship or the cargo.
+
+But you can imagine
+there could well
+
+be situations where
+communication isn't possible,
+
+and there can be situations
+outside the shipping world.
+
+I might, for instance,
+
+break down in the
+middle of the night,
+
+while driving a hire car
+from the university,
+
+and I get someone
+out to fix the tire.
+
+I have a puncture,
+get them to fix it,
+
+and claim the money back
+and I'll be acting as
+
+an agent of necessity
+because I can't
+
+really contact the
+university to get
+
+in contact with the
+hire company and so on.
+
+That's agency of necessity.
+
+Now, under the general heading
+of creation by agreement,
+
+this requires no
+special formality.
+
+Unlike, say,
+
+a property transaction for
+real property where we do
+
+need a document in writing and
+
+often a deed or
+
+a contract of guarantee
+which has to be in writings,
+
+agency is just like any
+other ordinary contract,
+
+no special formality required.
+
+None of you will recognise
+these characters, will you?
+
+No. It's from the TV
+series Rising Damp.
+
+Here's a rather
+creepy slum landlord.
+
+He lived on the premises,
+
+and he was always
+sucking up to Ms. Jones,
+
+who was the most
+attractive of his tenants.
+
+It would just creep
+you out completely
+
+if you watched it these days.
+
+Now, express actual authority
+
+is the authority that has been
+
+expressly given exactly defined.
+
+I tell you, you can do this,
+
+this and this on my behalf.
+
+That's an express
+actual authority.
+
+Look what I did with
+the slide. You see?
+
+It's an express train or
+express actual authority.
+
+Implied actual authority is
+
+the stuff that usually
+goes with the job.
+
+You might have express
+authority to do something,
+
+but at the same time,
+
+have wider implied authority.
+
+The case of Waugh and H.B.
+
+Clifford & Sons Limited,
+
+it was to do with the sale
+of 30-year old Sammy,
+
+in need of considerable work.
+
+The question was, did
+the solicitors, H.B.
+
+Clifford & Sons, did they have
+
+authority to act on
+the owner's behalf?
+
+A dispute arose and they
+settled it, you see.
+
+Did they have
+authority to settle?
+
+Now, a settlement of litigation,
+
+the agreement to
+compromise and say,
+
+all right, we'll drop the
+case if you pay us this much.
+
+The other says,
+eventually, he says, okay.
+
+That is in itself a
+binding contract.
+
+You have to be able to
+
+make that contract to
+make a settlement.
+
+A minor or someone
+
+who is for other
+reasons, for instance,
+
+mental capacity, alcoholism,
+
+insanity and so on can't
+make a valid contract,
+
+people can act on
+their behalf and bind
+
+them into a contract that's
+in their own interests.
+
+Now, your solicitor can act on
+
+your behalf in
+making a settlement.
+
+They're generally the ones
+who are going to do it.
+
+Of course, they'll generally
+refer straight back to you.
+
+But you might have said to them,
+
+look, within the
+following parameters,
+
+get this settled on the
+best terms you can,
+
+but not paying more
+than 100 grand.
+
+Then they can. They can do that.
+
+This is what was held here,
+
+that a solicitor normally
+has the authority.
+
+It's implicit in their
+appointment to conduct
+
+litigation that they
+had the authority to
+
+make deals with the other side,
+
+including settling the case.
+
+That's a good example
+
+and the only example
+you really need of
+
+implied actual authority.
+Usual authority.
+
+Actually, I gave you the example
+
+of the bartender, didn't I?
+
+Now, Watteau and Fenwick,
+
+this is a good
+illustration actually
+
+because this wasn't about the
+customer and the bartender.
+
+Notice how in spite of
+
+being ancient and
+Gen X and all that,
+
+I'm avoiding saying Barman.
+
+Chalk that up to my credit.
+
+But actually, between
+the Pub Manager and
+
+this character is the name
+
+of the TV character
+is the Pub Manager.
+
+The Pub Manager enters into
+
+a contract to buy cigars
+to sell in the pub.
+
+Obviously look at the date.
+
+I remember when pubs
+were smoke filled.
+
+He bought cigars, but he
+had been expressly told
+
+by his employer that he
+must not buy cigars.
+
+But sometimes with
+some employees,
+
+however much you
+tell them something,
+
+they managed not to
+be able to do that.
+
+There are just some people
+like there's a saying,
+
+I believe in the rock
+and pop industry.
+
+What's the difference between
+
+a drummer and a drum machine?
+
+With a drum machine
+you only have
+
+to punch the rhythm in once.
+
+[LAUGHTER]
+
+The Pub Manager here,
+
+pub landlord, he
+goes and buys guys.
+
+He's acting in fact
+
+flat contrary to his
+express instructions.
+
+Now, when the bill isn't paid,
+
+the firm supplying the cigars
+sues the owner of the pub.
+
+The owner of the pub says, well,
+
+I expressly told him
+he can't buy cigars.
+
+I'm having nothing
+to do with this.
+
+The court said, not so much.
+
+You appointed him landlord.
+
+You put him in there.
+
+Normally, the whole world,
+
+a landlord would have
+
+the power to buy
+cigars for the pub.
+
+If you didn't want
+them to have that,
+
+you need to make it
+
+clear to everybody
+they might deal with.
+
+Which is quite difficult.
+You'd have to take out
+
+an advert in the
+paper, essentially.
+
+Actually, I'll move on to when
+
+people used to do this
+from time to time.
+
+They said, no, if it's the
+usual thing that they'd have,
+
+it's a usual power
+for them to have,
+
+then they've got that
+and they can bind you.
+
+Be careful who you appoint is
+a lesson to draw from that.
+
+Another example,
+
+actually, I suppose
+it no longer applies.
+
+Just one of those
+things that no one's
+
+ever said it isn't so anymore,
+
+but you just think, I reckon
+that's a dead letter by now.
+
+A wife has the authority to
+pledge her husband's credit.
+
+That is the common law position.
+
+Now, only for necessaries,
+a roasting joint,
+
+VIM, yellow gloves,
+
+not for fur coats
+and Rolls-Royces.
+
+But she has, in
+theory, the right.
+
+But what's necessary depends
+on your social standing.
+
+A suitably grand a duchess
+might even be able to say,
+
+well, in our world a
+Rolls-Royce isn't necessary.
+
+Sometimes husbands would take
+
+out adverts in the local paper,
+
+which then is what
+everyone relied on
+
+in the days before
+Facebook sites and so on.
+
+Take a saying, to all tradesmen,
+
+Mrs. Sproggins has no
+right to pledge my credit.
+
+This actually used to happen
+on quite a regular basis.
+
+That's what you'd need
+to do in this case.
+
+Now we've got a
+few minutes left,
+
+so we'll move on
+to ratification.
+
+Now ratification, I
+described earlier,
+
+you know what it is.
+
+Now, it's complex.
+
+Firstly, you need a named
+or identifiable principal.
+
+We imagine that you are going
+
+off and telling people,
+
+I act for Austen-Baker Corp.
+
+I'll be interested in buying
+
+these computers on their behalf.
+
+Or I act for the biggest
+computer buyer in Lancaster,
+
+and everyone knows that
+that's Austin Baker.
+
+They could identify it that way.
+
+But you can't just go
+around making a deal,
+
+apparently, on your own
+behalf and then saying,
+
+oh, actually it was for them.
+
+Even if they want to
+ratify, they can't.
+
+It has to be made clear to
+
+the other party at
+the time that you're
+
+acting for a
+particular principle
+
+and that you disclose
+who that is.
+
+The principle needs
+to exist and be
+
+ascertainable when
+the contract is made.
+
+Now, that might seem obvious.
+
+But think about in
+
+the process of setting
+up a limited company,
+
+and you want the company
+to be liable for
+
+the lawyers' and
+accountants' fees
+
+involved in setting up.
+
+The company cannot ratify
+that when it comes into
+
+existence because it didn't
+
+exist at the time
+you made the deal.
+
+Other arrangements have to be
+
+made around company promoters,
+
+as they're called, in setting up
+
+a company called a promoter.
+
+The principal must have had
+
+the capacity at the time
+the contract was made.
+
+That contractual
+capacity over 18,
+
+not insane, though if you
+are suffering from insanity,
+
+you have a mental illness.
+
+But at the time the
+contract was made,
+
+you were going through
+a lucid period;
+
+mental illness may come and go,
+
+then that can be valid.
+
+If I'm drunk, I can't
+make a valid contract.
+
+But the fact that I'm an
+habitual alcoholic doesn't
+
+matter if I happened
+to be sober at
+
+the time the contract
+was made by the agent.
+
+It's all about at the time,
+
+they need the capacity at the
+time the contract is made.
+
+Ratification can't take place
+months and months later.
+
+It's got to be done at
+the earliest opportunity.
+
+The first time the
+unexpected principal
+
+is told by the agent,
+
+they didn't know about.
+
+They must ratify then;
+
+it has to be in a
+timely fashion.
+
+You can't ratify a contract
+
+that's nullity, anyway,
+that's obvious.
+
+We've looked at how
+contracts are null and
+
+void in last year's module.
+
+When you're ratifying, the
+party ratifying to be bound to
+
+the contract must be aware of
+
+all the relevant facts
+before ratifying.
+
+If they ratify and there
+was something rather
+
+important they ought to
+know that they didn't,
+
+then they can disclaim
+liability under the contract.
+
+The ratification
+can be by words,
+
+whether written or oral,
+
+or it can be through conduct.
+
+In the same way, we
+saw last year that you
+
+can enter into
+contracts by conduct.
+
+It can be the conduct that acts
+
+as the final communication.
+
+All those cases
+that are alleged to
+
+be examples of acceptance
+
+by silence are really actually
+
+all explicable as
+acceptance by conduct.
+
+But that doesn't need
+
+to be communicated to
+the other principal.
+
+It is sufficient if
+you say to the agent,
+
+yes, I approve what you've done.
+
+I'll adopt that.
+
+Or conduct yourself.
+
+It doesn't have to this
+express communication
+
+to the other.
+
+I've called them
+third party here.
+
+They're third party
+in relation to,
+
+we've got Principal
+1 and the agent.
+
+Principal 2 is third party
+in relation to those two.
+
+Though when we analyse
+the final contract,
+
+it's the agent who's
+the third party
+
+in normal contract language.
+
+It's a bit confusing
+around that.
+
+You have to just try
+
+and sort it out in
+your head each time.
+
+That steps out, doesn't it,
+
+from where you'd normally
+
+expect things to be
+in contract law,
+
+it's got to be
+communicate, you've
+
+got to communicate acceptance,
+
+and that communication must
+be to the other party.
+
+You've got to communicate
+your withdrawal and offer.
+
+It doesn't matter who does
+the communicating then,
+
+but the other party
+does need to know.
+
+Here we've got this
+strange inversion.
+
+The reason is, of course,
+
+that the other party
+thought all along
+
+that you were behind all this.
+
+There's no real reason for that.
+
+They've already assumed that
+you're fine about this.
+
+All we've got time for today,
+
+and we'll just carry on next
+Tuesday. Thank you, guys.
+
+[BACKGROUND]
+

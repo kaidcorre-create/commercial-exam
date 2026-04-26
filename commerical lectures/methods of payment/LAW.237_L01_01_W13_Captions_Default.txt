@@ -1,0 +1,2294 @@
+Zora Kizilyurek Jones: What
+about now? That's better.
+
+Welcome back to your
+commercial law lecture.
+
+My name is Zora Kizilyurek and
+
+I will be delivering
+your lectures
+
+over the next six weeks.
+
+We're going to look at
+methods of payment,
+
+introduction to banking and
+insolvency law together.
+
+I guess most of you may
+
+know me from your
+workshops already.
+
+But if you got any questions,
+
+there's my email address and
+
+I'll be here a few minutes
+after the lecture,
+
+so you can come and ask as well.
+
+Any questions before I start?
+
+Good. Now, methods of
+
+payment is a topic
+that we can relate to
+
+in some ways because payment
+
+is part of our everyday life,
+
+and we pay by cash
+or by debit card,
+
+maybe credit card,
+
+so we are familiar with
+how it works in some ways.
+
+Is this okay, really?
+
+As part of this topic,
+
+we're also going to cover
+
+some payment methods such
+as documentary payments,
+
+bill of exchange, checks,
+
+and so forth that may not
+be familiar to us and there
+
+are so many rules
+that governs these
+
+and they have different
+characteristics and so forth.
+
+As I start introducing
+you to this topic,
+
+it is absolutely normal
+
+that you will come
+across to words that
+
+you've not heard and initially
+
+it may be a little
+bit complicated.
+
+Bear with me and, of course,
+
+I also trust you
+will do your reading
+
+and we will get there.
+
+I will start this lecture.
+
+I will take my time and we'll
+
+pause where we get
+
+to and then carry on
+in the next lecture.
+
+Learning outcomes for today,
+
+we are going to start by
+talking why payment matters.
+
+As far as commercial
+law is concerned,
+
+payment is not just
+
+change of money from
+one hand to the other.
+
+It's a recognised
+legal mechanism
+
+that is governed by
+rules, legislation,
+
+and so forth, and parties
+
+need to follow the rules
+in making payment.
+
+We are also going to look at
+
+key terminology, so the rules,
+
+different characteristics of
+different payment methods,
+
+and so forth, and we're going
+
+to look at the legal nature
+of payment obligation.
+
+If you go to Costa
+Coffee and hand
+
+3.5 pounds and get
+yourself coffee,
+
+your payment obligation will be
+
+discharged the moment you
+hand that cash or say,
+
+if you're paying by card,
+
+the moment your card is debited,
+
+your bank debits 3.5
+pounds from your account.
+
+But sometimes, especially with
+different payment methods,
+
+it's not as straightforward,
+
+especially when we use
+documentary payment methods,
+
+there are rules that
+every party needs
+
+to follow to discharge
+their payment obligations.
+
+We're going to explore what
+that is in more detail.
+
+Also, we're going to look at
+
+the parties involved
+in a payment.
+
+Again, if you go to a coffee
+shop, you hand the money,
+
+you get the coffee,
+there are two parties
+
+to this transaction
+straightforward.
+
+But there are other
+circumstances where
+
+third parties or
+multiple parties
+
+are involved in that
+payment relationship.
+
+For example, if you're
+paying by debit card,
+
+you're essentially
+instructing your bank to pay
+
+the coffee shops
+bank and there you
+
+have multiple parties involved
+
+in your payment transaction.
+
+Or if you're paying by check,
+
+which is one of the
+documentary payment methods,
+
+which is just this
+piece of paper,
+
+that the drawer, so the person
+
+filling in that check
+fills in the details,
+
+so they add a signature,
+
+a date, and an amount, say,
+
+100 pounds and that
+drawer essentially orders
+
+their bank which is called
+
+drawee to make a payment on
+their behalf to a payee.
+
+I fill in this document,
+
+this check, I hand it to Tai,
+
+and then Tai takes it to
+my bank and Tai says,
+
+this is a check that I hold.
+
+Can you make a payment?
+
+My bank will make that payment
+and follow that order,
+
+if it's validly
+presented and if I say
+
+I have 100 pounds
+in my bank account.
+
+If I don't have any money,
+
+if I just have five pounds,
+
+then the bank will
+will dishonour it.
+
+So how and when payment
+obligations are
+
+discharged will depend on
+
+the type of payment
+method we use.
+
+For a cash payment
+of cup of coffee,
+
+it will be straightforward by
+
+handing your payment obligations
+discharge immediately,
+
+whereas for a check payment,
+
+we need the payee to
+take it to the bank,
+
+to present it to the bank,
+
+and the bank giving that money,
+
+handing that money
+to that payee.
+
+It matters what
+payment method we
+
+use when it comes to discharging
+our payment obligations.
+
+These are the concepts
+we're going to explore.
+
+Why does payment matter
+in commercial law?
+
+This is a simple question
+with a simple answer.
+
+Without payment, commercial
+activity will collapse.
+
+Payment is lifeblood of
+commercial activity.
+
+Most businesses will not have
+that pile of cash that they
+
+can use that is laying
+
+around and then that they
+can use when they need to.
+
+Businesses rely on payment to
+
+discharge their own
+payment obligations.
+
+When a business person is
+paid by their customer,
+
+then they can use that
+money to pay their stuff,
+
+their rent, taxes, and so forth.
+
+If that payment does not
+work smoothly and, say,
+
+that business person
+does not get paid,
+
+then they won't be able to
+meet their own obligations.
+
+Payment does not
+function in a vacuum.
+
+It almost has a domino effect
+
+that when one party doesn't pay,
+
+it impacts other
+parties as well.
+
+Especially in
+circumstances where
+
+businesses first provide
+the goods or services,
+
+they are exposed
+to a risk because
+
+they provided the goods and
+they provided the services,
+
+and now they need to be paid.
+
+If they are not paid,
+
+they won't be able to
+meet their obligations,
+
+which may expose
+them to insolvency,
+
+possibly, further legal action.
+
+They may be sued. I've
+provided the goods,
+
+I'm waiting for that 10,000
+
+pounds in payment
+for that big order.
+
+If I don't receive that,
+
+maybe my supplier will
+
+sue me for not paying them
+the money I own and so forth.
+
+It may expose parties to
+
+legal action if payment
+does not work smoothly.
+
+Another aspect is payment
+
+is not only important
+for the payee,
+
+for the person who is
+expecting to be paid.
+
+It's also important for
+the payer or debtor,
+
+in other words, the person who
+
+is under an obligation
+to make the payment.
+
+Why? Because if
+they successfully
+
+discharge their
+payment obligations,
+
+then they can protect
+
+themselves from
+further legal action,
+
+so they will not be
+sued for nonpayment.
+
+Enforcement officers
+will not turn up in
+
+their factory to
+take their machinery
+
+away that they used to
+produce goods and so forth.
+
+That's why payment matters.
+
+It's important for so
+many different parties
+
+and it needs to
+function smoothly.
+
+That's why commercial law takes
+payment really seriously.
+
+That's why we've got legislation
+
+that governs it and
+parties are clearly
+
+expected to do certain things
+
+to meet their
+payment obligations.
+
+We said payment matters,
+
+but why does a form
+of payment matter?
+
+Why does it matter if I pay
+my coffee by cash or by card?
+
+Maybe again for a cup of coffee,
+
+it won't make a difference
+
+whether you pay by card or cash.
+
+But the type of payment
+method we use will have
+
+an impact on discharging
+our payments obligations.
+
+Going back to our
+coffee example,
+
+if I use cash to meet
+my payment obligation,
+
+the moment I hand
+that money over,
+
+I'm discharge of my
+payment obligation.
+
+But going back to
+our check example,
+
+I will not be immediately
+
+discharge of my
+payment obligation.
+
+Further steps needs to be taken,
+
+such as the payee presenting
+
+that check to the bank
+and along the way,
+
+things can go wrong and
+
+that may expose me
+to legal action.
+
+The type of payment
+method we use will
+
+impact how or whether
+
+we can discharge our
+payment obligations.
+
+Payment methods
+also matter when it
+
+comes to transferability and
+circulation in commerce.
+
+What do I mean by that?
+
+Certain methods of payment,
+
+documentary payments,
+for example,
+
+bill of exchange, open checks,
+
+BER checks, promissory notes,
+
+and so forth, are transferable.
+
+Now, in commerce,
+
+business parties
+need that liquidity.
+
+Not every party will have
+spare cash at all times,
+
+or it may not be ideal for
+business people to have cash.
+
+Sometimes using documentary
+payments that are
+
+transferable will be
+more useful for them.
+
+For example, rather than
+carrying 10,000 pounds
+
+and handing that 10,000
+pounds to my creditor,
+
+to the person that
+I owe money to,
+
+I can hand them a check that
+is valued for 10,000 pounds.
+
+That is more practical
+in that sense.
+
+Certain type of payment
+methods are transferable.
+
+The person I handed that 10,000
+
+pounds worth of
+check can then use
+
+that check to pay their
+supplier and that supplier
+
+can pass that check on to
+another supplier and so forth.
+
+So some payment methods
+
+have this
+transferability ability,
+
+which makes it easier in
+
+commercial life for
+the parties involved.
+
+Whereas other methods
+are not transferable,
+
+such as bank transfer,
+
+even though the name is
+confusing because say you make
+
+a bank transfer to
+
+one person's name and that
+money goes to their account.
+
+It's not like, say,
+
+check where you can
+pass it on and on.
+
+So the type of
+payment method we use
+
+will matter in terms
+of transferability.
+
+Title and risk allocation.
+
+That's another thing
+that the type of
+
+payment method we use will
+
+have an impact on.
+What do I mean?
+
+Going back to our cash example.
+
+If I owe you 100 pounds and
+I hand you 250 pound notes,
+
+I pass that title of that
+money to you immediately.
+
+I hand you that hundred pounds.
+
+You have that hundred pounds,
+
+my obligation for payment is
+
+discharged and now you
+
+are the owner of
+that hundred pounds.
+
+I pass that title of that
+money from myself to you.
+
+But for check, again,
+
+giving the same example,
+
+the moment I pass the
+check to you, of course,
+
+you acquire all the
+rights that comes with
+
+that piece of document, i.e.
+
+right to demand payment
+
+or right to sue me
+if I don't pay you.
+
+But you don't acquire a title
+to that hundred pounds.
+
+You need to bring that
+check to the bank,
+
+get that hundred
+pounds from the bank
+
+and that's when you have
+a title over that money.
+
+The type of payment
+methods we use will
+
+also impact the
+transfer of title.
+
+Because I'm giving
+really basic examples,
+
+it may not sound as meaningful,
+
+but in real life, it makes
+
+a huge difference to commercial
+parties, these things.
+
+We will look at examples
+in more detail.
+
+What do you mean by
+risk allocation?
+
+Basically, the risk of
+
+the debtor to be exposed
+to legal action.
+
+Again, once I hand that
+100 pounds to you,
+
+I'm discharged of my
+obligation to pay,
+
+and I'm no longer exposed to
+
+a risk of being sued
+for non payment.
+
+Whereas if I pay by check,
+
+if I pay by bill of laden,
+
+a promissory note, or some
+other payment methods,
+
+a card, credit card,
+
+and so forth, then I
+will not be discharged
+
+of my payment obligation
+
+until that payment
+is fully completed.
+
+If that check gets lost,
+
+if that check bounces back,
+
+if that check is dishonoured,
+
+I am still exposed to risk of
+being sued by my creditor.
+
+The type of payment method
+we use also impacts
+
+the transfer of title and
+
+our risk exposure
+to legal action.
+
+That's why forms
+of payment matter.
+
+Let's start with our
+first terminology,
+
+documentary payment.
+
+Documentary payments
+are recognised
+
+as legally enforceable
+payment mechanisms.
+
+Meaning, when a party makes
+
+a payment with a documentary
+payment method, i.e.
+
+bill of exchange or check,
+
+the law recognises that as
+
+a legally valid form of payment,
+
+and you can discharge your
+payment obligation fully or
+
+partially by making a payment
+through these documents.
+
+What do I mean? I want
+
+to give another very
+simple example,
+
+but I don't want you
+to confuse it because
+
+Mark's & Spencer's voucher is
+not a documentary payment,
+
+but just so that hopefully
+
+it makes it a little bit easier.
+
+Say, if I have a 50 pounds
+Mark's & Spencer's voucher
+
+and I pass that
+voucher to my friend
+
+and my friend passes it to
+
+their friend for their birthday,
+
+that piece of document
+has some value
+
+in the sense that Marks
+& Spencer's recognises
+
+that as a form of payment.
+
+I don't need to bring
+
+that 50 pounds not to Marks
+& Spencer's or my friend.
+
+That document, that
+little card there has
+
+the ability to be recognised as
+
+a payment method by
+Marks & Spencer.
+
+That's just a similar logic.
+
+Now, let's explain
+
+what partial and full
+discharge means as well.
+
+If I owe you 2,000 pounds
+
+and I use a documentary
+payment method,
+
+a bill of exchange
+promissory note or
+
+a check to discharge
+that obligation,
+
+I may either write
+you a check for
+
+500 pounds and I
+
+partially discharge my
+payment obligation,
+
+so I still owe you 1,500,
+
+or I can write you one for
+
+2,000 pounds and
+discharge it fully.
+
+You can use documentary
+payments to discharge
+
+your payment obligation
+fully or in part.
+
+We will come to
+negotiable instruments,
+
+I will just pause for that,
+
+but I want to take a moment
+to explain this to you.
+
+This is a check, and
+this is a cross check.
+
+As you can see the bank name,
+
+the date, the amount,
+
+the signature, and so forth.
+
+For every type of
+documentary payment,
+
+Bill of Exchange Act sets out
+
+all the steps that
+are required for
+
+that documentary payment
+to be drafted to
+
+be enforceable and we're
+
+going to look at
+that in more detail.
+
+One of those documents
+is, as I said,
+
+a check and the act will
+set out what needs to be
+
+done for this paper
+to be valid as
+
+well as the other
+documentary payments.
+
+But for this one,
+
+you can see it says pay I
+think Kobayashi Hillary.
+
+That's the name of the person.
+
+The driver, I'm writing
+this check and saying,
+
+to my bank, pay this person.
+
+Then you add the amount,
+nine pounds only.
+
+You do that because you
+don't want someone to say,
+
+there's a little gap
+there so they can
+
+add 10 and make it 19.
+
+You want to do these
+lines to prevent
+
+someone else from
+taking that check and
+
+filling it with wrong
+information and so forth.
+
+You also write it here just with
+
+a digit so that just
+to prevent forgery,
+
+someone filling in with a
+higher amount and so forth.
+
+If you cross it like
+this, two parallel lines,
+
+that means this becomes a
+cross check and it can only be
+
+transferred to this person
+
+and this person has to
+take it to the bank.
+
+By crossing the check,
+
+you prevent this check from
+
+being an instrument that can be
+
+passed on and on and on and on.
+
+There are circumstances
+where a party will
+
+prefer that check payment to
+
+be made to one specific person,
+
+but it can also be
+a bearer check.
+
+You just write there
+to the bearer.
+
+Whoever presents that
+check, they can be paid.
+
+You can use these instruments
+in different ways.
+
+As I'm about to go into
+one of my next slides,
+
+it will make sense while
+I'm explaining this to you.
+
+But basically, a payment
+instrument can be
+
+transferable and you can
+
+only transfer to
+this next person,
+
+or it can be negotiable.
+
+You can pass it on and on
+to new parties and support
+
+that liquidity so that
+
+each supplier can pay the
+next with this check.
+
+But doing this means it
+
+becomes a cross check and it
+
+cannot be handed
+to the new person.
+
+It has to go to the
+bank and the bank
+
+will hand the money
+to this person.
+
+This is an example of
+a documentary payment.
+
+It's not cash, it's
+not a debit card,
+
+it's a form of document that
+
+the law recognises
+as a payment method.
+
+When you hand this, you
+paid someone nine pounds.
+
+There are next terminology
+
+that is really important
+to understand.
+
+One of the characteristics
+of payment methods
+
+are they can be transferable
+or negotiable or neither.
+
+Documentary payments can be
+transferable or negotiable.
+
+What does that mean?
+Let's read first.
+
+Transferability is an ability to
+
+pass a payment instrument
+from one person to another.
+
+The recipient, the transferee,
+
+the next person who acquires
+that payment instrument,
+
+acquires the same rights
+as the transferer,
+
+as the previous holder.
+
+Negotiability, on
+the other hand,
+
+is a higher form of
+transferability,
+
+where the person receiving
+
+the instrument may gain
+
+a better title than
+the transferer,
+
+meaning the prior defects
+
+in ownership do not
+follow the instrument.
+
+What does that mean?
+We're going to unpack it?
+
+First, both of these
+characteristics,
+
+both of these concepts refer to
+
+the idea of passing
+
+that documentary payment
+to the next person.
+
+Both of them involves
+passing the check,
+
+the bill of exchange
+to the next person.
+
+But the difference lies in,
+
+I will give an example.
+
+The difference lies
+with transferability,
+
+you can pass the document,
+
+but if that document
+is defective,
+
+then the document
+you pass will be
+
+defective for the
+person that you
+
+passed it for the next person.
+
+Whereas, if it's a
+negotiable instrument,
+
+when it passes to
+the next person,
+
+the next person may acquire
+it free of defects.
+
+What do I mean?
+Think Ali owes 1,000
+
+pounds to Becky and Ali
+draughts a payment instrument.
+
+It doesn't matter if it's a
+bill of exchange or check.
+
+Ali draws a payment
+instrument for
+
+that 1,000 pounds and
+hands it to Becky.
+
+Becky also owes 1,000 pounds,
+
+Becky then hands that
+payment instrument to Chloe.
+
+If that payment instrument
+is transferable,
+
+then Chloe will acquire
+
+that payment instrument in
+a defective way as well.
+
+Another simplified example.
+
+Imagine I steal a bike and
+I pass the bike to Tai.
+
+My ownership over that bike,
+
+my title over that bike is
+
+defective because I've not
+
+acquired it legally, I stole it.
+
+I have a defective title.
+
+If I pass it to Tai,
+
+then Tai will also have
+a defective title.
+
+If my payment instrument
+is merely transferable,
+
+whatever title I have,
+
+if I have a defective title
+over that payment instrument,
+
+when I pass it on to the
+next person to Chloe,
+
+Chloe will also acquire
+
+that payment instrument
+with a defective title.
+
+Defective title can
+occur in many ways,
+
+but say for that check,
+
+we've looked at earlier.
+
+Say someone sneaked into
+Ali's office and added
+
+19 there and then put
+another one before nine.
+
+Now that became a defective
+check because Ali
+
+only filled it in for nine
+pounds, not 19 pounds.
+
+That's what we mean by
+defective payment document.
+
+There is something
+wrong with it.
+
+There is a breach,
+it's been filled
+
+wrongly and whatever it is.
+
+For transferable documents,
+
+the payment method passes on
+
+to Chloe with the same defect,
+
+meaning when Chloe
+presents it to Ali or
+
+Ali's bank or Ali's
+friend for a payment,
+
+Ali can say, there
+is a defect here,
+
+I'm refusing to pay.
+
+But if that payment
+instrument is negotiable,
+
+Chloe may acquire that
+payment instrument
+
+free of its prior defects.
+
+Ali can no longer rely on
+
+that defect to
+refuse paying Chloe.
+
+What do we mean by may
+acquire free of defect?
+
+If Chloe is acquiring
+that document
+
+in good faith and without
+notice for value.
+
+Chloe does not know that
+that bike was stolen.
+
+Chloe is not aware of
+any of these defects in
+
+that previous document and
+provides a value for it.
+
+Say provides goods
+and acquires that,
+
+then she will acquire
+
+that payment method free of
+
+any defects if that
+document is negotiable.
+
+You may remember in commercial,
+
+we looked at parties sometimes
+
+instantly purchasing
+something and
+
+acquiring free of defects.
+
+It's a similar logic.
+
+Was this clear? Shall I just
+
+spend another minute
+to explain it?
+
+Was this okay? It's really
+
+important that we
+understand this.
+
+You already know Nemo Dat is
+
+a Latin term for saying you
+
+can't give what you don't have.
+
+That's our general rule.
+
+If as we said,
+
+with the bike, you don't have
+
+a good title over that bike,
+
+you can't pass that
+bike to someone else,
+
+with a good title.
+
+But negotiable payment
+instruments are
+
+an exception to that Nemo Dat
+
+for the reasons that
+we've just explained.
+
+The third party who is innocent,
+
+who does not have a notice of
+
+any defect of that
+document and who purchases
+
+it by providing value will
+become a holder in due course.
+
+They will be an innocent
+purchaser and they will be able
+
+to enforce that document
+free of any defects.
+
+Now, if the document is
+merely transferable,
+
+such as the cross check
+that I've just shown you,
+
+then the person who receives it,
+
+so the name person there
+
+will acquire that
+check with defects if
+
+it has a defect because
+
+that cross check is
+merely transferable.
+
+It's not a negotiable
+instrument.
+
+Think about it as one
+of them is tap water,
+
+transferability is tap water,
+
+negotiability is a
+filtered tap water.
+
+It clears it from its
+previous defects.
+
+Another terminology
+documentary intangible.
+
+This is where that
+tangible property
+
+carries significant
+intangible property rights.
+
+What do we mean?
+You have a piece
+
+of document that is a check
+or a bill of exchange.
+
+That's a tangible
+document. You can hold it.
+
+But what makes that document
+special is the fact that it
+
+incorporates intangible
+property rights.
+
+My intangible property
+right over a check is
+
+the fact that I can use that
+check to demand payment.
+
+I can use that check to
+
+take legal action
+if I'm not paid.
+
+Intangible property rights are
+
+those that you cannot touch.
+
+You can touch a
+bike that you own,
+
+but you cannot touch a debt
+and money that you owed.
+
+That's just more of
+
+an intangible property right
+
+you have that you can enforce.
+
+Documentary intangibles
+are those piece of
+
+tangible documents that
+
+incorporate intangible
+property rights.
+
+Paper is an elder example.
+
+If I hold a 50 pounds note,
+
+that piece of paper
+doesn't have much value.
+
+As a paper, it doesn't
+mean anything.
+
+But it's a documentary
+intangible because that piece of
+
+physical paper
+incorporates a right
+
+for an intangible property,
+
+i.e., it has a value of
+50 pounds that I can
+
+use that to spend 50 pounds,
+
+buy 50 pounds worth of
+coffee and so forth.
+
+Piece of documents that on
+
+their face value don't
+have much value,
+
+but they incorporate
+intangible property rights.
+
+Thing in action or
+chose in action,
+
+it means exactly the same thing.
+
+These are types of rights
+we have that we can
+
+use to enforce our
+intangible property rights.
+
+What do I mean?
+
+Say, think about not thing
+in action or chosen action.
+
+Think about thing in possession.
+
+Thing in possession is
+a different type of
+
+right that applies to
+tangible property.
+
+If I own a bank,
+
+that's a tangible
+property I have,
+
+I can use it.
+
+If someone takes my back,
+
+I can take my bike
+back from them.
+
+That's a tangible property,
+
+and I have a thing
+in possession,
+
+a right to possess that bike.
+
+Whereas in terms of, say, debts,
+
+shares, contractual claims,
+
+I don't have a
+physical property.
+
+All I have is a chose in
+action or thing in action,
+
+a right to enforce that
+intangible property,
+
+and that right is
+a right to sue.
+
+If someone owes me a debt,
+
+I have a thing in action or
+chose in action against them,
+
+which is I have a
+right to sue them,
+
+to enforce my intangible
+property right,
+
+i.e., to force them to
+pay my debt back to me.
+
+If you owe me 3,000
+pounds as a creditor,
+
+my debt is chose in action
+
+because I cannot physically
+take it from you.
+
+I must enforce that
+intangible property
+
+right through legal action.
+
+Any questions, guys?
+
+I know it's a little bit
+tense one, but all good?
+
+Now, another terminology we need
+
+to learn is this proprietary
+rights and personal rights,
+
+so right in rem,
+right in personam.
+
+Sometimes, for certain
+things such as money,
+
+negotiable instruments,
+goods and shares,
+
+our rights are attached to
+that thing itself and we can
+
+see anyone in the world to
+
+enforce our rights
+over that thing.
+
+For example, if I have
+
+100 pounds in my purse
+
+and someone steals
+that hundred pounds,
+
+they take it without
+my permission;
+
+whoever that person is,
+
+it can be anyone in the world,
+
+I can take legal
+action and I can sue
+
+them to enforce my rights
+over that hundred pounds.
+
+That hundred pounds
+belongs to me,
+
+and I can sue anyone who
+interferes with that right.
+
+But for other things,
+
+such as a debt,
+
+my right is a personal
+and a contractual one.
+
+Meaning, if I lend you
+
+100 pounds and you
+did not pay me back,
+
+I cannot enforce that
+right against the world.
+
+I cannot sue whoever I please.
+
+I can only sue the person that I
+
+lent that money to and
+I can only enforce
+
+my right against
+that person because
+
+my rights are only
+
+enforceable against
+this specific person.
+
+A debt is an example for that.
+
+When it comes to a debt,
+
+you've got rights in personam;
+
+you can take legal action
+against that specific person.
+
+But if you've got
+a right in rem,
+
+and we have rights in rem
+for ownership of money,
+
+negotiable
+instruments, or goods,
+
+so whoever steals your car,
+
+you can sue them and so forth.
+
+That's just what the difference
+is between these two.
+
+You need to know that for
+certain things, such as money,
+
+negotiable instruments,
+goods and shares,
+
+you can sue anyone
+that interferes with
+
+them if they steal
+it and so forth.
+
+But for other things,
+
+you can only sue a
+specific person.
+
+Fungibility is where
+you can satisfy
+
+your obligation by
+providing a substitute that
+
+is materially identical
+in kind and value.
+
+Fungible goods are money,
+
+petrol, rice, things like that,
+
+which means you can
+
+pay your obligation
+or you can satisfy
+
+your obligation by
+returning something
+
+sufficiently similar
+in kind and value,
+
+but it does not need to
+be the identical thing.
+
+That's what we mean by
+fungibility of goods.
+
+If I lend you 100 pounds,
+
+you can pay me back in
+250 pounds or 520 pounds.
+
+If I hand you that 100 pounds,
+
+you don't need to
+
+hand me back the very
+same 100 pound back.
+
+You can use that 100
+pounds, you can spend it,
+
+but you just have to
+return me something
+
+sufficiently similar,
+if not identical.
+
+Now, at the beginning, we said,
+
+sometimes there are multiple
+parties to a payment.
+
+The parties that are
+usually involved in
+
+a payment is payer or debtor.
+
+It means the same thing.
+
+The person who is under
+
+an obligation to
+make that payment.
+
+The payee, which is
+
+the person entitled to
+receive that payment,
+
+or we also call it a creditor.
+
+So payer and payee or
+debtor or creditor.
+
+We also have the third
+party who is a drawee.
+
+This is the person or
+
+the bank or the company
+instructed by the drawer,
+
+by the person who is obliged
+to make the payment,
+
+to make a payment.
+
+In a check scenario,
+
+the drawee will always be a
+bank because the way checks
+
+work is you're
+instructing the bank to
+
+make that payment to the payee.
+
+But say for a bill of exchange,
+
+you can instruct your
+bank or even yourself
+
+or your friends or a company.
+
+Bill of exchange would
+involve me saying,
+
+Tai, make a payment to Chloe
+
+next month on 25th of March.
+
+I'm instructing Tai to
+
+make that person to a
+third party to Chloe.
+
+In that scenario, Tai will
+be the drawee because who is
+
+the person who has
+
+to make that payment
+
+because the drawer
+made that instruction.
+
+Are we clear with what
+each of these means?
+
+The drawer, the person
+who fills in that check,
+
+prepares that bill of
+
+exchange or promissory
+note or whatever it is.
+
+The drawee, we don't always
+have a drawee in the middle,
+
+if it's a cash payment
+directly made,
+
+but sometimes we do.
+
+This is the person who is
+instructed to make the payment,
+
+and then we have the payee,
+
+who is the person entitled
+to receive that payment.
+
+This is it with our
+terminology, more or less.
+
+Let's now talk about what
+constitutes a payment.
+
+A payment obligation can be
+
+discharged by making a payment,
+
+so by paying that money.
+
+These obligations can arise
+in many circumstances,
+
+such as sale of goods,
+
+employment contracts, loan
+agreements, and so forth.
+
+There are many circumstances
+
+where a payment obligation may
+
+arise under sale of Goods Act,
+
+Section 2, Subsection
+10, Section 28.
+
+The Act states
+
+that payment and delivery
+obligations are concurrent,
+
+meaning a party can withhold
+
+delivery until the other
+side is ready to make
+
+a payment or a party can
+
+withhold payment
+until the other side
+
+is ready to make the delivery.
+
+The act expects
+parties to be ready to
+
+complete their obligations
+of delivery and
+
+payment at the same time.
+
+If the person is not ready to
+
+deliver you the goods and
+you're not paying them,
+
+you will not be liable for not
+
+discharging your
+payments obligation.
+
+It's also important to
+distinguish payment from barter.
+
+Barter is where parties
+exchange goods.
+
+You give me your PlayStation,
+
+and I give you back my
+phone, that's a barter.
+
+We are exchanging goods.
+
+It does not involve any
+payment obligation;
+
+no money component is
+involved in there.
+
+Commercial law mainly regulates
+
+transactions that involve
+payment of money, not barters.
+
+We explain what
+constitutes a payment.
+
+Essentially, you will discharge
+
+your payment
+obligation by paying
+
+money to the creditor
+or to the payee.
+
+Who needs to make a payment?
+
+Normally, the debtor needs
+to make the payment.
+
+If I owe you the money,
+
+I must be the one making
+that payment to you.
+
+But a payment will legally be
+
+valid if it's made by
+someone with authority,
+
+say I have a company and
+I've got finance department
+
+and that person is responsible
+for making payments.
+
+A person with an authority
+can make a payment,
+
+even though they are not really
+
+specifically the person
+who owes that money.
+
+Or if an unauthorised
+person made a payment,
+
+the payer can later ratify that.
+
+What do we mean by ratification?
+
+They can essentially say,
+
+I accept that you made
+
+that payment on my
+behalf, that's fine.
+
+What happens if a party
+
+makes a payment
+without an authority,
+
+can they then reimburse
+that money from the debtor?
+
+That's what happened in Owen and
+
+Tate and we're going to
+look at that in a minute.
+
+Say, I owe money
+100 pounds to you,
+
+and then my friend
+decides to pay you
+
+that 100 pounds without my
+knowledge, my authority,
+
+and they later want
+to sue me to be
+
+reimbursed of that 100 pounds
+
+because they made that
+payment on my behalf.
+
+In the case of Owen and Tate,
+
+it was established
+that volunteering to
+
+pay will not establish a
+right to be reimbursed.
+
+If someone pays the
+other person's debt
+
+without their
+authority, consent,
+
+or ratification,
+
+then they don't have
+
+a right to recover that
+payment from that debtor.
+
+In the case of Owen and Tate,
+
+D borrowed 350 pounds
+from a bank and P
+
+volunteered to pay
+that 350 pounds
+
+to the bank without
+D's knowledge.
+
+Bank applied P's
+payment to these debts.
+
+The bank accepted the payment of
+
+the volunteer and
+cleared off these debts.
+
+The question in this
+case was whether P,
+
+as the volunteer can
+recover that amount
+
+from D and the court said, no.
+
+If you make a payment
+against consent or will,
+
+or ratification, or without
+authority for the debtor,
+
+you do not have a right
+to be reimbursed.
+
+What about acceptance?
+
+As a general rule,
+
+just because someone is
+offering to make a payment,
+
+it doesn't mean their
+legal obligation
+
+to make that payment
+will be discharged.
+
+We also need the creditor,
+
+the payee to accept
+that payment.
+
+If a payment acceptance
+
+can be communicated
+expressly or impliedly,
+
+so it could either
+
+be hand me back
+
+my 100 pounds that you owed
+me and I say, thank you.
+
+That's fine. Or it
+
+could be implied from
+the circumstances,
+
+which is what happened in
+the TSB Bank of Scotland.
+
+If let's say the payment
+
+was transferred to
+your bank account,
+
+it's now successful in your
+bank account, you can use it.
+
+Then that communicates impliedly
+
+that you've accepted payment.
+
+If the creditor has
+access to those funds,
+
+the law will treat
+that payment as being
+
+accepted even if that creditor
+do not expressly say,
+
+now I accept the payment.
+
+Until the payment is accepted,
+
+our legal obligation
+to pay will still
+
+be considered as outstanding.
+
+That payment element is
+
+crucial to discharge
+our payment obligation.
+
+Merely offering to
+pay will not be
+
+sufficient and we
+may still be sued.
+
+So not only, payment
+needs to be accepted,
+
+we also need to use certain
+methods to make that payment.
+
+If a payment method is
+specified in that contract,
+
+say Lancaster
+University specifies
+
+that payment method
+and you have to
+
+transfer the money to
+their bank account,
+
+you can just turn up to
+the reception with pile of
+
+cash and Lancaster
+University has
+
+a right to refuse that payment
+
+and you will still be
+legally obliged to
+
+make that payment or be
+exposed to risk of being sued.
+
+If no method was specified,
+
+then the creditor can
+
+accept or reject
+that payment method,
+
+but they can only reject
+
+it if it's
+unreasonable to do so.
+
+If you owe me 10,000
+pounds and you turn
+
+up with big mountain
+of coins to pay me,
+
+I can refuse that payment,
+
+arguing it's unreasonable that
+
+you're trying to pay me
+with this many coins.
+
+Can you please do
+a bank transfer?
+
+Another issue with
+payment method is where
+
+parties use a third
+party for that payment,
+
+they will still be exposed to
+
+a risk of being sued and
+their payment obligation will
+
+not be discharged until that
+creditor has that payment.
+
+If I make a bank transfer
+
+and before that money reaches
+
+the other persons,
+the creditors bank,
+
+my bank goes bankrupt and
+
+they do not complete that
+payment to the third party,
+
+I am not discharged of
+my payment obligation.
+
+That's the risk with using
+
+intermediaries,
+financial companies,
+
+banks and so forth
+in the middle,
+
+that our obligation
+will not be discharged
+
+until the creditor
+receives that money.
+
+The risk remains with us.
+
+If the intermediary defaults,
+
+we are still liable,
+
+and that's what pretty
+much happened in
+
+recharge card services;
+
+the traders in good faith paid,
+
+but it was not valid
+
+because the intermediary became
+insolvent at the process.
+
+The obligation will not
+be discharged until
+
+the creditor
+receives that money,
+
+and if the card issued,
+
+the third party,
+the intermediary,
+
+defaults for whatever reason,
+
+the risk remains
+with the debtor.
+
+I'll stop here and we're
+
+going to carry on with the
+rest in the next lecture.
+
+Thank you, guys. [BACKGROUND]
+

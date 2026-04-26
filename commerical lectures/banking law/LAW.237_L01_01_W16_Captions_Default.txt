@@ -1,0 +1,2331 @@
+Zora Kizilyurek Jones:
+Thank you. Welcome back
+
+to the third lecture on
+Introduction to Banking.
+
+This week we start to talk a
+
+little bit about banker
+and customer relationship.
+
+In today's lecture,
+we will focus on
+
+understanding the nature of
+
+banker and customer
+relationship.
+
+Our main focus will be
+
+banks' general duties towards
+
+the customer and we
+will hopefully also
+
+try to identify how these duties
+
+work in practice and
+what liabilities banks
+
+may be subject to if they
+don't abide by these duties.
+
+As we said in our
+previous lecture,
+
+customer and banker relationship
+
+is mainly contractual in nature.
+
+As a general, most basic rule,
+
+the bank will be the debtor and
+
+the customer will be the
+creditor since the customer
+
+deposits funds into
+their bank account
+
+and the bank can use
+that money as it wishes,
+
+subject to the duty to pay
+it back to the customer.
+
+Now, this contractual
+relationship,
+
+this debtor and
+creditor relationship,
+
+very much underlines almost
+
+all of the duties banks owe to
+
+their customers
+because once they
+
+have the customer's funds,
+
+they are under an
+obligation to pay
+
+that customer upon demand and
+
+all things can go
+wrong if the bank does
+
+not pay the customer bank
+for various reasons.
+
+We're going to look at all
+of those in this lecture.
+
+Just a very brief overview
+
+before we expand on
+each of these topics
+
+one by one and also go through
+
+some case low to understand
+how they work in practice.
+
+The first and quite
+straightforward one is,
+
+there is an implied
+duty that the banks pay
+
+the customer bank when
+
+the customer demands
+that money validly.
+
+Secondly, the bank must follow
+the customer's mandate.
+
+If a customer makes
+
+an instruction to the
+bank for payment,
+
+they have to follow
+those instructions
+
+and they should not
+exceed beyond mandate.
+
+There was a little typo there,
+
+so if you correct
+it on your screen,
+
+they should not exceed
+the customer's mandate.
+
+There is also a duty
+to obey countermand.
+
+This is where a customer
+
+withdraws its instructions
+and then if that occurs,
+
+the bank again has
+to follow that.
+
+There is also a duty to collect
+
+instruments that main
+applies to checks.
+
+But if a customer asks the
+bank to collect checks,
+
+banks must do that
+and in doing so,
+
+they must exercise
+reasonable care.
+
+There is also a duty to
+provide statements and
+
+instructions is appropriate so
+
+that transparency
+can be maintained
+
+between the bank
+and the customer.
+
+There is also a duty
+of confidentiality,
+
+meaning that banks owe
+an implied duty to
+
+their customers to not disclose
+
+their information
+and their data,
+
+subject to some exceptions
+
+which we're mainly going to
+focus in the next lecture.
+
+But let's have a look at what
+
+these duties are one by one.
+
+Again, as we've already covered
+
+in the previous lecture
+in the Foley case,
+
+the court has
+decided that, well,
+
+once the customer deposits
+their funds into that bank
+
+accounts those funds belong to
+
+the bank and the bank can use
+those funds as it wishes,
+
+but that is the
+only duty that they
+
+have is to repay the
+customer upon demand.
+
+If there are sufficient funds in
+
+the customer's bank balance and
+
+if the customer validly
+demands that money,
+
+the bank is under a duty
+to pay the customer.
+
+If they refuse to
+make such payment,
+
+then the bank will be
+
+breaching its duty
+to make a payment.
+
+Until the customer
+makes a valid demand,
+
+the bank will not be
+breaching its duty.
+
+We looked at Joham San case
+
+in the last lecture
+that clarified that.
+
+The other duty is duty
+to conform to mandate.
+
+This is a simple one,
+
+but in practice,
+
+it matters a lot
+and there are all
+
+circumstances where a bank may
+
+refuse to follow the mandate.
+
+Essentially, when a customer
+
+makes an instruction
+to the bank,
+
+the bank must follow that.
+
+That may be to make the bank
+make a payment to transfer
+
+money to collect a check that
+was drawn by the customer.
+
+The bank now has
+to cash that check
+
+and provide a payment
+to the payee.
+
+It could also include
+account management,
+
+so the customer may
+make instructions
+
+regarding their account to
+
+the bank and whatever
+those instructions are,
+
+as a general rule,
+
+the bank must follow
+those instructions.
+
+Now, if the bank refuses to
+follow those instructions,
+
+there is a risk that they
+will breach their duty.
+
+Let's look at Sierra
+Leone case that
+
+illustrates to us how this
+actually works in practice.
+
+In this case, Sierra Tel
+was a company who had
+
+a bank account with Barclays and
+
+this company had a board of
+
+directors who were signatories.
+
+They could make instructions
+
+and manage that bank account,
+
+i.e, they could request
+
+Barclays to transfer a
+payment and so forth.
+
+The board of directors of this
+company were signatories.
+
+They had the authority to manage
+
+the account this company
+had with Barclays.
+
+What happened was there
+
+was a coup attempt
+in that country
+
+and this bank was partially
+owned by the government.
+
+After the coup attempt,
+
+the board of directors were
+replaced with new people.
+
+They made new instructions
+to Barclays Bank,
+
+which included not following
+
+the mandate of the previous
+board of directors.
+
+Essentially, this new board was
+
+demanding Barclays to follow
+their own instructions,
+
+not the instructions of the
+previous board members.
+
+The question for Barclays,
+
+there was whether they
+
+should be following
+the instructions of
+
+the original boards who was
+
+given mandate or whether
+they should follow
+
+the instructions
+of the new board.
+
+If Barclays went ahead and
+followed the instructions
+
+of the new board without
+clarifying this with the court,
+
+they would have risked
+breaching their duty for
+
+not conforming to the mandate
+of the original board.
+
+As a result, Barclays has
+
+frozen that account and
+took the matter to court.
+
+The court decided that
+
+Barclays should
+follow the mandate of
+
+the original board
+and not the new board
+
+because the new board
+was not elected.
+
+Basically, they started to
+perform those tasks under
+
+a questionable authority as
+
+the previous board was replaced
+as a result of a coup.
+
+The court found that Barclays
+
+should follow the mandate of
+
+the original board and
+
+not the instructions
+of the new board.
+
+The bank's duty is to obey
+valid customer mandates,
+
+not mandate of anyone and
+the bank should double-check
+
+should make sure that
+they are following
+
+the appropriate
+and valid mandate.
+
+There are, however,
+circumstances
+
+where if the bank
+
+refuses to follow the
+mandate of the customers,
+
+they will not be breaching
+
+their bank duties and
+
+they will not have
+any legal liability.
+
+The most straightforward one is
+
+if the customer makes
+a payment instruction,
+
+but the customer does not have
+
+sufficient funds in their
+account or there is
+
+no agreed overdraft facility
+in place that allows
+
+the customer to use basically
+more than what they have,
+
+then the bank will
+not be liable if they
+
+refuse to follow
+
+those instructions and
+if they refuse to,
+
+for example, transfer money to
+
+the customer because
+the customer
+
+does not have sufficient funds.
+
+Another aspect to this
+
+is where a customer makes
+
+unclear or ambiguous
+instructions.
+
+This is sometimes the
+case with cheques.
+
+If a customer makes
+an instruction,
+
+but say draws a check,
+
+but in that check, some details
+
+are missing, it's unclear.
+
+The bank is not sure what is
+exactly expected of them.
+
+The bank has a right to insist
+
+on clear instructions
+and the bank
+
+can refuse to follow
+
+the instructions if
+they are not clear.
+
+Third reason is if the
+bank suspects fraud.
+
+If any type of
+instruction was made to
+
+the bank and the bank
+is unsure whether
+
+those instructions were made by
+
+the correct customer or whether
+
+the customer is involved
+in some form of fraud,
+
+the bank can refuse to take
+action and do some checks
+
+first before processing
+that payment instruction
+
+or whatever instruction it is.
+
+If the bank reasonably
+believes that
+
+the transaction attempt
+is not authorised,
+
+that there are some
+issues with it,
+
+it can withhold payment.
+
+Because if the bank goes ahead,
+
+this is a little bit contradictory,
+but on the one hand,
+
+the bank is under
+a duty to follow
+
+payment instructions,
+but on the other hand,
+
+if it follows these instructions
+
+without double checking and if
+
+there was some form
+of fraud in place,
+
+the bank may also be held
+
+accountable for following
+those instructions
+
+because it involves fraud.
+
+The bank has to balance
+those duties carefully.
+
+There could also
+be another ground,
+
+which is a stale cheque.
+
+If the cheque presented
+to the bank is old,
+
+the bank can refuse to
+process that cheque.
+
+Finally, statutory
+obligations or court orders.
+
+If, for some reason,
+
+the bank is not allowed under
+
+the law to follow the mandate,
+
+they will not be liable for
+
+refusing to follow
+those instructions.
+
+Meaning, if there is, let's say,
+
+a court order for a
+third-party payment,
+
+or if the customer's
+accounts are
+
+frozen under insolvency
+proceedings or if some form
+
+of restrictions are applied
+
+to that customer's bank account
+
+because a proceeds of
+Crime Act applies.
+
+There's some form
+of money laundering
+
+in place and so forth.
+
+The bank can freeze
+that account.
+
+The bank can refuse to follow
+the customer's mandate to,
+
+for example, transfer
+money and so forth.
+
+We're going to look at all
+of these now in detail.
+
+The first one is
+insufficient funds
+
+that is straightforward,
+
+so I will not expand on that,
+
+but let's start with
+the second point.
+
+We said that if
+
+the mandate by the customer
+is unclear and ambiguous,
+
+the bank does not need to follow
+
+those instructions
+and not following
+
+the instructions will not lead
+
+to any liability on
+the bank's side.
+
+London Joint Stock Bank
+and MacMillan case
+
+illustrates this
+point and shows how,
+
+in certain circumstances,
+
+the customer will also have
+some duties to the bank,
+
+but in giving precise
+instructions.
+
+In this case, there was
+
+a law firm and
+
+this firm was dealing
+with a clerk of a bank.
+
+Keep in mind this case is a
+very old case, a 1918 case.
+
+This bank clerk used
+
+to manage the cheques
+for this law firm.
+
+If, say,
+
+the bank clerk would be filling
+in the relevant details,
+
+the payee details, the
+dates and so forth,
+
+would prepare these
+checks and the partners,
+
+MacMillan and Arthur here,
+
+would sign those checks,
+
+would look at those checks,
+
+see everything is
+okay and then sign
+
+and then the bank clerk
+will process it further.
+
+Bank clerk here was
+essentially helping
+
+these partners in
+managing their cheques,
+
+something that was used
+often at those times.
+
+Now in one instance,
+
+this clerk again filled
+in the cheque but
+
+filled in a way that it
+
+would be easy to
+alter it afterwards.
+
+The cheque was meant to
+be drawn for two pounds
+
+and he did put number
+two on the cheque,
+
+but left the sides blank in
+a way that you could have
+
+added different digits
+afterwards and so forth.
+
+One of the partners,
+trust in this bank clerk
+
+because they've been working
+with him for a long time,
+
+just quickly signed the
+cheque, looked at it.
+
+It's two pounds and
+signed the cheque and
+
+handed it back to the clerk.
+
+The bank clerk afterwards,
+
+cash this cheque,
+
+giving this cheque to the
+bank, receive that money.
+
+Sorry, before doing that,
+
+the bank clerk
+edit one and zero.
+
+From two pounds, it
+went to 120 pounds,
+
+and then the bank clerk cash
+
+this cheque and
+run away with it.
+
+The question here was
+whether the bank should
+
+be liable to repay
+
+that additional 118 pounds to
+
+these partners since the bank
+has processed a payment,
+
+meaning debited the
+partners accounts,
+
+118 pounds more than
+
+what the partners initially
+instructed bank to do?
+
+Or whether the customer,
+
+the partners
+actually facilitated
+
+this fraud by being
+negligent by not
+
+acting in line with
+the duty of care as
+
+customers that they would alter
+
+the bank that they've
+not paid attention,
+
+they trusted this bank clerk
+
+way too much and
+
+made themselves vulnerable
+for this fraud?
+
+Since they've acted negligently
+
+in the management
+of their cheques,
+
+whether they should as
+
+the customers bear the
+loss rather than the bank.
+
+That was basically the question
+
+that the court had to answer.
+
+On the one hand,
+
+the bank has not
+act in line with
+
+the mandate and debited
+substantial amount
+
+from the customer's account.
+
+On the other hand, the customers
+did not act with care,
+
+they acted negligently and
+
+contributed to this
+fraud taking place.
+
+That's what it
+was. In this case,
+
+the court found that the
+bank was right to debit
+
+that 120 pounds
+and they were not
+
+under any liability
+because essentially,
+
+the banks need to follow
+the instructions from
+
+the customers since
+on that cheque paper,
+
+120 pounds alongside other
+details were filled in.
+
+When you look at the cheque,
+
+there was nothing
+fraudulent about it.
+
+It did not on the face of
+it look any fraudulent.
+
+Then bank could just
+follow those instructions,
+
+take it as it is.
+
+Secondly, customers also owe
+
+a duty of care to their bank.
+
+They need to assist
+their bank in
+
+processing these
+instructions correctly and
+
+they can assist the bank
+
+by making sure
+that those cheques
+
+are drawn properly filled
+in properly and so forth.
+
+By failing to do so,
+
+they acted negligently and
+they would be responsible for
+
+the losses as
+customers that they've
+
+incurred because they
+played a role in that.
+
+This is why banks would
+
+refuse cheques if
+it's not clear,
+
+if there's some form of
+suspicion when a bank clerk
+
+looks at the cheque if there was
+
+any details that are not
+missing and so forth.
+
+Again, this is why it's
+important to fill in
+
+those details correctly without
+
+leaving any gaps or filling
+
+in a way that can
+later on be altered.
+
+The third point where
+a bank will not be
+
+liable if they fail to follow
+the customer's mandate.
+
+That is, if a bank is
+suspicious of a fraud,
+
+even though there is a duty for
+
+the bank to follow the
+customer's mandate.
+
+If the bank is suspicious
+
+that some form of
+fraud is taking place,
+
+they can refuse to
+follow the mandate
+
+and process the
+payment and so forth.
+
+In the Lipkin
+Gorman case, again,
+
+this case was relating
+to a law firm,
+
+and this law firm
+had an account.
+
+Lipkin Gorman had an
+account with a bank,
+
+and one of the law
+firms partner was
+
+authorised to manage
+this account.
+
+Meaning, they were authorised
+
+to make payment
+instructions to the bank,
+
+sign cheques and so forth.
+
+As far as the bank
+was concerned,
+
+this partner Kill was
+
+an authorised person to
+manage this bank account.
+
+If any requests
+were made by him,
+
+if any cheques were
+signed by him,
+
+the bank thought they can
+
+just process those instructions
+and those payments.
+
+But Kin started
+abusing his authority.
+
+He wanted to fund
+his gambling habits,
+
+and he started to sign
+cheques to use it
+
+for his personal
+reasons rather than for
+
+the expenses of the
+law firm and so forth.
+
+After a long time,
+
+the law firm noticed that
+
+this partner abused
+their authority
+
+and they sued the casino
+as well as the bank.
+
+The argument of the law firm
+
+was that the bank should
+have spotted that something
+
+was wrong and they
+shouldn't have paid Kill
+
+or they shouldn't have followed
+
+Kill's instructions because they
+
+should have suspected the fraud.
+
+That was the argument
+of the law firm.
+
+The key question there was
+
+whether the banks are
+always required to
+
+obey their customer's
+instructions
+
+because the bank knows
+they are the customer,
+
+so they should not be
+under any obligation to
+
+check to ask additional
+questions and so forth,
+
+and they should just simply
+follow those instructions
+
+because that person
+is their customer,
+
+or whether they should
+be taking any action
+
+if they reasonably
+suspect fraud.
+
+The court here found that
+
+following customers
+mandate is not absolute.
+
+Even though it's a bank's duty
+
+to follow their
+customers mandate,
+
+if they're suspicious of fraud,
+
+then they should take reasonable
+action to double check,
+
+to ask necessary
+questions and so forth.
+
+Now, when we say reasonable,
+
+if on the face of it,
+
+when that instruction is made or
+
+if that cheque is presented,
+
+if everything seems fine,
+
+then the bank will
+not be liable,
+
+which was the case here.
+
+In this specific scenario,
+
+the bank was not liable because
+
+those instructions
+were not suspicious.
+
+But as a general rule,
+
+what we learn from this
+case is the bank may
+
+be liable if fraud is present.
+
+If the event takes place or
+
+if the interaction with
+the customer occurs
+
+or develops in a way
+
+that should reasonably
+make that bank suspicious,
+
+then they should be suspicious.
+
+In this case, that was not
+
+the case but as a general rule,
+
+the banks should take
+
+reasonable steps to double check
+
+and make sure that there
+is no fraud involved.
+
+Stale cheques is another
+example of when a bank will not
+
+be liable if they
+
+refused to follow the
+customer's mandate.
+
+As a general rule,
+
+six months is the maximum amount
+
+of time banks will
+accept a cheque.
+
+If the cheque had a due date,
+
+then the cheque should be
+presented to the bank.
+
+If it takes six months after
+the due date of the cheque,
+
+the payment time of the cheque,
+
+then the bank can refuse it.
+
+This is not a
+statutory requirement,
+
+so the bank can accept to
+
+still cash that cheque
+even after six months,
+
+but this is just a
+commercial practise.
+
+The logic behind that is,
+
+as the cheque gets older,
+
+the instructions of the drawer,
+
+the cheque owner starts
+
+to become a little
+bit more blurry.
+
+The bank cannot be 100% sure
+
+that their customer intended
+for this cheque to be paid.
+
+The longer time passes,
+
+the more likely that something
+may have gone wrong,
+
+the drawer,
+
+the customer may have
+forgotten about this cheque,
+
+this payment that was
+due and so forth.
+
+The safer approach
+for banks is to only
+
+accept cheques if it's
+maximum six months old.
+
+Otherwise, it would
+be harder for
+
+the bank to be sure that
+
+the customer's original
+instruction is still
+
+valid and the customer has not
+
+changed their mind and so forth.
+
+That is what happened
+in the Commissioner of
+
+Internal Revenue and
+Thomas Cook case,
+
+nothing too interesting
+in the facts.
+
+But essentially, Thomas Cook
+
+presented the cheque to the bank
+
+that was over six months old
+and the bank refused to pay.
+
+It went to court and
+the court agreed
+
+with the bank that
+a cheque that is
+
+older than six months has passed
+
+its time and it
+is reasonable for
+
+the banks to refuse payment.
+
+They will not be liable for
+not processing that payment.
+
+[NOISE]
+
+This is our fifth point,
+
+so fifth reason on how
+banks will not be liable
+
+if they do not follow the
+mandate of their customer.
+
+There are a couple of
+examples for this.
+
+First one is sometimes under
+the Proceeds of Crime Act.
+
+A customer's account
+may be frozen.
+
+If there is a suspicion on
+
+money laundry or any
+other type of crime,
+
+then the law may oblige
+banks to freeze that account
+
+until necessary
+checks and steps are
+
+taken and necessary
+investigations are made.
+
+If a bank freezes
+
+a customer's account because
+
+under the Proceeds of Crime Act,
+
+they are under an
+obligation to do so.
+
+They will not be
+liable if they refuse
+
+their customers payment
+instructions and so forth.
+
+Those of you who attempted
+
+financial crime know
+this very well now.
+
+Secondly, sometimes if a
+customer goes insolvent,
+
+insolvency laws
+would also require
+
+the bank to freeze
+
+that customer's account
+to prevent that customer
+
+from withdrawing their funds
+and possibly running away
+
+because those funds then will be
+
+distributed to the creditors.
+
+If a bank freezes
+
+the customer's account
+with under insolvency law,
+
+again, they will
+not be breaching
+
+their duty of following
+customer's mandate.
+
+The third one is,
+
+where there is a court order if
+
+the bank's customer did not
+pay their debt and so forth,
+
+and they were sued and
+
+the court has made a
+third party debt order.
+
+Again, the bank will
+not be liable for
+
+refusing the customer's mandate
+
+and for diverting those funds
+
+to satisfy a judgement debt.
+
+Any questions so far?
+
+We've given an overview
+of banks duties and then
+
+we looked at
+slightly more detail
+
+to order to follow our duty
+to follow customers mandate.
+
+We then looked at
+the circumstances
+
+where the banks may not follow
+the customer's mandate,
+
+but they will not
+be liable anyway.
+
+Now, let's move on to
+looking at another duty.
+
+If a customer makes a request,
+
+gives an instruction
+to the bank to
+
+revoke a payment instruction,
+
+the bank has to follow that.
+
+If I've written a cheque,
+
+I can later on call
+my bank and say,
+
+can you please
+stop this payment.
+
+Or if I'm making a bank
+transfer, if possible,
+
+I can ring the bank,
+
+contact the bank and request
+
+the bank to stop that payment.
+
+That's what countermand is
+
+revoking that
+payment instruction.
+
+Section 75 of Bills of
+Exchange Act codifies that.
+
+The general rule is
+
+such countermand
+instructions must be clear,
+
+unambiguous, and must
+be received in time.
+
+If it's not clear,
+
+if it's ambiguous,
+
+and if the instruction
+for countermand
+
+is made after the bank
+processes that payment,
+
+then countermand will not
+
+be effective and the
+bank will not be
+
+liable for not following
+
+the customer's
+instructions on this.
+
+The point of this
+duty is to allow
+
+the customers to have a wider
+control over their funds,
+
+to be able to change
+
+their minds about how they
+will spend their money,
+
+how they will use their money,
+
+and so the banks should
+just help assist with that.
+
+Usually, countermand duty
+used to apply to cheques,
+
+but in modern times,
+
+it applies to all the
+relevant payment methods,
+
+all the equivalent
+payment methods.
+
+Let's look at a case.
+
+I will look at a couple of
+cases here to demonstrate
+
+how these refusals are
+under what circumstances,
+
+refusing to follow
+a countermand order
+
+will not lead to a liability.
+
+In the case of Hilton
+and Westminster,
+
+Hilton had a
+post-dated cheque that
+
+was supposed to be paid to the
+payee on second of August.
+
+On first of August,
+
+he telegraphed the bank
+and requested the bank to
+
+revoke that payment to
+
+stop that payment
+from going ahead.
+
+The telegraph included
+the correct payee details
+
+and the amount and so forth,
+
+but the serial number that was
+
+written on the cheque
+was incorrect.
+
+That meant the bank
+could not really
+
+locate the cheque because
+
+they did not have the
+specific instructions,
+
+and as a result,
+
+the next day they
+ended up paying
+
+the payee who
+presented the cheque.
+
+This resulted in Hilton
+not being able to
+
+pay another cheque because
+since the first cheque,
+
+say, cheque A was paid,
+
+there wasn't enough funds
+
+left in the bank account
+to pay cheque B.
+
+This resulted in
+Hilton defaulting on
+
+a payment to another
+payee and they sued.
+
+The question here was whether
+
+the bank has breached its duty
+
+to follow the
+countermand duty or not.
+
+The Court held that the
+bank was not liable because
+
+the countermand
+instruction has to
+
+be clear and unambiguous.
+
+The fact that here the
+wrong details were given,
+
+the serial number
+was not correct,
+
+meant that the
+countermand request
+
+was not precise enough.
+
+Since that was the case,
+
+the bank was not
+under a liability for
+
+not following the
+countermand's instruction.
+
+Another example on a
+countermand instruction.
+
+In this case,
+
+the Court found that
+countermand instruction
+
+was in fact effective and
+the bank was liable here.
+
+What happened was Reade held
+
+more than one account
+with RBS Bank,
+
+so Royal Bank of Scotland
+and he instructed
+
+the bank to
+countermand a payment,
+
+to stop payment on a cheque.
+
+But on this instruction,
+
+the customer did not
+specify the account.
+
+The customer had more
+than one account
+
+and the customer did not
+
+specify on which account
+this cheque was drawn to.
+
+But all the rest of the details
+
+were complete,
+were clear enough.
+
+Since the customer had
+more than one account,
+
+the bank ended up
+stopping a payment for
+
+a different cheque in
+a different account
+
+rather than the one that
+Reade was referring to.
+
+When Reade sued, the
+bank's argument was since
+
+the customer did not specify on
+
+which account this
+cheque was drawn on,
+
+this countermand's request was
+
+not valid in the first
+place, therefore,
+
+we've not as a bank
+breached our duty for
+
+not processing it correctly
+because in the first place,
+
+we did not have a
+duty to process this.
+
+The instructions was not clear.
+
+We did not understand
+which account
+
+we had to process
+this cheque from.
+
+In this case, the
+Court found that,
+
+in fact, all the
+details were there.
+
+They had sufficient details.
+
+It was clear enough for the
+bank to locate this cheque.
+
+In this scenario, not
+specifying which account
+
+the customer was referring
+to was not really relevant.
+
+It did not prevent the bank from
+
+processing this
+instruction clearly.
+
+As a result of the bank
+
+processing this wrongly from
+debiting the wrong account,
+
+they were in breach of
+their countermand duty.
+
+But more importantly,
+what we learned
+
+from this case is even though
+
+there is a requirement that
+
+countermand instructions
+should be clear,
+
+unambiguous, and so forth,
+
+it does not need to
+be perfectly clear.
+
+It can have minor issues,
+
+as long as it's clear enough
+for the bank to locate
+
+that cheque or to really
+
+understand what the
+customer is expecting,
+
+that would be sufficient.
+
+We've got another
+instance here where
+
+a customer attempted to
+
+countermand a cheque and
+
+the bank did not follow
+these instructions.
+
+Again, we've got a question
+of whether the bank
+
+is liable in this
+instance or not.
+
+In this scenario of Custice
+and London and Midland case,
+
+the customer made a
+countermand request,
+
+but it was made outside
+
+of normal business
+hours of the bank.
+
+When the next day
+the staff came back,
+
+they processed this cheque,
+
+so they cashed the cheque.
+
+They made the payment to the
+payee because they have not
+
+yet had a notice of the
+countermand request,
+
+they've not seen the request,
+
+they have not processed
+that request.
+
+Before they were able to process
+the countermand request,
+
+the cheque was presented
+
+and the bank paid the
+cheque to the payee.
+
+The question here was whether
+
+the countermand request was
+
+effective from the
+moment it was made.
+
+The moment the customer
+attempted to countermand,
+
+whether it was effective
+from that moment onwards,
+
+or whether the request becomes
+
+effective the moment bank
+has an actual notice of it,
+
+the bank actually
+sees that request.
+
+The Court found
+the bank must have
+
+an actual notice of the
+countermand request.
+
+Since in this scenario,
+
+it was made outside of banking
+hours and the bank made
+
+that payment before having
+
+an opportunity to process
+this countermand request,
+
+they were not liable.
+
+Say, if the situation
+was one where
+
+the customer made the
+request within work hours,
+
+business hours, but
+for some reason,
+
+bank acted negligently and
+they've not processed it,
+
+it would have been a
+different scenario.
+
+It would also depend
+on the context.
+
+But as a general rule,
+
+if it's an outside
+of office hours,
+
+it's not likely to
+be effective because
+
+the rule is the bank has to
+have an actual notice of it.
+
+Now let's look at another case,
+
+Capital Associates and
+World Bank of Canada.
+
+This case is concerned
+
+with the timing of the
+countermand request.
+
+In this scenario,
+the customer made
+
+a request for a countermand
+
+for revocation of the payment.
+
+A customer made an instruction,
+
+the bank has processed it
+straightaway and after that,
+
+the customer made a request
+
+for a countermand for a
+revocation of payment.
+
+But by then, the bank has
+
+already processed that payment,
+
+and the question was whether
+the bank is liable for
+
+not reversing that payment
+back after processing it.
+
+Of course, the Court found
+
+that once the bank
+processes that payment,
+
+they will not be under any
+duty to reverse that payment.
+
+The timing of the
+countermand is important.
+
+It must be made before the
+bank processes that payment.
+
+If the bank has already
+
+processed that payment
+and it's after
+
+that the customer reached out
+with a countermand request,
+
+that will not be effective,
+
+and the bank will not be liable
+
+for reversing that transaction.
+
+So far we've looked at
+duty to make payment.
+
+That's straightforward.
+
+We looked at duty to conform
+
+your customer's mandate and
+
+not exceed customer's mandate,
+
+but that would be subject
+to some qualifications,
+
+such as legal obligations
+and so forth.
+
+Then there's the duty to obey
+
+countermand request
+by the customer and
+
+now we're going to move on to
+duty to give account duty.
+
+Now, this is also an
+important duty why?
+
+Because banks
+providing transparency
+
+to their customers is
+important in maintaining
+
+that trust because customers
+
+need a peace of mind that
+when they open a bank account
+
+or when they have an account
+that is managed with
+
+a specific bank that will
+
+entail them providing so
+many personal details,
+
+the type of payments they make,
+
+their personal
+details, and so forth.
+
+The customers should know
+that their personal data,
+
+their confidential information
+will not be shared with
+
+third parties against
+their authority
+
+or will not be disclosed to
+others and will be protected.
+
+The purpose of this
+duty, therefore,
+
+is to maintain that transparency
+and accountability if
+
+the bank does not provide
+that transparency,
+
+if the bank does
+
+not provide details on how
+the customer made payments,
+
+what transaction is taking
+
+place in their
+account and so forth.
+
+That is something
+that will impact
+
+the trust in the relationship
+of banker and customer.
+
+Also providing
+these transparency
+
+on how the customer's account is
+
+run is important
+because it helps
+
+the customer to check how
+their payments are processed,
+
+if there are any mistakes
+that are made by the bank,
+
+say refund requests have
+been processed and so forth.
+
+It gives more control to the
+customer over their account.
+
+Failure to provide this
+transparency may cause
+
+a liability for the bank if
+
+something goes wrong and the
+customer incurs some losses.
+
+For example,
+
+if some unexpected money
+
+came out of the
+customer's account,
+
+but the customer could
+never notice that because
+
+the bank did not provide any
+statements and as a result,
+
+the customer lost some money,
+
+the bank may become liable.
+
+That's why it's important
+for the bank to provide
+
+this transparency
+to the customer.
+
+These statements, usually
+it's now electronic,
+
+but it can also be sent
+via letter and so forth.
+
+These can be done
+annually or periodically
+
+or whenever the customer
+also requests it themselves.
+
+It just provides
+that visibility as
+
+to how the customer's
+money is handled.
+
+There is another duty that
+
+is connected with
+the previous duty,
+
+and that is duty to
+maintain confidentiality.
+
+Again, in this one,
+
+the customer provides lots of
+information to the bank and
+
+the bank is under a duty
+
+to keep those information
+confidential.
+
+This is an implied duty,
+
+even if it's not specified in
+
+the contract with the bank
+
+and the customer is
+an implied duty.
+
+These details are most
+of the time personal
+
+and they include
+sensitive information.
+
+The bank has to maintain
+
+those records in a
+confidential manner.
+
+This again, similar
+to previous point,
+
+contributes towards the trust
+relationship with the bank.
+
+The customer has
+to peace of mind
+
+that their information
+will not be
+
+shared with third parties
+outside their authority.
+
+These statements
+by Lord Diplock in
+
+Parry Jones' case very much
+
+summarises how
+confidential to dot works.
+
+The first point here is
+
+such a duty exists not
+
+only between solicitor
+and a client,
+
+but, for example, between
+
+a bank and a customer
+a doctor and patient,
+
+accountant and a client.
+
+Here, this statement
+clarifies that there is
+
+a confidentiality duty from
+the bank to their customer
+
+exactly the confidentiality duty
+
+the bank has is very similar to
+
+the duty that solicitor would
+
+have to their client
+and so forth,
+
+or a doctor would have
+to their patients.
+
+It's protected in
+the same manner.
+
+It highlights how important and
+
+how strong confidentiality is.
+
+But on the other
+hand, it stays there.
+
+Such a duty of confidence is
+subject to and overridden by
+
+the duty of any party to
+
+that contract to comply
+with the law of the land.
+
+If it is the duty of such
+a party to a contract,
+
+whether it's common law
+or under statute to
+
+disclose in defined
+circumstances
+
+confidential information,
+
+then they must do so and
+
+an express contract to
+
+the contrary would
+be illegal and void.
+
+Even though there is a
+duty of confidentiality,
+
+it's not an absolute duty.
+
+There are some
+exceptions to it such as
+
+common law or statute
+or within the contract,
+
+parties may specify instances
+where a bank will disclose
+
+that customer's information and
+
+the confidentiality data
+as important as it is,
+
+is subject to exceptions.
+
+Any contract that is
+drawn between the parties
+
+that against these exceptions
+is illegal and void.
+
+In the next lecture,
+
+we're going to spend
+time to discover what
+
+these exceptional
+circumstances are and
+
+how they impact confidentiality.
+
+Thank you.Do you
+
+have a class today?
+
+MALE_1: I don't have a class.
+
+Zora Kizilyurek Jones:
+For the next one.
+
+I've got one more workshop.
+
+MALE_1: When do
+you want it to be?
+
+Zora Kizilyurek
+Jones: Four, I think.
+
+MALE_1: Four [inaudible].
+
+Zora Kizilyurek Jones:
+Do you know where it is?
+
+MALE_1: No
+
+Zora Kizilyurek Jones: It's
+an important workshop.
+
+That's why I'm insisting
+that I come later.
+
+MALE_1: [inaudible].
+
+Zora Kizilyurek Jones:
+Where was it? I think it's
+
+in Bowland or something.
+
+MALE_1: [inaudible]
+
+[BACKGROUND]
+
+Zora Kizilyurek Jones:
+Have you got your marks?
+
+You got and right now, I think.
+
+MALE_1: No [inaudible].
+
+Zora Kizilyurek Jones: No
+as in marks. That's good.
+
+MALE_1: Is it true that
+you're marking the scenarios?
+
+Zora Kizilyurek Jones: A
+lot of, you guys talk.
+
+I'm not making all of them.
+
+I'm making majority of them.
+
+MALE_1: Majority of them.
+
+Zora Kizilyurek Jones:
+Yes. Is that a good thing?
+
+[OVERLAPPING] How am I finding?
+
+Is Bowland Not one,
+
+first of all, I am
+finding it mix.
+
+You got some very good papers,
+
+not as good, some not as good.
+
+But you got a mixture of them.
+
+But if you put effort,
+
+I feel extremely
+fair to everyone.
+
+But when there was
+
+a situation of one mark
+would make that difference.
+
+Then I looked how much effort
+student put in the paper.
+
+If students effort, I
+know that they tried,
+
+then I think I was fair.
+
+MALE_1: [inaudible] .
+
+[LAUGHTER] [BACKGROUND]
+

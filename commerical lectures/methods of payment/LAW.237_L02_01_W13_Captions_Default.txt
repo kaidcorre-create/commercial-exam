@@ -1,0 +1,2126 @@
+FEMALE_1: Start.
+Welcome back, guys,
+
+to your second lecture
+on payment methods.
+
+In our first lecture,
+
+I've introduced you to some
+terminology and some rules.
+
+Generally, we said, depending
+
+on the type of payment
+method we are using,
+
+there will be a set of
+rules that we need to
+
+follow and how and
+
+when we exchange our
+payment obligation
+
+will depend on the type
+of method we adopt,
+
+and we said that some risks
+
+come with the type
+of method we use.
+
+If it's a bank
+transfer and so forth,
+
+we will only be discharged
+of our payment obligation
+
+until when the payee
+
+is credited that money
+in their bank account.
+
+We also spoke about
+this concept of
+
+negotiability and we said
+
+for certain payment instruments,
+
+the bona fide purchaser
+for value with
+
+no notice will
+acquire the title for
+
+those payment instruments
+free of any defects.
+
+We're going to build on these
+a little bit more today,
+
+but before we do so,
+I want to finish
+
+a few more pages of slides.
+
+Can everyone at the
+back also hear me?
+
+Is this all fine? Valid
+Tender and legal Tender.
+
+Basically, these are concepts
+
+about what counts
+as a valid payment.
+
+Valid tender is essentially
+
+the payment method
+the payee accepts.
+
+It can be money,
+
+card, cryptocurrency
+or a chewing gum.
+
+A payee, as part of the
+contractual agreement,
+
+state how they want to be paid,
+
+and the payer must pay
+them with that method.
+
+Sometimes when we go to a cafe,
+
+we will say a sign that says
+card only, for example.
+
+There, a payee can
+
+specify the payment
+method they prefer.
+
+That's valid tender.
+
+Legal tender is something a bit
+
+more narrow a bit
+more technical.
+
+This is basically a type
+
+of payment method
+that the law will
+
+recognise as a valid way
+
+of discharging
+payment obligation.
+
+For England and Wales,
+so not Scotland,
+
+just not Ireland, etc.
+
+For England and Wales,
+
+that is banknotes of
+
+Bank of England and
+also Royal Mint coins.
+
+Essentially, if a
+payer or debtor
+
+offers to pay the payee in
+banknotes, actual banknotes,
+
+cash of Bank of
+England in pounds,
+
+that is deemed in the eyes of
+
+the laws as having made
+
+a legal tender to discharge
+their payment obligation.
+
+Now, if parties already
+have an agreement between
+
+themselves as to the type of
+method that must be used,
+
+that must be followed.
+
+That method must be followed.
+
+But if there is no
+such agreement and
+
+say the payer makes
+an attempt to
+
+pay in legal tender and say
+
+the payee rejects
+that payment method,
+
+that legal tender,
+that offering of
+
+cash payment impound protects
+
+the debtor for
+subsequent legal action.
+
+Essentially, they can use it as
+
+a defence mechanism
+in court and say,
+
+I tried to offer to pay in
+cash and the payee refused it,
+
+so they can protect themselves
+
+from any liability
+for non-payment.
+
+But this legal tender
+will not be relevant if
+
+the payee already specified
+
+the type of payment
+they will accept.
+
+If the payee said, I only
+accept bank transfer,
+
+and you ask for cash and they
+
+reject to accept that
+cash and they see you,
+
+then you won't have
+
+the same defence because the
+
+payment method was specified.
+
+Instead of this coinage act,
+
+the law sets out what counts
+
+as legal tender in terms
+of the amount of pounds.
+
+You can pay your 10 pounds'
+worth of debt in 25 P coins.
+
+But if you got 20 pounds
+debt, for example,
+
+you cannot pay it in 25 P.
+There is just an amount.
+
+There is a list of
+what amounts you
+
+can use to pay what type of
+debt that's in your book.
+
+Really quick example, Ali runs
+
+a cafe and puts a sign
+card payment only.
+
+If you attempt to pay by cash,
+
+they refuse payment and
+they see you at that stage,
+
+legal tender is invalid
+because they've got
+
+a valid tender method that they
+
+specified and you
+need to follow that.
+
+If say Ali you owe
+Ali 20 pounds and you
+
+offer to pay him
+20 pounds and he
+
+refuses to accept that
+payment and it goes to court,
+
+then you have the
+defence of saying,
+
+I offered to pay
+in legal tender.
+
+Another little information is
+
+sometimes parties pay
+the money to the court.
+
+If they've got a dispute about
+the amount of the payment,
+
+whether that exists
+or not, a party,
+
+the debtor can pay
+
+that money to the
+court's bank account and
+
+then by the time the
+dispute is settled
+
+depending on the type of
+decision the court gives,
+
+they can be protected
+from a claim of
+
+non payment by arguing
+that paid the court,
+
+they've discharged
+their obligation
+
+by put them transferring
+
+that money into the
+bank's account.
+
+I'll be really quick
+with these ones.
+
+Part exchanges, another
+payment method,
+
+that involves making a
+payment and discharging
+
+a payment obligation through
+use of both money and goods.
+
+If you're selling me a
+car worth 10,000 pounds,
+
+and I give you 7,000
+pounds in cash and I
+
+allocate a value to my
+old car of 3,000 pounds,
+
+then I can pay you for that
+brand new car with a mix
+
+of 7,000 pounds and
+
+a free thousand pounds
+worth of old car.
+
+That involves basically a
+payment method where goods
+
+and money is used together;
+
+it can't just be just goods
+because then that's RTA.
+
+What counts as part exchange
+
+will be when both money
+and goods are used,
+
+and the good must be
+allocated at a certain value.
+
+You can't just say,
+here, I give you my car.
+
+You have to allocate a
+
+financial monetary
+value to that car.
+
+Novation is another
+payment method,
+
+even though it doesn't
+really involve a payment.
+
+That is where an existing
+payment obligation
+
+is replaced with a new set
+of payment obligation.
+
+If you owe to the bank 5,000
+pounds in credit card debt,
+
+but you can't really
+pay the bank,
+
+the bank may enter into a
+brand new agreement with you,
+
+extinguishing the previous
+5,000 pounds debt,
+
+and the new obligation
+will be for
+
+5.5 thousand pounds and you will
+
+pay the bank for a
+longer period of time.
+
+Essentially, the parties are
+
+replacing one obligation with
+
+another. That's
+what happens there.
+
+Once that happens, the creditor
+
+or the payee can no longer see
+
+the payer or debtor
+
+based on the previous
+agreement's terms.
+
+If they're going to take action,
+
+they can only do that based on
+
+the new payment obligation,
+
+new contract they have.
+
+Set off is essentially
+you owe me 10 pounds,
+
+I owe you 7 pounds.
+
+I owe you 7 pounds,
+
+you owe me 10 pounds,
+
+you just give me three
+pounds and it sets it off.
+
+But there are certain rules that
+
+governs this type
+of payment method.
+
+The debts must be equal,
+
+parties must be in the same
+capacity and so forth.
+
+Again, I won't have
+time, but that's
+
+just another payment method
+
+that you can read a
+little bit more about.
+
+Today, we're going to focus
+
+on Money and electronic money.
+
+We're going to
+define what money is
+
+and distinguish it
+from electronic money.
+
+We're going to look at
+the characteristics
+
+of both legal tender,
+
+both bank notes and
+electronic money,
+
+and we're going to see
+how these methods can
+
+be used to discharge
+payment obligations,
+
+and we're especially going
+to focus on looking at
+
+the risks associated with
+making a bank transfer.
+
+Money is a medium of exchange.
+
+What do we mean by that?
+
+Money is a standard way that we
+
+use to pay for
+goods and services.
+
+It makes buying and
+selling smooth because
+
+it doesn't have to
+be a case of you
+
+giving me a cow and
+I giving you cheese.
+
+We can just use money as
+
+a medium of exchange
+value and ie,
+
+buying and selling goods.
+
+It's also a unit of
+
+account because it's a
+common measure of value.
+
+Think of a loaf of bread
+and a car, brand new car.
+
+Loaf of bread is two pounds
+and a car is 20,000 pounds.
+
+Money helps us give
+value to things,
+
+monetary value to things and
+
+easily be able to
+calculate and compare
+
+and understand what's the
+worth of that specific good.
+
+It can also be used as
+a way to store value.
+
+It's easy.
+
+We can just keep it in a bank,
+
+we can keep it at home and
+
+unless really extreme
+inflation happens,
+
+the value that piece of banknote
+
+that paper holds remains stable.
+
+If we had to store,
+I don't know,
+
+leaves or chocolates
+to store value,
+
+it's not going to last as long.
+
+We've got different
+types of money,
+
+but the ones that
+we're going to focus
+
+for now is physical
+or field money.
+
+That's coins and banknotes
+
+of England and Wales
+for our purposes.
+
+There is also electronic money,
+
+and that includes money
+
+that is digitally stored
+as well as bank money.
+
+But we're going to look at
+this in a lot more detail.
+
+I just wanted to
+briefly give you
+
+an overview of money and
+different types of money here.
+
+Characteristics of
+physical money.
+
+Here we are referring to note,
+
+cash, that just banknote
+that we can hold.
+
+Banknotes are legal tender.
+
+The law recognises banknotes as
+
+a sufficient method
+of making a payment.
+
+Of course, we said, unless
+
+the contract
+specifies otherwise.
+
+Physical money is
+a legal tender.
+
+Secondly, it's a
+physical chattel.
+
+It's something that
+we can touch and also
+
+the ownership passes
+through a transfer.
+
+It's a physical thing
+that we can touch,
+
+we can hold, and we can own.
+
+Cash cannot be
+bought or exchanged.
+
+What do I mean by that?
+
+You can't just say this
+weekend I'm going shopping,
+
+what are you going to
+buy? I'll buy some cash.
+
+It's not something that you
+
+purchase and it's not
+something that you exchange.
+
+I mean, you would exchange
+
+my phone and your I
+don't know laptop,
+
+you don't exchange money.
+
+You give money as a value,
+
+but it's not a physical
+chattel in the way a car is;
+
+money is a fungible goods.
+
+We've defined fungibility as
+
+where a very similar thing
+can be replaced with.
+
+For example, there are
+some goods that are
+
+non-fungible, such
+as a painting.
+
+You can't just give
+someone any painting.
+
+It's a non-fungible
+type of good.
+
+You need to give that
+specific painting to them.
+
+Whereas in terms of cash money,
+
+if you lend me 10 pounds,
+
+I can give you back
+any 10 pounds as long
+
+as it is sufficiently similar.
+
+As long as I give
+you 25 pounds back,
+
+that would do it can't be euros,
+
+it can't be money that
+is no longer valid,
+
+but as long as it something
+
+sufficiently similar,
+it would do.
+
+It has got this fungible nature.
+
+It can be replaced with
+something as similar.
+
+Money, the note that we hold,
+
+is a thing in possession.
+
+It's something
+that we can touch,
+
+we own, and the ownership
+passes through delivery.
+
+If I have ten pounds
+in my pocket,
+
+that's a thing in possession
+or a chose in possession.
+
+But we said, we also
+have chosen action.
+
+Chosen action is where to
+
+enforce that
+intangible property,
+
+you need to take court action.
+
+You need to sue.
+
+A debt is a choice in action.
+
+Even though a physical money,
+
+10 pound note is
+chose in possession.
+
+If you're referring to debt,
+
+so that's a form of money,
+
+but we are referring to debt,
+
+not physical money anymore,
+
+that would be a chosen action.
+
+It's important to make
+that distinction.
+
+The only way that ten pound,
+
+if you took it from me, I
+
+will just say to
+give it to me back,
+
+please and then just take it.
+
+But if it's a debt,
+
+you have to take legal action
+to enforce your rights.
+
+It's chosen.
+
+That's what we mean
+by chosen action.
+
+Very important case and it's
+
+a good case because it
+demonstrates to us,
+
+what do we mean by
+
+negotiability of some
+payment instruments.
+
+In our first lecture,
+
+we said some payment instruments
+
+are negotiable and some are not.
+
+Here we're going to see
+a good example of this.
+
+I'll take a few minutes
+to explain this.
+
+In this case, William Finney on
+
+this banknote that was worth
+21 pounds, 10 shillings.
+
+We're going back to 1758 here,
+
+and there was a
+banknote of 21 pounds,
+
+10 shillings of Bank
+of England banknotes.
+
+At the time, banknotes were
+
+used but they were not
+
+trusted and they were
+big amounts as well.
+
+Think about it as having
+a 500 pounds banknote.
+
+It was a huge amount.
+
+What would parties do?
+
+What would people do
+was they would exchange
+
+that banknote into coins
+
+because coins were
+smaller in amounts,
+
+they could just
+use it in the day
+
+today payments and they
+trusted coins more.
+
+But in different ways,
+
+banknotes served a purpose.
+
+What happened in this case is
+
+William Finney posted
+this 20 pounds,
+
+10 shillings banknote
+in the post to
+
+the person that they wanted
+to pay and it got stolen.
+
+Mr. Finney informed Bank
+of England and said,
+
+someone may come and present
+this bank note to you,
+
+make sure that you take
+
+the bank note and
+you keep hold of it.
+
+As I said to you,
+
+why would you go and
+present note to a bank?
+
+We would not do it
+today. But at the time,
+
+they were given a
+coin in return.
+
+It was exchange for coin.
+
+Some time goes and Mr. Miller,
+
+who is running an inn,
+
+like a hotel manager,
+
+is presented with this banknote
+by someone and in return,
+
+he gives this person some coins.
+
+People who run inns
+at the time also
+
+acted as small exchange offices.
+
+Think about it that
+way, just a bit
+
+of context, so it makes sense.
+
+What did he do at that moment?
+
+He took the bank note
+and he gave the coins.
+
+What we're doing there,
+
+he had good faith.
+
+He provided ally,
+he gave coins back,
+
+and he had no notice of
+
+the prior defects
+of this banknote,
+
+he was not aware that it
+was stolen and so forth.
+
+That's our definition
+of a bonafide,
+
+the person who had good faith
+bonafide the good faith,
+
+same thing, and took
+that banknote for Vale,
+
+provided consideration
+by handing coins,
+
+and had no notice
+of the defects.
+
+Then eventually, Miller takes
+
+this banknote to the
+bank and the bank clerk,
+
+Reyes realises that this
+
+is the banknote that
+Mr. Finney told them
+
+about and takes that banknote
+and refuses to pay Miller.
+
+Miller eventually
+sues for conversion,
+
+accusing Ray saying, you've
+
+interfered with my rights
+over my property and sues.
+
+The court agrees with Mr.
+Miller and finds that where
+
+a party takes that payment
+instrument banknote
+
+specifically in good faith,
+
+provides value for it and
+has no notice of any defect.
+
+He's just doing another day
+
+in the ordinary
+course of business,
+
+then they become a
+valid owner of that.
+
+That's an example of a case.
+
+How cash is a
+negotiable instrument
+
+that the third innocent party
+
+acquired it free of its defects.
+
+Am I going too fast?
+
+Note that I got
+time to slow down,
+
+but I just wanted to be and ask.
+
+We said there are
+different types of money,
+
+so bank E-money and
+electronic money.
+
+What do we mean by that?
+
+Bank money is the money that
+appears on our bank account,
+
+very simple for now.
+
+Electronic monies are
+start monetary value
+
+represented by a claim
+on the money issuer,
+
+which is issued on receipt of
+
+funds for the purpose of making
+
+payment transaction
+and is accepted
+
+by a person other than
+the money issued.
+
+What do we mean? First of all,
+
+you pay Apple 50
+pounds and now you've
+
+got 50 pounds appearing on
+your Apple app as a payment.
+
+Think of that scenario.
+
+In that sense, it's a monitor
+value stored digitally.
+
+It represents a claim
+on the E-money issue.
+
+Same thing with banks and
+
+the money we have in bank and
+
+same thing with
+electronic money.
+
+Once you put your money
+in the bank or once you
+
+pay Apple 50 pounds to have
+this amount on your app,
+
+that money becomes theirs,
+
+but you have a claim against
+
+them to give you the
+money when you demand it.
+
+That's what we mean by a
+claim on the E-money issue.
+
+It's not that it's your money
+that you're asking back,
+
+it becomes their money, but
+you got a claim against them.
+
+That's how the law works.
+
+We'll see in banking
+a little bit more.
+
+Represented by a claim
+on the E-money issue.
+
+You've got a claim
+against ApplePay to
+
+give you that 50 pounds
+that you put in there,
+
+which is issued on receipt of
+
+the funds.. That stored value,
+
+that digital money value
+that is stored there,
+
+that is issued to you,
+
+that appears on your phone
+
+once you put the funding there,
+
+once you pay ApplePay,
+
+then that's when it
+appears on your app.
+
+That's what it means on receipt
+of funds, you fund that.
+
+For the purpose of making
+payment transactions.
+
+Electronic money is used
+to make smooth payments.
+
+It's easy to tap
+it and so forth.
+
+It's not really to
+store the money,
+
+you would not get interest
+rate and so forth.
+
+It's just the type of
+payment method you use for
+
+convenient payment and is
+
+accepted by a person other
+than the E-money issue.
+
+You can use it everywhere
+that accepts it,
+
+not just with Apple,
+
+not with Google, not
+just with Amazon,
+
+but if you say Costa
+Coffee accepts it,
+
+you can use that digital
+electronic money
+
+to make the payment there.
+
+That's what electronic money is.
+
+Let's take a moment to
+distinguish between
+
+electronic money
+and cryptocurrency.
+
+Electronic money is still backed
+
+by fiat money. What do we mean?
+
+Somewhere in the world,
+
+that 50 pounds that you
+gave Apple that now looks
+
+on your phone as a
+digitally stored value,
+
+that 50 pounds is
+somewhere in the world.
+
+That 50 pounds digital
+monetary value
+
+is backed up by real
+money, real fiat money.
+
+Whereas with cryptocurrency,
+no such thing exists.
+
+What makes cryptocurrency have
+
+the value it has is the
+demand people have in it.
+
+There's no real money that
+backs up the cryptocurrency,
+
+well, like bitcoin
+and those things.
+
+Unlike electronic, many
+cryptocurrencies are
+
+not as widely accepted for
+
+payment and whole different
+rules apply to them.
+
+But the only purpose
+
+of this slide is so that
+
+there's a distinction,
+it's not the same thing.
+
+As we said, when it comes
+to electronic money,
+
+it represents a
+claim on the issue.
+
+You can not a direct
+ownership of the money.
+
+You're not the owner
+of that money,
+
+but you can claim
+that money back from
+
+the E-money issuer and it's
+stored electronically,
+
+either in your mobile apps
+
+or in smart cards and so forth.
+
+The value of that electronic
+money is stored digitally.
+
+It's not a banknote anymore,
+
+and it's not negotiable.
+
+Unlike banknotes, unlike cash
+money, it's not negotiable.
+
+You cannot freely
+transfer it on and on.
+
+As we said, it's backed
+by physical money.
+
+Do we understand what this
+
+means to be backed
+by physical money?
+
+It means you can trust it.
+
+Its value will not fluctuate.
+
+Think about it as Marx and
+Spencer's digital gift card.
+
+You have it, it's on your phone,
+
+you paid 50 pounds for that,
+
+Marx and Spencer has that.
+
+But think of I don't know,
+
+maybe cryptocurrency as
+a digital collectable.
+
+The more people have demand,
+
+the more it goes up in Mali,
+
+but it's not packed up
+with real fiat money.
+
+That is something that
+
+impacts durability of its
+value, things like that.
+
+I'm just conscious of our
+time and I won't be able to
+
+get into so much detail
+with all these topics.
+
+Funds transfer.
+
+This is basically a
+cashless transfer of
+
+money from one account to
+the other electronically.
+
+It involves debiting
+and crediting without
+
+actual transfer of physical
+money. What do we mean?
+
+I go Charlotte Tilbery's
+website like I do,
+
+and you just see Charlotte
+Tilbery saying, hi darling,
+
+you look perfect and like
+
+a Hollywood star if you
+purchase my makeup.
+
+I just make purchase
+place order for
+
+a little mini eyeshadow for
+46 pounds. What happens then?
+
+I made a bank transfer,
+
+there I'm paying by debit card.
+
+What happens there is if I
+
+have 100 pounds in
+my bank account,
+
+my bank debts that amount
+on the computer system,
+
+so think of my details,
+
+debts that and now minus 46,
+
+I now have 54 pounds.
+
+It's updated digitally
+on the system.
+
+Then it goes for
+
+a certain process which
+we'll look into in
+
+more detail and it
+
+reaches Charlotte
+Tilbery's bank account.
+
+Now, she has rather than say
+100 pounds, she has 146.
+
+That one is now
+credited with that.
+
+But all it is my
+bank does not put
+
+the 46 pounds in an envelope
+
+and take it to Charlotte
+Tilbery's bank,
+
+and the bank does not
+store that money there.
+
+It's just simply all taking
+place online digitally.
+
+The payment systems,
+
+the systems that
+process that payment,
+
+that journey from
+one bank account
+
+to the other is CHAPS and BACS.
+
+Systems that we're going
+to look into in detail.
+
+We've got two main systems.
+There are two of them.
+
+One of them is BACS,
+
+and this processing system,
+
+think about them as post office.
+
+We'll deliver the parcel
+that is mine to you.
+
+It's a process that
+delivery needs to
+
+take place at some point and it
+
+needs to end up with one of you.
+
+BACS is used for
+bulk transfers for
+
+smaller amounts
+and for day to day
+
+spending or pensions and
+wages and things like that.
+
+Smaller amounts, but
+higher in volume.
+
+The processing day for BACS
+payments is three days.
+
+I think I'll just extend
+and come back to CHAPS.
+
+The payment is
+complete once the pay
+
+acknowledges the payment.
+What do we mean?
+
+Say, I run a company,
+
+I've got 10 employees,
+
+this is day zero,
+
+I instruct my bank today giving
+my employees sort codes,
+
+account numbers, the amounts
+
+that they need to be
+paid and so forth,
+
+so I instruct my bank
+
+to make that payment
+to these accounts.
+
+That's day zero.
+
+Then the bank checks
+
+that those accounts exist that
+
+the sort code and the
+account number matches,
+
+and then say I have
+sufficient funds in
+
+my account that these 10
+employees can be paid from.
+
+Does all these checks
+and then my bank,
+
+this is day zero.
+
+The next day, day
+one instructs CHAPS.
+
+CHAPS is a processing system.
+
+It's not an individual,
+it's a processing system.
+
+Sorry, BACS, not CHAPS, BACS.
+
+Instruct BACS.
+
+BACS does the same thing.
+
+Bankers automated
+clearing service,
+
+that's what it stands for.
+
+BACS in day one,
+
+does the same checking.
+
+Checks the bank account,
+account number,
+
+the sort code,
+
+the amounts that I've got
+sufficient amount and so forth.
+
+Because BACS is a
+bulk payment system,
+
+imagine thousands and thousands
+of thousands of people
+
+for each transaction
+from our debit cards,
+
+from our little payments
+all the way to,
+
+as I said, paying
+wages and so forth.
+
+They take that one day to
+process that. That's day one.
+
+The BACS system is processing
+all the payment requests
+
+from all these
+different banks that
+
+their customers
+instructed them to do.
+
+Then by the end of day one,
+
+BACS sends it, does the
+process and everything,
+
+it sends that payment
+instruction to the payee's bank.
+
+That's day two.
+During that day two,
+
+all these payee's banks also
+do the checks and so forth.
+
+Again, check the
+customer account and
+
+make sure that the system
+
+is clear where this money
+is going and so forth.
+
+By the end of day two,
+
+the payee's bank also completes
+
+what they need to
+do and by three,
+
+it reaches the payee's account.
+
+It's shown in the payee's
+account because during day two,
+
+payee's bank also sorted
+
+what they needed to
+do on the system.
+
+That's how step by step,
+
+our payment instruction from
+
+the moment we make
+all the way it
+
+gets to Charlotte
+Tilbery's account,
+
+that's the stage it takes.
+
+That's why we most of
+the time have noticed.
+
+Say it may take
+
+up to three days for
+
+the payment to appear
+in your account.
+
+That's exactly
+what this is BACS.
+
+This is a BACS payment
+schemes limited,
+
+it's owned by different banks.
+
+By the way, so it's
+a non-profit company
+
+that is owned by banks
+
+and it helps banks to do
+their internal settlement.
+
+The banks use this system
+
+to basically transfer
+money between each other.
+
+Think about it as day zero,
+
+I drop my parcel to the
+post office, day one,
+
+my post office
+takes the parcel to
+
+their local warehouse, sorts it,
+
+day two they send it to the
+whoever I'm sending, Anna's?
+
+Anna's local post office that's
+day two and by day three,
+
+the postman or postwoman
+delivers it to Anna's house.
+
+Think about it that way.
+
+This is going to become
+really relevant in a minute.
+
+What about CHAPS?
+
+CHAPS is another
+processing system.
+
+But this is used for
+
+really high value payments
+and it's instant.
+
+It doesn't take three days.
+
+It happens in real time.
+
+This is used for transactions
+that time matters.
+
+If you're selling a house,
+
+if you're purchasing, if
+you're merging two companies,
+
+you need that settlement
+there and then or
+
+sometimes we would have if
+you pay extra money, it says,
+
+and if you want
+to transfer money
+
+to abroad or
+something like this,
+
+you pay an extra fee to
+
+have it transferred
+on the same day.
+
+That's when the CHAP
+system is used.
+
+CHAP system works
+very similarly.
+
+You make an instruction
+to your bank,
+
+your bank sends it
+through CHAP system,
+
+makes this instruction
+to the CHAP system.
+
+CHAP system again, like
+
+BACS system is a
+processing system.
+
+They are sending messages
+saying the instructions.
+
+They don't hold the
+money to transfer.
+
+Then CHAPS sends it to
+
+the payee's bank and payee's
+bank also does the check
+
+and then they transfer the
+money to the payee's account.
+
+This happens in real time
+and it happens really fast.
+
+It happens both in
+an automated way,
+
+but also sometimes
+with individuals.
+
+Unless there is a
+really huge amount,
+
+something suspicious, an
+individual would not check it.
+
+But if there is a
+really big amount
+
+that there's something
+suspicious about it,
+
+an individual might check it,
+
+but other than that,
+
+it's all done automated and
+
+it all takes place really fast.
+
+How does Bank of England,
+
+especially for CHAPS
+payment become relevant?
+
+Customer of Bank A makes
+an instruction to Bank A.
+
+Bank A makes an
+instruction to CHAP,
+
+and CHAP gives an instruction
+to Bank of England.
+
+Bank of England is
+the place where
+
+these banks will have accounts
+
+in a way that we have
+accounts with banks.
+
+Barclays and NatWest
+and so forth,
+
+will have an actual account with
+
+Bank of England that they have
+millions and billions in.
+
+When CHAPS passes
+that instruction,
+
+Bank of England looks
+on the system minus
+
+ten from Barclays account to
+plus ten to NatWest account.
+
+Bank of England has
+this intermediary role,
+
+this oversight to make
+
+sure that it all
+takes place smoothly.
+
+This case is really important,
+
+so I really recommend
+you read it.
+
+But essentially, in terms of
+
+CHAPS payments or BACS
+payments as well,
+
+when they when pay
+is unconditionally
+
+accepted by the payee's bank as
+
+its creditor in respect of
+the amount transferred,
+
+then the party's payment
+obligation is discharged.
+
+When that happens, once
+
+the payee's bank accepts
+that pay as its creditor,
+
+someone that they need to credit
+
+some money to their account.
+
+That's where the
+payment obligation
+
+of the payer is completed.
+
+What about if something goes
+
+wrong and you want to
+revoke that payment?
+
+What happens when we send
+money to wrong accounts?
+
+Yes, they check the sort
+code and the account number,
+
+but they would not check
+so many other details.
+
+They would not check
+the names and so forth.
+
+Especially with CHAPS payments,
+
+we said, actually, I want
+to give you some fun facts.
+
+I want to tell you daily,
+
+there are 217,000 CHAPS
+transfer requests.
+
+That average daily
+value is 400 billion.
+
+With BACS, millions of
+requests are made to be
+
+transferred for BACS system and
+
+it's 85 million pounds a day.
+
+The UK's GDP per year is
+
+3 trillion pounds and BACS
+
+and CHAPS moves
+such a high volume
+
+of money that in nine days,
+
+the total value of payments
+equal to UK's entire GDP.
+
+That's how much money is
+been going back and forth.
+
+If you look at Bank
+of England's website,
+
+they've got lots of
+interesting information.
+
+Anyway, coming back to this,
+
+what if one of the parties want
+
+to revocate their payment
+
+because they've
+changed their mind,
+
+they realised that they've
+sent it to the wrong person,
+
+they've sent wrong amount,
+
+so many mistakes can be made.
+
+The revocation will depend
+on whether you've used,
+
+of course, BACS
+or CHAPS service.
+
+Therefore, the risk will also
+
+depend on whether you use
+CHAPS or BACS service.
+
+Because what did we say,
+
+if you use certain type of
+methods such as bank transfer,
+
+where you have an
+intermediary that needs
+
+to complete that transfer,
+
+the risk remains with you
+
+until that money is credited
+to the payee's account.
+
+If you use the BACS
+service before
+
+the end of second
+day at 3:30 PM,
+
+you can still call your bank
+
+or contact your bank
+to revoke the payment.
+
+As you may know,
+may have realised,
+
+when you look at
+your bank accounts,
+
+sometimes it doesn't
+take three days at all.
+
+It's process much faster
+because banks have
+
+got overnight processing
+systems and so forth.
+
+If the entire transfer was
+completed in two days,
+
+then again, you
+cannot revoke it.
+
+But we're going with the say
+
+imagine it's taking three days,
+
+then you can revoke it.
+
+On the second day
+before 3:30 PM.
+
+Essentially, before CHAPS
+
+instructs the payee's
+bank for that transfer,
+
+up until that moment,
+
+you can revoke your payment.
+
+With CHAPS, on the other hand,
+
+you cannot because the moment
+
+that money through that
+transfer goes through,
+
+in no time it will reach
+the payee's account.
+
+Revocation is not possible.
+
+But what did we say?
+
+We said with CHAPS it's
+
+such high value of
+payments that are made,
+
+it could be 30,000 pounds,
+
+it could be 3 million pounds.
+
+That means if a party makes
+a mistake, that's it.
+
+They've lost their money.
+
+I don't want to say
+they've lost their money,
+
+but the money is transferred,
+
+the banks will not do
+anything about it.
+
+If through CHAPS transfer,
+
+the pay or made a mistake,
+
+not the bank, then they
+cannot revoke that payment.
+
+The bank may help
+them to identify
+
+the person whose account
+the money has gone to.
+
+You may have a claim against
+
+that person unjust enrichment,
+
+some other civil
+claims, and so forth.
+
+But banks are not liable
+
+and they don't have to do
+anything to help here.
+
+Can we just take a moment to
+
+think about how risky that is?
+
+Yeah. That's something that
+customers need to consider.
+
+Philipp and Barclays case is
+
+a really important case again.
+
+I will tell you just a
+few sentences about it,
+
+but hopefully you'll read it.
+
+In this case, Mr. Philip
+
+instructed their bank for
+CHAPS payment for around,
+
+I think 25 or 30,000 pounds and
+
+the bank has successfully
+transferred the money.
+
+But it turns out,
+
+Mr. Philip has given wrong
+beneficiary instructions.
+
+Therefore, the money has
+gone to someone else.
+
+When he sued the Barclays Bank,
+
+the court found, unless the
+bank has made a mistake,
+
+then you may have a claim.
+
+But if the bank has
+not made any mistake,
+
+then the payment goes and
+banks has no liability at all.
+
+It's on you that you've
+made this mistake.
+
+The payer will bear
+that commercial risk.
+
+Responsibility in
+electronic payments,
+
+payers are responsible to
+provide the correct details.
+
+All sorts of issues can arise.
+
+They are obliged to provide
+correct details to have say,
+
+sufficient funds in their
+account if they want
+
+to make that transfer
+and so forth.
+
+Payees are entitled to receive
+payment once their banks
+
+unconditionally credits that
+amount on their accounts,
+
+issues, again, in that
+scenario may occur with
+
+non-payment or payment of
+wrong amount and so forth,
+
+and banks are in a
+position to act both
+
+for the payer and payee.
+
+They can be liable if
+
+they execute those
+instructions wrongly.
+
+But other than that, if they
+
+follow the customer's
+instructions,
+
+they will not be under
+any further obligation.
+
+Title Energy and Bank of England
+
+is another important case,
+
+but hopefully you will
+read that as well.
+
+I was worried about not
+having enough time,
+
+but I've gone through
+it real fast.
+
+Are there any questions?
+
+Would you like me to go
+back to those few slides
+
+and explain them properly?
+
+FEMALE_2: No.
+
+FEMALE_1: I understand
+it's 6:00 PM.
+
+I want to be home too.
+
+Guys, that's it for today.
+
+I'll be here a few more
+minutes if you've got
+
+any questions. Thank you.
+
