@@ -1,0 +1,2369 @@
+Zora Kizilyurek Jones: This
+is something that I hate to
+
+share with you. It's an event.
+
+You can just scan the QR code,
+
+and there will be some work
+
+opportunities in this for you.
+
+I will move on from it, but
+at the end of the lecture,
+
+I'll come back to this screen so
+
+that you can just scan
+it and read about it.
+
+Because we're a little bit late.
+
+Welcome back to the final
+topic of commercial law,
+
+which is the topic
+of insolvency.
+
+Again, this is a big
+topic, quite detailed one.
+
+We're going to use
+the next two weeks as
+
+a more introduction to
+
+teach you the most
+basic aspects of it.
+
+Just little few points.
+
+Insolvency is essentially
+where a company is
+
+unable to pay its debts.
+
+That's in the most simple
+form what insolvency is where
+
+a company is not able to
+meet its debt obligations.
+
+We are going to look at the
+definition of insolvency,
+
+so what insolvency is,
+
+and we're going to look at
+
+the different procedures that
+
+apply to the insolvency process,
+
+and we're going to look at
+
+the relevant stakeholders that
+
+have an interest in the
+process of insolvency.
+
+Now, when a company is insolvent
+and is not able to pay
+
+its legal debt obligations,
+what does that mean?
+
+That means the usual
+private law rules
+
+will not provide any remedy.
+
+We teach you in contract
+law, for example,
+
+if an individual fails
+to pay its debts,
+
+they can be sued, and
+
+the creditor can receive
+some damages and so forth.
+
+Whereas if a company
+is insolvent, simply,
+
+it does not have enough money to
+
+pay its debt obligations,
+
+then we need to look
+into insolvency law.
+
+Just as an example, say I
+have 100 pounds in my pocket.
+
+I'm a company,
+
+and I owe 10 of you
+100 pounds each.
+
+My debt is 1,000 pounds,
+
+and I only have 100 pounds.
+
+How do we go about
+this? What do we do?
+
+Because surely I won't be
+able to pay each of you,
+
+and I won't even be
+able to possibly
+
+pay 10 pounds per creditor.
+
+That will also depend on
+the insolvency rules.
+
+Insolvency law looks at
+
+the circumstances
+where a company
+
+is not able to pay its debt,
+
+and how do we govern
+that entire process?
+
+Insolvency can be both an
+event and a procedure.
+
+It's an event because
+
+the moment we establish that
+a company is insolvent,
+
+then that communicates
+some information to us,
+
+and it's a procedure because
+once that event occurs,
+
+once that company
+becomes insolvent,
+
+we can apply range of procedures
+to govern that process.
+
+One of them is we
+establish on paper
+
+that the company is unable to
+meet its debt obligations,
+
+that event of it going
+insolvent occurred.
+
+But the procedure aspect
+of it is answering,
+
+we've established
+this legal issue,
+
+but what do we do about it?
+
+How do we go about
+paying the creditors?
+
+That's the distinction and
+understanding insolvency
+
+both as an event
+
+and also as a procedure
+is really important,
+
+so that we can understand
+
+the rest of this
+lecture as well.
+
+As an event,
+
+insolvency is the
+moment a company is
+
+no longer able to meet
+its debt obligations.
+
+It simply communicates to us
+
+that that company is
+in financial stress
+
+and something needs to be
+
+done about some form of
+intervention should take place.
+
+A company going insolvent is
+
+essentially bells
+ringing that there is
+
+some danger if a company is
+
+insolvent and that event
+of insolvency occur,
+
+that means they may not be
+able to pay their employees,
+
+they may not be able to repay
+the loans and so forth.
+
+It communicates to us that
+
+the financial health of
+that company is not right.
+
+This is just the event.
+
+We've not yet taken any
+steps to govern this event,
+
+and the procedure aspect
+
+of insolvency very
+much does this.
+
+Once we establish the event,
+
+we then proceed with
+applying different type
+
+of procedures to govern
+that insolvency process.
+
+Our focus may be winding
+that company up,
+
+meaning the company
+has gone insolvent,
+
+then it should cease to end.
+
+You end company's life
+through winding it up,
+
+meaning you gather the
+assets of the company,
+
+you gather everything it has,
+
+the money in the bank
+account and so forth,
+
+and distribute it
+to the creditors,
+
+and the life of
+that company ends.
+
+Or you also have other
+types of procedures
+
+that focuses on risk
+or restructuring.
+
+If a company is insolvent and
+
+that insolvency event occurred,
+
+the other approach to take
+could be trying to save
+
+that company so that it can
+continue doing business,
+
+or it could also be
+
+restructuring the debts
+of that company so
+
+that it can pay its
+creditors in time.
+
+Now, let's have a brief look
+at the modern English law.
+
+What is the approach of
+modern English law when
+
+it comes to insolvency?
+
+In the past, the main focus
+
+of English law was
+on liquidation,
+
+essentially, ending
+the company's life,
+
+paying the creditors, and
+the company ceases to exist.
+
+That was very much the focus.
+
+Whereas in modern times,
+
+the legislations we have,
+
+such as Insolvency
+Act, Enterprise Act,
+
+and Corporate Insolvency
+and Governance Act
+
+is either updated or introduced
+as newer legislations,
+
+as you can see here, to
+focus on saving the company,
+
+if possible, if appropriate.
+
+Now, historically,
+giving this priority to
+
+season the company
+meant some creditors,
+
+especially creditors that are
+
+in more advantaged position,
+
+we are going to look
+at all of that.
+
+We're able to basically
+rush to the courts
+
+or ask enforcement officers
+
+to come and recover everything
+
+that company owes and get paid,
+
+and that's where the life
+of the company ended.
+
+Creditors, especially what
+we call secured creditors
+
+was in an advantage position
+
+to basically recover
+everything they can.
+
+But in early 2000s,
+
+especially with Enterprise Act,
+
+the whole philosophy of the
+insolvency law has shifted
+
+from ending the company's life
+
+into rescuing that company.
+
+The focus is no longer on
+the individual enforcement,
+
+meaning the focus is no
+
+longer prioritising
+
+certain creditors
+and their recovery,
+
+but instead, the focus is
+now a collective rescue.
+
+The thought process behind this
+
+is once a company is wound up,
+
+there is a lot of
+
+negative effects that
+winding up comes with.
+
+It means people will
+lose their jobs.
+
+It means that company
+will cease to trade,
+
+the value that it brings will no
+
+longer be there and so forth.
+
+It may impact the
+economy and so forth.
+
+By rescuing that
+company, if possible,
+
+then there is this belief
+that everyone will benefit
+
+more in the long term in the
+wider picture and so forth.
+
+The focus has
+basically shifted from
+
+punishing the insolvent
+company by ending its life
+
+straightaway into trying to
+
+rehabilitate that company
+to preserve its value.
+
+With the Enterprise
+Act being introduced,
+
+this liquidation,
+
+which is basically
+winding the company up,
+
+ending the company's life,
+
+was replaced with
+administration process,
+
+which is a type of
+
+procedure that applies
+to an insolvent company,
+
+and administration
+became a more central,
+
+more default approach to take,
+
+which helps the company to
+recover itself if possible.
+
+I want to emphasise here that
+
+the only aim of this lecture
+is to give you an overview.
+
+Everything I say now,
+we are going to explore
+
+a lot more today or
+in the next lecture.
+
+If you don't feel clear,
+don't worry about it;
+
+we'll come back to
+all this terminology.
+
+Enterprise Act made
+administration process
+
+this process of
+attempting to save
+
+the company's life
+more smoother,
+
+streamlined it more,
+
+and it is now more
+efficient and so forth.
+
+With the Corporate Insolvency
+and Governance Act,
+
+which is, as you can
+say, very recent Act,
+
+this third procedure of
+moratorium was introduced.
+
+We went from liquidation,
+
+apply liquidation procedure to
+
+a company that has
+gone insolvent,
+
+where ended its life to shifting
+
+our focus to
+administration procedure
+
+to try to save the company.
+
+The final procedure that is
+introduced is moratorium.
+
+Moratorium is essentially giving
+
+that company some
+breathing space.
+
+The company may be given
+two business days,
+
+and it can be extended a
+little bit more as well,
+
+where the creditors cannot
+chase that company.
+
+The company can take some
+time to make some decisions,
+
+think about its financing.
+
+Maybe reinvest and so forth in
+
+an attempt to save
+itself from collapsing.
+
+During that period,
+no creditor can
+
+take any action to recover
+what they are owed.
+
+As you can see, modern
+English law has
+
+shifted its philosophy
+into having an approach of
+
+trying to rescue the
+company where possible by
+
+introducing new procedures
+or streamlining
+
+existing procedures to give it
+
+a higher chance of preservation.
+
+Now, let's have a look at the
+terminology a little bit.
+
+Insolvency is the process
+that applies to companies,
+
+and bankruptcy is the process
+
+that applies to individuals.
+
+A person can go bankrupt,
+
+a sole trader, or
+partners can go bankrupt.
+
+I know you've not
+done company law yet,
+
+but in the simplest form,
+
+there are different
+business structures.
+
+Someone can work
+as a sole trader,
+
+the owner of your corner shop,
+
+or if more than two people
+
+come together to do business,
+that's partnership.
+
+In sole tradership
+and partnerships,
+
+individuals will have
+full liabilities,
+
+and if say they are
+in a partnership,
+
+they can also share the profits,
+
+share the risks, and so forth.
+
+But when it comes to companies,
+
+companies are what we
+refer as legal persons.
+
+In the eyes of the law,
+
+there are separate
+legal entities
+
+that are governed by directors.
+
+The directors are
+the humans that
+
+govern that legal person.
+Think about it that way.
+
+Companies will be treated as
+
+this separate legal person who
+has their own obligations,
+
+own debts, own
+assets, and so forth.
+
+Because the law
+perceives companies
+
+different than partnerships
+or sole traders,
+
+or individuals, different set
+
+of rules will apply
+to companies.
+
+Insolvency rules only as a
+result, governs the companies,
+
+not persons or sole traders
+
+and so forth, going bankrupt.
+
+There would be different set of
+
+laws and procedures that will
+
+apply to bankruptcy situation.
+
+That's all you need to know for
+
+now: there is a distinction,
+
+and when we were talking
+about insolvency,
+
+we are only referring
+to companies because
+
+they are viewed
+differently in law.
+
+Now, insolvency is
+
+also a pervasive issue.
+What do we mean by that?
+
+Once a company goes insolvent,
+
+it's not only the company
+that is affected by that.
+
+It's also the employees,
+
+the directors, the suppliers,
+
+maybe the bank that that company
+
+has taken out a loan from,
+
+and so forth will
+all be impacted.
+
+I will have this domino effect.
+
+It will influence other persons,
+
+other arrangements,
+and so forth.
+
+This is important because we
+need to see insolvency law,
+
+which I will be
+emphasising this lecture,
+
+is not just a procedure
+
+that brings the
+insolvent company's life
+
+to an end and so forth,
+
+but also as something
+that impacts communities.
+
+Wilko has gone into
+administration, for example,
+
+think of all the
+employees it had,
+
+all the buildings
+that it was leasing,
+
+the contribution it was making
+to economy and so forth.
+
+All these are impacted once
+a company goes insolvent.
+
+We have to understand
+
+insolvency in a bigger
+scale rather than
+
+just a mere set of
+procedures applying to
+
+a company that is insolvent.
+
+Because when a company
+goes insolvent,
+
+the suppliers will not be paid.
+
+Maybe you've already made an
+order that you paid for it
+
+as a customer and you won't
+be able to receive it,
+
+and the banks will not be
+repaid their loan and so forth.
+
+When or if a company goes
+
+insolvent and we end up in
+
+a situation where
+suppliers are not paid,
+
+customers don't
+get their orders,
+
+banks are not paid,
+what happens then?
+
+This question goes to the
+very heart of insolvency law.
+
+We need to have
+set of procedures;
+
+we need to have a
+structure in place.
+
+Otherwise, everybody will rush
+
+maybe to courts to see that
+company that is insolvent.
+
+Everybody will rush to send
+
+enforcement officers to
+that companies to take
+
+its machinery and so
+
+forth in an attempt to
+recover as much as they can.
+
+Insolvency procedures
+brings this set
+
+of order into a
+chaotic situation into
+
+a very difficult
+situation by setting
+
+out rules that helps
+manage that time,
+
+that helps distribute the assets
+
+accordingly and so forth.
+
+When a company's life ends,
+
+it's essentially
+all of its assets,
+
+everything it owns is
+gathered and it's distributed
+
+to the different
+creditors, fairly.
+
+But when I say fairly,
+
+that does not mean equally.
+
+If I have, again,
+
+100 pounds in my pocket,
+
+or say if I have 100 pounds
+in my pocket and I have
+
+five creditors in this room
+
+that I owe different amounts to.
+
+Say I owe 100 pounds,
+
+20 pounds, 10 pounds,
+
+and five pounds to the rest too,
+
+then if we did not have
+insolvency process,
+
+all these five creditors
+will try to come after me to
+
+recover as much as they can
+from that hundred pounds.
+
+But insolvency law will set out
+
+rules that manages
+the distribution
+
+of those assets to
+my five creditors.
+
+Even though different creditors
+owe different amount,
+
+some of the creditors may
+
+get 50 pounds of
+what they are owed,
+
+some of them may
+get nothing at all.
+
+When we say fairness,
+
+we don't mean equal
+distribution of
+
+20 pounds to each
+five creditors.
+
+There are different rules
+that apply to that,
+
+but in any case,
+
+insolvency law
+brings that order so
+
+that all these five
+creditors that are trying
+
+to enforce what they are
+owed can be managed in
+
+an orderly manner rather
+than creating that chaos.
+
+Our aim is fair and
+collective distribution,
+
+but it doesn't mean
+equal distribution.
+
+Now, overall, modern insolvency
+law has two main aims.
+
+One of them is to maximise
+
+creditor recovery because
+the company goes insolvent.
+
+Why? Because it does not
+
+have enough money
+to pay everyone?
+
+If you had enough sufficient
+money to pay everyone,
+
+we wouldn't have insolvency.
+
+That means some of
+the creditors at
+
+the end of the day will not
+be able to be fully paid.
+
+That's why we mean maximise
+what creditors can recover.
+
+Even if they can't recover
+everything they are owed,
+
+we are trying to through
+different procedures,
+
+maximise what those creditors
+
+can recover from that
+insolvent company.
+
+One goal is to maximise
+creditor recovery,
+
+and the other goal is to rescue
+
+and save that
+company if possible.
+
+Even though we are trying
+to help creditors be paid,
+
+on the other hand, the other aim
+
+is to try to bring procedures,
+
+try to take steps to help
+
+that company remain
+and continue trading.
+
+But if it's clear that
+
+that company is not in
+
+a good financial
+position at all and
+
+there is no way to
+save that company,
+
+then we are going to
+focus in that first goal,
+
+which is to maximise what
+creditors can get, and we can,
+
+for example, start a
+liquidation procedure
+
+for that because
+
+liquidation procedure
+allows us to end
+
+companies life and
+distribute the assets.
+
+However, if there is a chance
+
+that that company can be saved,
+
+then we can use
+administration procedure or
+
+a company voluntary arrangement
+procedure and so forth.
+
+Depending on the type of
+goal we are trying to
+
+adopt or we can at times
+try to balance it,
+
+meaning we can first attempt
+to save the company.
+
+If it's not safe, then
+we can end this life and
+
+then try to distribute what
+it has to the creditors.
+
+Depending on what the goal is,
+
+different type of insolvency
+procedures will be applied.
+
+Now let's try to expand
+
+our understanding
+of insolvency law
+
+by looking at these
+broader implications.
+
+Insolvency events,
+not the procedure,
+
+but once the insolvency
+event occurs,
+
+once we know that that company
+
+on the paper can no
+longer pay its debts,
+
+it also serves as a litmus test,
+
+essentially a test that checks
+the financial health of
+
+the company because
+there is a reason
+
+why a company goes insolvent.
+
+Maybe they have bad governance,
+
+maybe the directors are
+not doing a good job.
+
+Maybe the company has made lots
+
+of risky investments or
+made risky decisions.
+
+Whatever it is, this
+insolvency test, sorry,
+
+this insolvency event gives us
+
+information about
+where that company is,
+
+where its financial health is.
+
+Understanding the event
+and understanding
+
+what the issues are with
+that company is important.
+
+Why? Because it
+helps us approach
+
+that insolvency in a way
+that is most beneficial.
+
+When we look at the
+insolvency event,
+
+we understand that that company
+
+is been governed so badly
+for such a long time,
+
+it has made so many
+risky investments and so
+
+forth and there's essentially
+
+no way that it can be saved,
+
+then we can start a
+liquidation process.
+
+If, on the other hand,
+
+by looking at the
+insolvency events,
+
+we can see that the only
+reason why that company is on
+
+the paper insolvent is because
+few bad things happen,
+
+but it can be recovered.
+
+Then we can apply an
+administration procedure.
+
+That's why Insolvency
+as an event serves
+
+a good financial health
+check of a company that
+
+helps us understand what
+
+the circumstances are and
+how to proceed with it.
+
+Also, we've already said
+
+that insolvency has
+a knock-on effect.
+
+It will impact the customers,
+suppliers, businesses.
+
+If that company is
+
+a really big company
+that is a hat chain that
+
+employs so many people or
+if it's a gas company,
+
+electric company, and so forth,
+
+then that may even have
+
+impact in the wider
+economy because
+
+that company going insolvent may
+
+have wider economic
+consequences.
+
+That's other aspect
+of insolvency,
+
+that it doesn't just
+function in a vacuum.
+
+It's also an emotive issue
+
+because once the
+company goes insolvent,
+
+real people are affected.
+
+They will lose their jobs,
+
+they won't be able to maybe
+provide for their children,
+
+they will lose their
+pensions and so forth.
+
+Why do we emphasise this?
+
+Because if in the future,
+
+you work in an area that
+deals with insolvency,
+
+it's important to
+not just see it as
+
+a process that needs
+to be followed and
+
+process where creditors
+solely creditors
+
+should be prioritised and
+what they can recover,
+
+but also considered in a
+wider aspect and understand
+
+the impact a company going
+
+insolvent will have in
+the real-world context.
+
+Insolvency is also
+a political issue
+
+because for those
+in the government,
+
+maintaining the healthy economy
+
+while also balancing
+the needs of
+
+the creditors and rescue of
+
+a distressed company
+all play a major role.
+
+If, while a certain
+government is in place,
+
+certain politicians
+are in power,
+
+say many big companies
+start to go bankrupt,
+
+that would reflect badly on
+those politicians as well.
+
+It also has this aspect of
+being a political issue.
+
+Why does this matter?
+
+Because when we
+introduce new laws,
+
+when the government takes
+new steps, and so forth,
+
+I'm highlighting to you
+that they also have
+
+this interest in
+mind that rules and
+
+laws should be introduced
+in a way to balance
+
+economic health of that country
+
+while also thinking
+about creditors,
+
+but also thinking about the
+
+societal and cultural impact,
+
+multiple companies
+going insolvent or
+
+one big company going
+insolvent will have.
+
+Here, you can see how
+
+insolvency law is really
+interesting when you think
+
+about it because
+even though it's
+
+an unpleasant situation when
+a company goes bankrupt,
+
+so many distressed
+people are in mould,
+
+it also is an area
+
+that is in the intersection
+at the intersection of law,
+
+economy and society broadly.
+
+We've said quite a few times now
+
+that insolvency
+occurs when a company
+
+goes bankrupt and they cannot
+pay their debt obligations.
+
+By the way, why do I
+have individual here?
+
+Because in terms
+of American law,
+
+insolvency applies both to
+companies and individuals.
+
+If you read an article
+from America and it
+
+mentions a individual going
+insolvent, you know why.
+
+Just know that context.
+
+Now, we said that this
+
+is the time when a
+company goes insolvent,
+
+but how do we exactly assess it?
+
+How do we determine
+
+the very moment that
+
+a company has gone insolvent?
+How do we know that?
+
+We've got two main
+tests for this,
+
+which is really important.
+
+Each test looks at
+
+slightly different aspects of
+
+the company's
+financial situation,
+
+and the courts or
+
+relevant persons will look
+at both of these tests,
+
+we apply both of these tests to
+
+establish whether a company
+is insolvent or not.
+
+In practise, if
+the company fails,
+
+either of these tests,
+
+it's declared insolvent
+and relevant procedures
+
+are just started.
+
+But also, I want to say
+that it's just a guidance,
+
+it's not if it fails either
+
+of these tests,
+something must happen.
+
+It just helps us to
+
+understand when a
+company goes insolvent,
+
+it provides us a guidance.
+
+Now, cash flow insolvency
+tax is essentially where
+
+a company is unable to pay
+its debts as they fall due.
+
+If I have 100
+pounds in my pocket
+
+now and I owe you 10,000
+
+pounds to ten of you
+100 pounds each,
+
+but say I also have a machinery
+
+that is worth 10,000 pounds.
+
+When I reach that
+moment of only having
+
+100 pounds in my pocket and I'm
+
+unable to pay you
+there and then,
+
+I fail the cash flow
+insolvency test and
+
+I am insolvent as a
+company, I am insolvent.
+
+Even if I have an asset that
+is worth 10,000 pounds,
+
+eventually I can pay you
+if I sell that asset
+
+because I am not able to pay
+
+you in that moment when
+my debts were due,
+
+as I cannot simply
+
+turn that machinery into
+cash in that very same day,
+
+then again, that's where
+the company is insolvent.
+
+They've got cash
+flow insolvency.
+
+Essentially, even if
+
+a company has a lot of
+assets on the paper,
+
+even if I have the
+machinery on paper
+
+, when you think about it,
+
+I have 10,000 pounds plus
+that hundred pounds in cash,
+
+I cannot meet my debts
+as they fold you,
+
+and it doesn't matter if
+I've got lots of assets,
+
+I still fail the cash
+insolvency test.
+
+That company still fails
+the cash insolvency test.
+
+If a company fails this test,
+
+then that means they
+
+don't have the immediate
+ability to pay.
+
+Just want to mention
+this case to you.
+
+BNY corporate trustees and
+
+Euro Sale case makes
+a distinction between
+
+cash flow test and a
+balance sheet test,
+
+we will see balance
+sheet test in a moment.
+
+Basically, in this case,
+
+the court found that even if
+
+a company has sufficient
+assets to pay its debts,
+
+if they are not able to pay
+as their debts are due,
+
+then they will fail
+the insolvency test.
+
+This will make more
+sense when we look at
+
+the balance sheet test.
+
+One more thing
+before we move on.
+
+Cash flow insolvency test.
+
+Usually, if a company has
+assets, but they fail,
+
+they don't have that
+immediate liquidity that
+
+also indicates
+administration procedure,
+
+but administration
+procedure can be applied to
+
+that company or
+moratorium can be
+
+applied rather than liquidation
+
+because this test shows
+really in the long term,
+
+the company has assets.
+
+There is some value in
+that company still.
+
+It's just in the short
+term, in this moment,
+
+the company is facing
+cash flow issues.
+
+By starting
+administration procedure,
+
+we can still save that company.
+
+That's what failing
+this test prompts.
+
+The company has money
+in the long term.
+
+There are some assets,
+
+but it's just in this
+moment, it doesn't have it,
+
+and maybe we can start
+
+the administration process to
+
+save the company. That's that.
+
+Balance sheet test,
+on the other hand,
+
+is where the company may be able
+
+to pay their debts as
+they fold in this moment.
+
+Say, I owe you 10,000
+pounds in total to ten
+
+of you and the company
+is making enough profit,
+
+say, 100,000 pounds
+profit a month.
+
+I am able to in this moment meet
+
+my debt obligations
+as they fall you.
+
+But when the contingent and
+prospective liabilities
+
+are taken into consideration
+
+and the amount of assets I have,
+
+the company has is taken
+into consideration,
+
+the company is still insolvent.
+
+What do you mean by that?
+
+Contingent liabilities are those
+
+that are liabilities
+that may arise.
+
+It may not arise,
+
+but it may also arise.
+
+There is a possibility
+that liability will arise,
+
+but we don't know yet.
+
+For example, as an example
+for contingent liability,
+
+it could be the company sued
+
+by its employees or
+by someone else,
+
+and there is a chance
+that they will
+
+have to pay substantial
+amount of damages,
+
+or it could be that
+
+that company has provided
+guarantee to company B
+
+and there is a chance
+that company B will
+
+default on their payments
+and as a result,
+
+company A will have to pay
+
+company B's debts as
+
+it provided guarantee
+to that company B.
+
+Possible damages,
+
+damages payment obligations or
+
+guarantee obligations
+and so forth,
+
+may mean that company has
+some payments that are due.
+
+There are also a
+prospective liabilities,
+
+and that is where
+at this moment,
+
+the company is making 1,000
+pounds a month and is
+
+able to pay thousand pounds
+debt to these ten people.
+
+But there are some further
+payments that are due,
+
+and the company may not
+be able to pay those.
+
+As an example, taxes or
+employees' pension contributions,
+
+the company is making
+thousand pounds a month is
+
+able to pay as it is the
+ten people in the room,
+
+but there are further
+debts that are due,
+
+such as taxes and employee
+pension contributions,
+
+and that 1,000 pounds
+will not be enough
+
+to pay those upcoming
+debt obligations.
+
+If the company does not have
+
+enough assets to
+cover all these,
+
+it doesn't matter for
+
+balance sheet test that
+in that very moment,
+
+the company is able
+to pay its creditors.
+
+What matters is
+in the long term?
+
+Does it have enough
+assets to pay
+
+these contingent and
+prospective liabilities.
+
+Balance sheet test is, sorry.
+
+Cash flow insolvency
+test is company
+
+not being able to pay
+its debt when fall due,
+
+even if they have enough
+assets to pay those debts.
+
+Since they don't
+have the liquidity,
+
+they don't have the cash to pay,
+
+they fail that cash flow test.
+
+If that is the case,
+
+the insolvency procedures
+applicable to that company is
+
+administration or other types of
+
+insolvency procedures
+that are aimed
+
+at rescuing that company
+because we know,
+
+even though the company
+cannot pay now,
+
+in the long term,
+it has got value,
+
+it has got assets, it
+has got things that
+
+they would be able to
+meet those obligations.
+
+Balance sheet test on the
+other hand is where a company
+
+may be able to pay its
+debt at this very moment.
+
+But in the long term,
+
+when we think about
+the assets it
+
+has and the contingent and
+prospective liabilities,
+
+the future liabilities
+it will have
+
+the test shows us that that
+company will not be able
+
+to meet those long term
+obligations as it does not
+
+have enough assets to
+cover these future debts,
+
+even though it can go by
+day to day at this moment.
+
+If that is the case, if
+
+the long term
+financial health of
+
+that company is not good,
+
+then we may start
+
+liquidation process because
+we know that there is
+
+not much hope for this
+company to be saved.
+
+Thank you. Just because
+
+the company can pay its
+liabilities at this moment,
+
+that doesn't mean they are safe.
+
+Insolvency procedures can
+still start even then.
+
+Let's have a look at
+the different types
+
+of insolvency procedures.
+
+At the beginning of the lecture,
+
+we said insolvency is
+
+an event and also
+set of procedures.
+
+We established by
+applying these tests
+
+that insolvency has occurred,
+
+that event has taken place.
+
+Now what do we do next?
+
+We apply the
+appropriate procedures
+
+to manage that
+insolvency period.
+
+The first one is
+liquidation or winding up.
+
+This is essentially
+the most drastic one
+
+where company's life
+comes to an end,
+
+the office holder, the
+person appointed to govern
+
+to oversee liquidation procedure
+is called a liquidator.
+
+Essentially, liquidator
+gathers all the assets
+
+this company has,
+everything it has,
+
+try to maximise it
+where possible,
+
+and then distribute to
+
+the creditors according to
+the rules of insolvency.
+
+What do I mean by maximising it?
+
+For example, a the liquidator
+may try to sell some of
+
+the machinery at with
+
+the highest profit
+possible and so forth.
+
+They will try to maximise
+everything that company has to
+
+distribute it to the creditors.
+
+The second procedure
+is administration.
+
+As I said,
+administration's focus is
+
+to save the company
+where possible.
+
+The person appointed to oversee
+
+the administration procedure
+is called an administrator,
+
+and that's the case with
+liquidation as well,
+
+both in liquidation
+and administration.
+
+The office holders will take
+control from the director.
+
+Directors, they are told,
+
+you've not done a good job,
+
+you just take a step back
+and now the officeholders,
+
+whether it's a liquidator
+or an administrator,
+
+will take over that process,
+
+and in terms of insolvency,
+
+the administrator
+will try to make
+
+some business decisions to maybe
+
+help that company
+continue trading,
+
+preserve the value, and
+
+maximise collective
+creditor returns.
+
+For Wilko, administration
+process was started because
+
+there was a chance when it first
+
+gone insolvent that it
+could have been saved.
+
+Afterwards,
+
+it was accepted that the
+company cannot be saved.
+
+But what happened let's
+say with Wilko is,
+
+they started to sell some
+of its products online.
+
+They started to shut down
+the shops one by one.
+
+The most profitable shops
+
+continue trading
+for a longer time.
+
+They also sold Wilkos
+intellectual property rights,
+
+its name and so forth
+to other companies.
+
+Basically, the
+administrator tried to
+
+restructure the way
+Wilko was functioning,
+
+take certain steps to save it.
+
+Even if it can't be saved,
+
+once during administration,
+
+the administrator accepts
+that it can't be saved,
+
+then what can be done to
+
+maximise the value
+of the assets of
+
+that company to
+give back as much
+
+as possible to the creditors.
+
+As I said, by Enterprise Act,
+
+this administration
+procedure was streamlined,
+
+it became more efficient
+
+compared to its older version
+
+of administrative receivership,
+
+which is almost abolished now,
+
+so we don't go over that.
+
+Then we also have
+this third procedure.
+
+This is another procedure
+applicable to a company that
+
+has gone insolvent in this one,
+
+the directors stay in
+power and essentially,
+
+the company enters
+into an agreement,
+
+enters into negotiations
+and a formal agreement with
+
+all the creditors to
+agree a repayment plan,
+
+and that can also
+include the creditors
+
+forgiven some of the debts
+owned by the company.
+
+The aim of this procedure is,
+
+allow that company
+to attempt repaying
+
+over a longer period of
+time on different terms.
+
+The reason why creditors may
+accept this agreement is
+
+because they would
+know the company
+
+simply does not have enough
+money to pay all of them,
+
+and they would see some value
+
+in giving that extra
+time to the company,
+
+believing that if that extra
+time is given and that
+
+repayment plan and that
+
+restructured payment
+plan is in place,
+
+there is a higher chance
+
+that the company
+will be able to pay.
+
+If right now you
+
+want that 100 pounds to
+distribute to 100 of you,
+
+maybe you will get nothing,
+
+maybe you'll get 20 pounds,
+
+whatever it is depending
+on your priority.
+
+But if you accept to be paid
+
+one pound each for now and
+
+leave that 90 pounds
+in my pocket,
+
+I may try to reinvest that money
+
+and just try to recover
+and then in the long term,
+
+maybe I will be
+able to pay all of
+
+you because as a company,
+
+I will just put my
+business back on track.
+
+The office holder for
+
+company volunteer
+arrangement is a supervisor.
+
+As I said, in this process,
+
+the company is not
+taken control over,
+
+so the directors
+will stay in power,
+
+but the supervisor
+will basically
+
+oversee the process
+and make sure that
+
+the company is sticking
+to the following
+
+the terms of the CVA agreement.
+
+Then another procedure I'll
+mention today is moratorium.
+
+This is a standalone,
+
+a bit of a distinct procedure
+that was introduced
+
+with corporate
+insolvency and sorry.
+
+Governance Act 2020.
+
+The aim here is to give that
+company a breathing space.
+
+It could be say 10,
+
+20 business working days
+and it can be extended.
+
+Once the company enters into
+a moratorium procedure,
+
+that means creditors
+are not allowed to
+
+take any action or pursue
+that company for repayment.
+
+The company is given
+
+some breathing space to think
+about its finances again,
+
+to make some decisions.
+
+Hoping that it will be
+able to save itself,
+
+it will be able to make the
+right decisions to turn
+
+those, unfortunate
+things around.
+
+As you can see these two and
+same with administration,
+
+are all these set of
+procedures that are
+
+aimed at helping that company to
+
+restructure or repay its debts
+
+and continue doing business.
+
+This procedure is beneficial
+for companies that
+
+are facing short term
+liquidity problems.
+
+Overall, there is there
+
+is a potential that that
+company will do well.
+
+But just in the short term,
+
+they are facing some
+liquidity issues and
+
+moratorium will give
+them that time.
+
+I will briefly mention
+this and we will continue.
+
+We have different stakeholders
+
+that have interest within
+the insolvency process.
+
+We have creditors, those that
+are waiting to be repaid,
+
+and we have got secured,
+
+unsecured and
+preferential creditors.
+
+We will expand in
+the next lectures.
+
+But basically, some
+creditors are secured.
+
+They've got assets that they've
+
+attached their security to.
+
+Banks and mortgage is
+one example to that.
+
+If a person, let's
+say, goes bankrupt,
+
+then the bank will take
+the house back from them,
+
+because they've got mortgage,
+
+they've got security before
+anyone else is paid,
+
+or before anyone else is
+able to sell that house
+
+or order the court to sell
+that house to be repaid,
+
+the bank will be able
+to take that house.
+
+That's an example of
+a secured creditor.
+
+We also have unsecured creditors
+
+and preferential creditors,
+
+which we are going to look at.
+
+But that's why in the
+beginning of the lecture,
+
+I said, there is fairness,
+
+but there is no equality.
+
+Different creditors
+may be able to recover
+
+different amounts
+and some creditors
+
+may not be able to
+recover anything at all.
+
+We also have office holders that
+
+are part of the
+insolvency process.
+
+We've already
+mentioned liquidator,
+
+administrators and so forth,
+
+and they will also take
+
+some payments when the proceeds
+
+are distributed
+to the creditors,
+
+so they are also part
+of this process.
+
+We have the courts.
+
+Courts are usually not involved
+
+with the insolvency process
+
+day-to-day in the implementation
+
+of the insolvency process,
+
+but more they are in a position
+to oversee the process,
+
+maybe appointing the office
+holders and so forth.
+
+We also have, of course,
+directors and employees.
+
+They are impacted by
+the insolvency process.
+
+We say, for liquidation,
+
+administrators are suspended
+for administration as well.
+
+For liquidation
+and administration
+
+, directors are suspended,
+
+so they are no longer
+running that company,
+
+they are no longer
+making decisions,
+
+employees may lose their jobs,
+
+they are also impacted and
+
+employees may also be
+waiting for some payment,
+
+for example, we also have
+
+people at the bottom
+that will be claimants,
+
+and they will be
+impacted as well.
+
+Say if that company
+
+lease their company building
+
+and they are not able
+to pay their landlord,
+
+those landlords will
+also have a claim
+
+against the company
+waiting to be paid.
+
+In the upcoming lectures,
+
+we're going to see
+how these people
+
+are repaid if they're
+paid anything at all.
+
+Before we wrap up guys,
+
+these are some key principles,
+
+but we're going to explore
+all of them one by
+
+one in the next lecture,
+so don't worry.
+
+There's a little micro
+task if you want to
+
+attempt, and that's it.
+
+I want to share this
+the first one again,
+
+if you want to take a screenshot
+or scan it. Thank you.
+

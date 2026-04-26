@@ -1,0 +1,2032 @@
+MALE_1: Hi, good
+afternoon, everyone.
+
+We're now starting on
+the topic of bailments,
+
+the third topic in this module,
+
+and the last one I'm
+responsible for.
+
+I've just make the best.
+
+This is a new concept to you.
+
+You've already been
+studying torts,
+
+you studied contracts last year.
+
+Bailments is another branch
+of the law of obligations.
+
+Now, so why are we
+studying bailments?
+
+Well, we're going to I'll
+run through the topic.
+
+Why study bailments? We're
+going to look at that.
+
+Who's who of bailment?
+
+Who are the parties?
+
+The nature and subject
+matter, this obligation.
+
+Different types of bailment.
+
+Each different
+type, and there are
+
+several has different incidents
+
+and rules attached to them.
+
+You just have to learn them.
+
+Then we'll look at liability in
+
+negligence under
+bailee's duty of care.
+
+That ties in with
+
+the negligence law
+you're doing in torts.
+
+Then we look at bailee's
+remedies and other torts.
+
+This is quite a useful
+
+supplement to your
+knowledge of the law.
+
+The great thing I found when
+
+I was in practise, obviously,
+
+most things are
+governed by contracts,
+
+if they're commercial
+in any degree.
+
+But really, broad knowledge
+of the law of torts,
+
+not necessarily in depth,
+
+but a knowledge
+of the wide range
+
+of torts that are out there way
+
+beyond what is conceivably
+
+possible to teach in law school.
+
+It's incredibly useful
+because you can
+
+almost if you can't
+find anything else,
+
+very often you'll find a
+tort that you could at least
+
+pretend to make a case on
+
+for your client and it
+gives you something.
+
+Oh, dear. This is
+
+adding the particular
+ones that we're
+
+going to be looking
+at are Trespass to
+
+chattels Trovar, and
+statutory conversion.
+
+That's three more torts
+that you're not studying in
+
+tort add that to your knowledge.
+
+Then we'll look at the
+orders that a court might
+
+make at the end of
+
+a case concerning a
+dispute on a bailment.
+
+In this first lecture,
+
+we're going to look at these
+first handful of points.
+
+That will be enough for today.
+
+We'll start with why are
+we studying bailments?
+
+Bailments are, in fact,
+incredibly common.
+
+You probably never
+heard of them,
+
+but they're incredibly common.
+
+You lend a pen to your
+neighbour in electro theatre.
+
+You don't nowadays because
+you all got a pen.
+
+It was a good example in the
+old days. That's a bailment.
+
+You hire a car.
+That's a bailment.
+
+You taking your gold watch
+
+to the pawn brokers
+in town to get
+
+cash to buy drugs,
+that's a bailment.
+
+All of these a bailments,
+
+you put something into
+
+self storage or into a
+warehouse, bailment.
+
+You buy goods on hire
+purchase on the never,
+
+never. That's a bailment.
+
+That's different from just
+
+getting a loan to
+buy things with.
+
+There are different
+product finance out there,
+
+not all of which are
+higher purchase.
+
+But hire purchase
+is a classic case.
+
+People now buy cars on
+
+these I can't remember
+what they're called PPR.
+
+No, it's something
+else, isn't it?
+
+Whatever. Anyway,
+but in the past,
+
+they tended to buy them
+on higher purchase.
+
+The PCP, isn't it?
+
+The popularity of PCP is that
+
+it keeps the payments lower.
+
+Because with higher purchase,
+
+you put your deposit on,
+
+then you pay rental every month.
+
+When you paid the final rental
+
+of the deal, the car was yours.
+
+Whereas now with a PCP,
+
+you're paying this
+amount each month to
+
+service the debt at the end,
+
+you can just hand the car back.
+
+But if you want to
+keep it, you've
+
+got to then pay a lot of money,
+
+because your monthly
+payments have
+
+gone nowhere near buying
+the car out in three years.
+
+Why it's so much more popular,
+
+but higher purchase
+still exists,
+
+it's still used, and it's
+used commercially as well.
+
+Businesses may acquire machinery
+
+and tools and so on
+on hire purchase.
+
+So it's not just a
+consumer type transaction.
+
+They are all examples
+of bailments.
+
+Anyone ever been
+robbed or burgled?
+
+Yeah. That's bailment.
+
+It wasn't a voluntary bailment.
+
+But that [inaudible] is
+
+the bailee of your
+goods, your stuff.
+
+Bailments can arise
+all sorts of ways.
+
+Why have chosen
+that illustration.
+
+Yeah, don't worry about it.
+
+HP is the usual abbreviation
+for higher purchase.
+
+[LAUGHTER] I find
+that greater front.
+
+Picture there, HP stands
+for Houses Apartment.
+
+That's a picture of
+
+what the houses apartments,
+isn't it in London,
+
+British Houses apartment on
+
+this source that was
+made in Birmingham,
+
+until they closed the factory
+
+down and moved production to
+
+the Netherlands about
+10 or 15 years ago.
+
+That should really
+have a picture
+
+of the Dutch parliament on.
+
+It gives a false impression
+of a British product.
+
+By stocks you can get in booths.
+
+That is very good
+and British made.
+
+Also, I think sins Bizo brown
+sauce is made in Britain.
+
+But HB is a foreign mug.
+
+You're throwing money
+out of our economy and
+
+rewarding them for sacking
+British workers in Birmingham.
+
+So anyway, I digress.
+
+The terminology special to
+bailments is not a lot.
+
+The bailor is usually
+the owner of goods.
+
+They actually might
+be looking after
+
+the goods for someone
+else and sub bail it.
+
+They're the bailor in
+relation to the sub bailee.
+
+The bailor is someone
+
+who has the right to
+get the goods back.
+
+The bailee is the person
+
+who's holding goods
+belonging to another,
+
+and goods subject to a
+bailment are said to be
+
+bailed by the bailor
+to the bailee.
+
+Straightforward. I don't know
+
+the original I suppose Norman
+French origins of the term,
+
+but it obviously relates
+to handing over.
+
+For instance, if you're
+released on bail,
+
+there's some commitment
+to hand you back.
+
+In Australia, the bushwhackers,
+
+their equivalent of our
+highwaymen rather than saying,
+
+stand and deliver your
+money or your life,
+
+I'd say bail up, handover.
+
+That seems to be the
+origins of the thing.
+
+What is a bailment?
+
+Conceptually speaking,
+
+we talk of it as a separate
+form of obligation.
+
+The law of obligations,
+
+and in the past,
+
+it was quite fashionable
+for law schools
+
+to teach a single course,
+
+quite an extensive one on
+the law of obligation.
+
+They combine contracts,
+torts, restitution.
+
+A bailment is, in fact,
+
+another kind of
+obligation in that sense.
+
+Because it doesn't belong to
+
+contract or to torts
+or to restitution.
+
+A bailment can be
+created consensually,
+
+constructively or
+non consensually.
+
+So as I pointed out,
+
+being robbed is a non consensual
+creation of a bailment.
+
+There are other
+instances where it
+
+just turns out I'm
+looking after your stuff.
+
+We've never
+particularly agreed to
+
+it but, not disagree.
+
+It's consensual.
+
+You're happy that I'm
+looking after this stuff.
+
+I might ask, could you
+look after this for me?
+
+Without saying, will
+you enter into contract
+
+with me when I'll pay you
+
+this much money to
+look after my stuff.
+
+So a consensual bailment can
+be gratuitous in that way.
+
+It could be a paid for bailment.
+
+So that might be considered
+contractual in that sense,
+
+except that one or
+both of the parties
+
+can't make a valid contract
+under age or whatever it is.
+
+All contractual bailments
+are consensual,
+
+but not all consensual
+bailments are contractual.
+
+A contract, it does not lie
+at the heart of bailment,
+
+bailment lies at the
+heart of bailment.
+
+We can define the duty.
+
+Obviously, if it is a
+contractual liquidated bailment,
+
+we're going to
+define the duties of
+
+the parties in terms
+of that contract.
+
+But it's also your duties
+are very analogous to torts,
+
+the duty of the person who's got
+
+your stuff, to care for it,
+
+to hand it back till it's
+
+rightful it's like
+torts in that way.
+
+The remedies can be damages
+for breach of contract,
+
+or they can be damages
+for various torts.
+
+There are special
+rules that relate
+
+to burden of proof in bailments.
+
+As we saw with negligent
+misrepresentation last year,
+
+how the burden of
+proof shifts on
+
+to the representor to prove
+that they weren't negligent.
+
+It's not for us to show to
+demonstrate their negligence.
+
+In the normal way,
+if it got run over,
+
+it's for us to suggest that
+the driver was negligent.
+
+There are special
+rules around that.
+
+Remedies can be either damages,
+
+money, or they can be in rem.
+
+That is to say they relate
+to the actual thing.
+
+Give me my stuff back.
+
+No, go to court.
+
+Court orders, give
+him his stuff back.
+
+No, that's a remedy in rem.
+
+Rem is just Latin for thing.
+
+The thing in itself,
+
+isn't it in rem remedy.
+
+Having established what kind
+
+of a legal creature bailment is,
+
+well now look at
+what can be bailed.
+
+What can be the subject
+matter of a bailment?
+
+Well, it's only personal
+property that can be bailed.
+
+When you rent a house,
+
+you're not the bailee of it,
+
+you're the tenant of it.
+
+You can't real property,
+
+land cannot be bailed.
+
+There's only chattels,
+only personality.
+
+It has to be tangible.
+
+I can't bail just my
+right to sue someone.
+
+A shows in action,
+a thing in action.
+
+We find lots of things
+here, aren't they?
+
+We've got Latin for things,
+
+Bam, we got French for things,
+
+shows things in action,
+
+this right that you might
+have to sue people.
+
+I think I explained this
+with sales law, didn't I?
+
+Still, you can't have
+shows as an action,
+
+but valuable paper
+can be bailed.
+
+We saw that in
+sale of goods law,
+
+unless it's a collectible item,
+
+something like a share
+certificate isn't goods.
+
+It just represents your right to
+
+ownership and to receive
+
+the profits from the
+company and so on.
+
+It's not goods.
+
+It's some paper that represents
+
+legal rights that stand
+outside physical objects.
+
+But ebailment,
+
+that certificate can be
+the subject of a bailment.
+
+That might be say SAR
+certificate or it might be,
+
+say, an insurance
+policy document.
+
+It might a pile of
+money could be bailed.
+
+I guess it's personal property.
+
+It's valuable paper.
+
+But we know that cash,
+
+unless it's bought as
+a collectible item,
+
+an antique banknote
+or something,
+
+cash isn't goods, is it?
+
+You can see that it's
+a bit like goods.
+
+But there are
+distinctions between
+
+those matters which
+can be bailed and
+
+what counts as goods for
+the sale of goods at 1979.
+
+Now, there are a number of
+different types of bail.
+
+This is, I suppose,
+
+where the first tricky bit
+
+comes and there's an element
+
+of rote learning for you here.
+
+Now, we generally express
+
+bailments in terms of
+these Latin terms,
+
+because when the common law
+
+was being developed
+on bailments,
+
+the judges simply turned to
+
+Roman law and pinched all
+the definitions from there.
+
+They expressly based
+themselves on Roman law,
+
+which, as you know, is very
+unusual in the common law.
+
+We have these categories,
+
+you just have to learn.
+
+Delivering goods to another
+to keep without fee.
+
+That was actually the one that I
+
+mentioned earlier as
+an example, isn't it?
+
+I asked you, can you look
+
+after this for me
+for 10 minutes?
+
+That is a depositum now,
+
+you're not being paid
+for it and you may feel,
+
+why should I be responsible?
+
+Well, don't agree
+to do it though.
+
+You took my shit.
+
+You're going to be
+responsible in failon
+
+even though there's
+no contractual
+
+relationship there at all,
+
+because it would
+fail for want of
+
+consideration as a contract.
+
+That's hardly positive. Now,
+
+lending someone the use of
+
+something without charge
+for their benefit.
+
+That's the lending your
+friend a pen, for example.
+
+That is called a
+
+comodatum's
+
+not so commonly used now,
+
+but You bankers used
+to say things like,
+
+well, we can accommodate
+you with an overdraft.
+
+We can do something
+nice for you.
+
+We're talking about
+being discommoded
+
+when bad ship happens?
+
+It's the Latin root
+of accommodate.
+
+I can accommodate you
+by doing you a favour,
+
+rather than the sense of a room.
+
+Hiring goods to another.
+
+This is our car
+hire, for instance,
+
+plant hire would be
+
+very obvious example
+in commercial world.
+
+That's called Lacatio etcductio,
+
+placing and using if you like.
+
+Now, the pledge of
+goods, for instance,
+
+in a pawn shop is
+known as Vadium.
+
+Now you're familiar with
+how pawn shops work.
+
+The process of pawn.
+
+For those who aren't, if
+you want to raise money,
+
+obviously, you can
+get unsecured credit
+
+on your credit card,
+
+your bank with an
+overdraft, that thing,
+
+or you can take out
+a loan secured on
+
+things like the loan many
+people take to buy their house,
+
+and they secure that by granting
+a mortgage to the bank.
+
+People often get
+this the wrong way.
+
+But you're landlord,
+you should know that
+
+the the owner of the property
+
+grants the mortgage to the
+bank who's lent the money.
+
+You're not granted a
+mortgage by the bank,
+
+the way they always
+talk about on the tally
+
+how many mortgages have
+been banks have given out.
+
+Fucking haven't they're
+taking the mortgage in.
+
+That's their security.
+
+Is mortgage comes from Mu Dad,
+
+Gu pledge, a token.
+
+Now, a vadium a pledging
+of goods in a pawns,
+
+for instance, in the
+pawnshop is a VIGage.
+
+That's a live pledge.
+
+The lender has actually
+got the thing.
+
+Whereas the bank manager
+doesn't move into your house.
+
+But here, the pawns you
+hand over your gold watch.
+
+The pawnshop says, I can lend
+you this much against that.
+
+You can have it back if you
+pay so much to me in return,
+
+and you've got until
+such and such date.
+
+That is a vardium and they
+
+operate the obvious example is
+
+the pawnshop but other things
+
+happen where physical
+goods are handed
+
+over as security for something
+in the commercial world,
+
+and that acts as a vardium.
+
+Now, handing over
+your goods to someone
+
+else to transport
+them for a charge.
+
+You're sending you're sending
+your luggage with FedEx,
+
+back home if you're
+an overseas student.
+
+I tend not to travel.
+
+I've got dogs.
+
+I don't like putting
+them in kennels.
+
+I don't go on holiday really.
+
+But when I used to,
+
+I quickly realised that dragging
+
+all those fucking
+luggage through
+
+airports was a mugs game.
+
+I took to sending ahead
+to the hotel or whatever.
+
+I'd send my luggage in advance.
+
+Send it by FedEx.
+
+FedEx it back to myself
+
+before which also helps
+
+to although obviously
+pay for the wag,
+
+it's nothing as penal as
+
+the excess baggage
+charge with an airline.
+
+Because you don't have to
+use their overnight service.
+
+You can use a seven day
+service pack a bit.
+
+I guess that's slightly
+gender specific, I realise.
+
+But you can. You can pack.
+
+That's a Life tip.
+
+You see, you get life tips.
+
+Good. That is
+
+a Lacatio operis faciendi.
+
+That would apply Ali every
+company delivering shop.
+
+They nearly all use
+carriers rather.
+
+If they got their
+own vans, then.
+
+It's not a bailment because
+they're doing it themselves.
+
+But, if they're using
+other services,
+
+the post or sending it
+
+via Hermes, they're
+called every now.
+
+Every that's just
+a bailment case
+
+waiting to happen is every.
+
+UPS.
+
+There's that's LacatioPeris
+Fracchia and I.
+
+Goods delivered to
+another to convey them or
+
+to use them for a
+particular purpose
+
+or to carry out a
+particular purpose,
+
+but there's no fee
+for it is mandatum.
+
+That just speaks for itself.
+
+It will become more obvious
+when we delve down into this.
+
+This is not it.
+
+I'm introducing you to the list.
+
+Next lecture, we'll look
+at the details more.
+
+Now, all of those were
+
+recognised in the case
+of Coggs and Bernard,
+
+which you see is
+17 oh three case.
+
+This is the case
+we go back to for
+
+our list of borrowed
+Roman law categories.
+
+We've added some since.
+
+There's catio custodii now
+
+that is where I hand over
+my goods to look after,
+
+but this time, I am
+going to pay you.
+
+If I don't, I'm not
+going to pay you,
+
+that was the deposit them.
+
+If you're charging for looking
+after stuff for me, say,
+
+a left luggage service at an
+airport or a train station,
+
+or putting stuff into storage.
+
+That would be a
+Lacatio custodia,
+
+a placing in the custody,
+
+Lacatio from place,
+like location.
+
+And the custodial to
+look after to care for,
+
+to guard even it can mean.
+
+That's just a deposit on
+Butler's money attached,
+
+which means there are
+
+different duties
+and remedies there.
+
+Constructive bailments have
+been added on to that.
+
+That includes the
+theft, for instance.
+
+I've acquired your goods
+
+not by a deliberate
+handing over of them,
+
+but somehow they're in
+my care or I mit them.
+
+Those would be
+constructive burdens.
+
+We also have little odd cases
+
+that don't really fit
+into any category.
+
+The conditional sale.
+
+When we discuss conditional
+
+and unconditional
+sales contracts
+
+in the last topic,
+
+a conditional sale,
+where the goods are
+
+actually either handed
+over or the property is
+
+meant to pass but
+subject to a condition,
+
+that can create a
+form of bailment.
+
+An example another example
+that might be the sale or
+
+return type of sale
+
+that we also discussed
+in the last topic.
+
+Railway tickets is probably
+
+not one that you can relate two,
+
+I guess, anymore because you get
+
+I haven't travelled
+on a train for
+
+a considerable period of
+time, most unpleasant.
+
+If they don't give
+you a disease,
+
+they stab you or the train
+stop terminates at Preston.
+
+Train travel, not. But I think
+
+you have these things
+on your phones now,
+
+don't you use trains.
+
+But we used to get a paper
+ticket or a bit of card,
+
+that is the property of
+the railway company.
+
+We have to surrender
+it to the guard
+
+or to the guy at the
+gate at the other end.
+
+It's not us.
+
+But it is physical goods.
+
+It's a valuable
+paper, in a sense.
+
+That's an odd case on its
+own version of bailment.
+
+It doesn't fit into any
+of the other categories.
+
+In summary, the types of
+
+bailment that we have
+today are depositum,
+
+Lacatio custodiae, commodatum,
+
+locatio et conductio,
+
+Vadium, locatio operis
+faciendi and mandatum,
+
+and there are some
+others as well.
+
+You just have to
+learn these things.
+
+We've only got to half past,
+
+so we'll start on the
+second lecture of this.
+
+Then it's Lecture 2.
+
+I'm not going to
+run through this.
+
+Let's get some
+case law examples.
+
+A thing to bear in mind,
+
+to be illustrated further on,
+
+is that a bailment can
+change its nature over time.
+
+The same set of goods bailed by
+
+the same bailor to
+the same bailee,
+
+the type of bailment involved
+
+may change while those goods
+
+are still in the
+hands of the Bailee.
+
+We'll see that.
+
+Now,
+
+a nice modern exile.
+
+Depositum and mandatum with
+
+the things involved
+in Coggs and Bernard,
+
+it's all about
+barrels of brandy,
+
+except no one can
+agree with Coggs and
+
+Bernard because it
+was a barrel of
+
+valuable liquid that was
+
+dropped and broke
+liquids spilled.
+
+That's what that was about,
+
+some else asking some bishop
+to look after or whatever.
+
+But it's a modern thing too.
+
+These things happen
+in modern contexts.
+
+Khan and Grocutt were
+
+a pair of British doctors.
+
+They went to a
+conference in Turkey.
+
+Now, these international
+conferences,
+
+especially when it's medics.
+
+They're essentially a giant
+jamboree and freebie,
+
+often paid for by
+the drug companies.
+
+You go over, people
+give some papers,
+
+they give speeches, and so on.
+
+But there's lots of dinners
+and lunches and Bozaks
+
+and the bar and boat
+trips and so on.
+
+Of course, you book
+your hotel for
+
+several extra days after
+to extend the holiday,
+
+that sort of thing.
+
+Dr Khan, in fact,
+
+took his mum with him.
+
+To enjoy a holiday in Turkey.
+
+Now, after the conference
+session is finished,
+
+they decide they want to do a
+bit of sightseeing tourism.
+
+Khan and Grocutt hired a car.
+
+They're going to share the
+cost of hiring the car,
+
+and they're going to
+share the driving.
+
+Dr Khan pays for it on
+
+his credit card and will be
+compensated by Dr Grocutt.
+
+An insurance
+certificate is issued
+
+to cover them both for driving.
+
+Now [NOISE] and Dr Khan
+
+take possession of that
+and presumably pop it in,
+
+either in his wallet
+or his pocket
+
+or in the glove compartment
+of the car or whatever.
+
+But he's got custody
+of the documents.
+
+Anyway, at some point
+during the trip,
+
+while Dr Grocutt is driving,
+
+the car is hit
+head-on by a lorry.
+
+The accident is the
+lorry driver's fault.
+
+There's never been any
+question about that.
+
+Now, obviously,
+the police arrive.
+
+Dr Khan hands over paperwork
+relating to the hired car.
+
+The papers are demanded.
+
+That includes handing over
+the insurance document.
+
+That's an end of it for them.
+
+Come back to Britain.
+
+Mrs Khan has suffered
+injuries in this.
+
+She wants to sue.
+
+Now, the obvious person
+to sue, of course,
+
+is the lorry driver.
+
+The problem is not
+
+that the lorry driver has
+disappeared or anything,
+
+but that when you're insured,
+
+your car is the most
+obvious example.
+
+Your insurer has something
+
+called the right of subrogation.
+
+You'll see cases
+about car accidents,
+
+and it's John Smith
+against Susan Blake, say.
+
+But really, actually,
+
+it's Liverpool Victoria
+Insurance against Aviva.
+
+That's the reality of it.
+
+It's in your name,
+
+but they conduct the business.
+
+They have the right to decide
+
+when to settle it
+and for how much.
+
+They pay the lawyers.
+
+Everything is really
+done by them.
+
+But they do it in your name.
+
+The problem here is no
+insurance certificate.
+
+Whose case is this? Who's going
+
+to be able to bring the case?
+
+You need the insurer
+to deal with this.
+
+They try to get the
+insurance certificate
+
+back from the Turkish police.
+
+But they say, we
+haven't got it anymore.
+
+We get rid of this after
+
+this stuff after so many months;
+
+it's disposed of, so
+we no longer have it.
+
+Mrs Khan then falls back on
+
+the rather desperate approach
+of suing Dr Grocutt,
+
+who was driving at the time,
+
+and whose fault it wasn't.
+
+The case was doomed to failure
+on that particular point.
+
+But she was able to do it
+and, considerably discommode,
+
+actually use that word
+discommode Dr Grocutt
+
+by having been
+granted legal aid.
+
+Now, you taught last year in 101
+
+how evil Tories have taken
+away legal aid from people,
+
+and it's a terrible thing;
+
+legal aid was marvellous,
+
+and it gave access to
+justice to anyone.
+
+The problem was with legal aid,
+
+or one of the various
+problems in legal aid,
+
+was that if you,
+
+as a non legally aided party,
+
+were sued by someone
+who had got legal aid,
+
+you'd never be able to recover
+your costs if you won.
+
+That was a very major downside.
+
+This is operating here
+because Mrs Khan,
+
+in spite of her son being a Dr,
+
+qualified for legal aid.
+
+Her case, that should never have
+
+gone anywhere near court,
+
+ends up in court.
+
+But now, Grocutt wins
+obviously on the merits.
+
+But also, when
+you're being sued by
+
+someone and you think there
+should be somebody else who's
+
+done something and they should
+
+pick up the bill ultimately,
+
+you can join them as a
+third party to the case.
+
+Here, the actor Khan
+here is Mrs Khan,
+
+suing Dr Grocutt,
+
+and Dr Grocutt joins in
+Dr Khan as a third party.
+
+He says, in case I lose,
+
+you should pay the damages.
+
+Why should Dr Khan,
+
+it wasn't even driving,
+
+let alone for, because
+that was the lorry driver.
+
+Why should he have to?
+
+Well, because if there'd been
+an insurance certificate,
+
+we hadn't handed it over
+to the Turkish police.
+
+If it had looked after it,
+
+we'd have had that,
+
+and there wouldn't be any need
+
+for Mrs Khan to sue Dr Grocutt.
+
+If she was suing Dr Grocutt
+
+and it was held to be his fault,
+
+he would be covered
+by that insurance.
+
+He wouldn't have to
+pay it out personally.
+
+I know this is
+elaborate, isn't it?
+
+Many of you are giving up
+typing now because you
+
+think it's going to be easier
+
+to read the case and note it up.
+
+The case also to consider
+this secondary point.
+
+Did Dr Khan owe some duty to
+
+Dr Grocutt in relation to
+the insurance certificate?
+
+Because this is Grocutt's
+own money on the line,
+
+he was being sued by Mrs Khan
+
+because of the lack of this
+insurance certificate.
+
+The court decided, yes,
+
+Dr Khan was the bailee of
+
+valuable paper that in part
+belonged to Dr Grocutt.
+
+They were both named on
+the insurance certificate.
+
+They were both paying for the
+insurance and the car hire.
+
+As Dr Khan looked
+after the goods,
+
+he was the bailee,
+
+and Dr Grocutt was the bailor.
+
+This was a depositor
+because Dr Khan wasn't
+
+charging Dr Grocutt for
+
+looking after the insurance
+documents, obviously.
+
+There is a naked
+bailment with no money,
+
+and we've seen that,
+
+unlike in the sale of goods,
+
+valuable paper
+counts for bailment;
+
+goods are handed over
+to another for note.
+
+That is a depositum which
+lays then a duty of
+
+caring for them as
+
+well as you might reasonably be
+
+expected to care
+for your own stuff.
+
+It's a general duty of care.
+
+It's not a strict liability to
+
+hand the back undamaged
+and things like that,
+
+as we see with some of
+the paid-for bailment,
+
+but he was under a
+duty to do that.
+
+He's responsible,
+
+therefore, for covering
+losses that Grocutt
+
+might suffer if Khan
+
+fails to deliver up the goods
+at the end of the bailment.
+
+Now, the significance for the
+case, you might say, well,
+
+given that Grocutt won the
+case against Mrs Khan,
+
+because it was the
+lorry driver's fault,
+
+not Grocutt's fault, why did he
+
+have to consider
+this second request?
+
+The reason, of course, is costs.
+
+As I pointed out,
+he can't recover
+
+his costs from Mrs Khan
+
+because she's a legally
+aided plaintiff.
+
+He would have been covered.
+
+He would have had
+
+his legal costs covered by
+
+the insurance company
+if only they had
+
+an assurance
+certificate which Dr.
+
+Khan lost or gave away.
+
+This then posses Grocutt costs,
+
+which it can't recover
+from Mrs Khan,
+
+it can now recover from Dr
+Khan under the bailment.
+
+Cool. Quite complicated,
+
+but a modern example of
+how a depositum can arise.
+
+These aren't uncommon.
+
+No. I think I'll
+
+cover one more before
+
+ending today and we'll
+move it over to Thursday.
+
+What would otherwise be
+a depositum for reward?
+
+Just like Cornwall
+but this time,
+
+there's payment for it is
+called a locatio custodiae.
+
+Now, this case of Chapman and
+
+GWR is one that we'll revisit a
+
+little further along
+because this was a case
+
+where there are two types of
+bailment of the same goods.
+
+What happened in this case,
+
+Chapman is a
+travelling salesman,
+
+but it's before the days
+of the company car,
+
+he travels around the country by
+
+train carrying samples with him.
+
+He arranges for a
+set of samples of
+
+the goods to be delivered to
+
+a particular railway
+station to await collection
+
+by him when he passes
+through that station.
+
+There's two things
+that go on here.
+
+One is the contract
+
+for carrying the
+goods for a charge.
+
+The railway companies, the
+samples are being sent
+
+by rail for a payment.
+
+Great Western Railways
+are carrying them.
+
+That is pati paciendi.
+
+Now, but when they
+
+reached their destination
+at the station,
+
+he wasn't there that
+day to pick them up.
+
+They're then put into
+
+storage adjacent to
+the railway station,
+
+and then there's a fire and
+the goods are destroyed.
+
+But storing stuff for a charge
+
+is locatio custodiae
+not a pati paciendi,
+
+so different
+considerations apply.
+
+The court decided that by the
+time they were destroyed,
+
+they were covered by
+locatio custodiae.
+
+There's still a
+potential remedy.
+
+Only the duty in relation
+
+to those goods is not
+quite as high as in
+
+relation to the pati paciendi.
+
+There's an example,
+
+being looked after and
+we can see how things.
+
+Obviously, the
+warehouse situation
+
+is your typical putting
+things into storage.
+
+But also, we can find
+goods are waiting
+
+for something else
+having been done.
+
+The nature of the
+obligation can change with
+
+the changing
+circumstances during
+
+what is essentially
+the same transaction.
+
+This is a good place to break.
+
+I'm going to stop here and
+I'll see you Thursday evening.
+
+[BACKGROUND]
+
+MALE_2: I apologise it
+is the wrong question,
+
+but do you know any
+books in particular,
+
+which are particularly
+good on the CISG?
+
+Because the international
+set of goods in particular.
+
+Because I know for
+international arbitration,
+
+this Red fax a very famous one.
+
+I'm doing z this year.
+
+I need to familiar.
+
+MALE_1: Yeah. You'd be better
+
+to John Macrooe online.
+
+Much more here's thing.
+
+As you know, the UK isn't
+your signatory to see.
+
+That would be I think that would
+
+definitely be more
+groomed question.
+
+It's why I don't
+really know about it.
+
+MALE_2: Well, I ask
+him then. Thank you.
+
+MALE_1: You could
+drop him email.
+
+MALE_3: Is sale of goods
+the longest topic.
+
+Commercial, what you say?
+
+Equal no, with
+character goods spicy.
+
+Because there's so much
+longer than regular contract.
+
+Already. Do you
+know what I mean?
+
+What commercial law.
+
+It's longer than typical
+contract first year modular.
+
+The contract mod last weeks?
+
+No, no, I mean content
+wise. It's more content.
+
+MALE_1: I know. Still. Come on.
+
+A degree of programmes,
+
+I want to complain it.
+
+MALE_3: There's so
+much content in
+
+commercial law. It's
+harder than first.
+
+MALE_1: We don't have
+
+to memorise all cause
+
+we have our online exams.
+
+Obviously we shouldn't know
+it. I don't deny that.
+
+I like it.
+
+I don't wish to engage about
+stupid online experiments.
+
+No. You're not meant to teach
+during the exam, though.
+
+You're not meant to
+select one computer,
+
+another one next to a chatGPT.
+
+MALE_3: No, I'm
+not all you know.
+
+MALE_1: It's up to you. Is it
+
+when you turn up for placement
+at a commercial law.
+
+You don't know anything.
+None of the you say that.
+
+MALE_3: None of the
+things I learned in
+
+Academia are anywhere
+near relevant to you.
+
+Is you doing a commercial.
+
+No. I need to know in
+
+a commercial law
+firm is mergers and
+
+acquisitions and private entity.
+
+That's not Commercial.
+
+Yeah, commercials
+typically the same.
+
+MALE_1: No.
+
+MALE_3: No typically.
+
+MALE_1: No. This
+is what I tried to
+
+explain at the very
+beginning. Day 1.
+
+MALE_3: Come on.
+We have to leave.
+
+There's the Corporate law
+
+by the corporate law department.
+
+[BACKGROUND]
+

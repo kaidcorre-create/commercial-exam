@@ -1,0 +1,1615 @@
+Richard Austen-Baker:
+[BACKGROUND]
+
+Good afternoon, everyone.
+
+I apologise for the late start,
+
+which is entirely due to
+
+the university's chaotic
+new parking system,
+
+which meant that it took me
+twice as long as usual to
+
+find a parking space a
+
+very long way from the
+biology lecture theatre.
+
+[NOISE] We're
+continuing with agency.
+
+We're still looking
+at the way that
+
+agencies can come about.
+
+We just need to finish that
+
+bit off and then we'll move on.
+
+We've looked at, let me see,
+
+express actual authority,
+
+implied actual authority,
+usual authority, ratification.
+
+That's the ex-post approval
+
+of something that somebody
+
+has done purporting
+to be your agent.
+
+We now have two methods left.
+
+One is ostensible, also
+called apparent authority,
+
+and one is agency of necessity.
+
+Now, apparent or ostensible
+authority arises
+
+from the actions or
+
+words of the principal,
+
+giving the impression
+that someone
+
+has a particular authority.
+
+It's slightly different
+from usual authority.
+
+The thing about usual authority
+
+is more to do with the extent to
+
+which someone who is an agent
+has the power to operate.
+
+With ostensible or
+apparent authority,
+
+this is where the
+person has been
+
+expressly represented
+by the principal
+
+to have the power to act.
+
+It's said to be a
+representation of fact.
+
+It's not a
+representation of law,
+
+made by the principal either to
+
+a third party or a class that
+includes that third party,
+
+the other principal,
+
+and reasonably relied
+upon by that other party.
+
+Possibly the best
+example of this is
+
+the case of Summers and Solomon.
+
+Now, in this case,
+
+the owner of a jewellery
+shop employed a manager,
+
+and the manager would purchase
+stock to sell in the shop.
+
+In due course, that
+would be invoiced
+
+for and be paid and so on.
+
+This had been going
+on for some time.
+
+Now, the employment of the
+manager was terminated.
+
+The response of the manager to
+
+that was to go to one of
+their usual suppliers,
+
+buy a load of jewellery,
+
+and bugger off with
+the jewellery,
+
+sell it, and compensate himself.
+
+You'll note from the date 1857,
+
+that there's probably
+no redundancy package
+
+or anything like that.
+
+He snaffled one for himself.
+
+Now, the question was,
+
+did the employer have
+to pay the supplier?
+
+The employer will
+say an argument
+
+was that this ex-manager,
+
+as he was at the time he
+
+made that particular
+transaction,
+
+had no power to act as agent,
+
+therefore could not
+bind the owner of
+
+the shop to pay for
+goods supplied.
+
+Since the owner of
+the shop clearly
+
+did not have the jewellery
+that was supplied,
+
+there's no way of
+going against them to
+
+recover the goods themselves or
+
+their value through damages
+for unjust enrichment.
+
+He said, 'Well,
+
+he's ex, not my
+manager anymore.'
+
+The supplier said, 'Well,
+
+how were we supposed
+to know that?
+
+He'd been your manager for
+some considerable time.
+
+We've been supplying him.
+
+You've been paying the bills.'
+
+The suppliers duly
+won their case.
+
+The person had apparent
+or ostensible authority.
+
+He had been represented
+
+previously by the
+jewellery shop owner as
+
+their manager and
+as being entitled
+
+to purchase stock
+on their behalf.
+
+What they should have done
+would be, before sacking him,
+
+perhaps to alert everybody
+
+that he was no longer empowered,
+
+which would not have been so
+
+impractical as it might seem.
+
+Back then, everybody would have
+
+read the local
+newspaper, for instance.
+
+An advert taken out in
+
+the local newspaper
+would have done the job.
+
+I think I had mentioned
+in the last lecture that
+
+the cases of people
+
+advertising in the local
+paper to say to tradesmen,
+
+'Don't supply my wife on
+credit because I won't pay.'
+
+You could do a similar
+thing with your manager.
+
+It would have been practical.
+
+I think that's the best
+illustration we have with this.
+
+It's very straightforward,
+isn't it?
+
+I'm not going to
+be confused about
+
+apparent or
+ostensible authority.
+
+Good. [NOISE] Now finally,
+agency of necessity.
+
+Now, I've illustrated
+this, as you see,
+
+with a bulk carrier
+loaded with grain.
+
+A modern one.
+
+But you'll remember a much
+older ship that was full of
+
+grain at one point in
+
+Couturier and Hastie in
+contract law last year,
+
+where the grain had
+begun to heat up
+
+and would soon be ruined
+if it wasn't got rid of.
+
+The captain of the ship
+that it was travelling
+
+on acted under the powers he
+
+has as an agent of necessity
+to offload that cargo.
+
+[NOISE] This thing still exists.
+
+It's of lesser
+scope than back in
+
+the day perhaps because
+there are certain rules,
+
+must be the only practicable
+action in the circumstance.
+
+I'm not sure just
+how strict that is.
+
+If we think in
+Couturier and Hastie,
+
+what else could you have done?
+
+It could have just shovelled it
+
+over the side of the ship.
+
+That would have been
+perfectly practicable,
+
+which meant that selling it
+wasn't the only practicable.
+
+We don't literally mean
+the only practicable.
+
+But it might be better to say
+
+the only reasonable thing
+
+to do in the circumstances
+
+might be a better
+way of putting it,
+
+but it doesn't happen
+to be the way that
+
+the judges have
+expressed themselves.
+
+The carrier or
+master must have had
+
+no opportunity at the time to
+
+get instructions from the owner,
+
+and there we can see,
+
+again, if we go back to
+Couturier and Hastie,
+
+we're in the middle of
+the 19th century on
+
+a ship going around
+the Mediterranean,
+
+there just wasn't
+the facilities to
+
+contact the owner of the cargo.
+
+Nowadays, of course,
+you ring them up on
+
+your mobile phone
+or contact by radio
+
+or whatever, an email.
+
+Now, sometimes these things
+aren't possible even now.
+
+It's also the question
+
+of it may have to be an
+instantaneous decision.
+
+It also might be that you're in
+
+some communications
+blackout situation,
+
+which obviously can happen.
+
+But otherwise, you're not
+an agent of necessity.
+
+If you could and should
+have contacted the owner,
+
+then you're not acting as
+an agent of necessity.
+
+Quite the effects
+that that might have,
+
+the knock on effects of that.
+
+In a way we'll
+explore when we're
+
+looking at the
+question of passing
+
+a property in the sale of
+goods part of this module.
+
+Finally, the master of
+the ship because well,
+
+master of the ship or
+the carrier, if it's,
+
+for instance, in the Great
+Western Railway case,
+
+the master must be
+acting honestly
+
+and in the interests
+of the owner.
+
+We can probably read all
+those into one another.
+
+Is it practicable might
+
+have to intersect with is
+
+it in the interests
+of the owner?
+
+Once you've excluded ones
+
+that aren't in the
+interest of the owner,
+
+you might well end up with
+only one practicable solution.
+
+That's part 2.
+
+We're now going to look at
+
+the respective duties of the
+agent and the principal.
+
+The contents of this topic,
+
+we've looked at so far the
+purpose of agency law,
+
+the terminology and
+the foundation,
+
+disclosed and
+undisclosed principles
+
+and termination of agency.
+
+We now need to look
+at the duties that
+
+the agent owes to
+the principal before
+
+turning to the duties
+
+that the principal
+owes to the agent,
+
+which are much
+narrower and simpler.
+
+There are two sets of
+
+duties that the agent
+owes to the principal.
+
+There are the common law duties
+and the fiduciary duties.
+
+Now, the common law duty is
+to perform the contract,
+
+to be obedient to the principal,
+
+to exercise due care and skills,
+
+it's a duty of care
+situation, not to delegate,
+
+not to deny the
+principals title,
+
+which also that permeates
+into bailments as well.
+
+That's quite an important point.
+
+The agent owes a
+duty to account,
+
+they need to show
+what's been spent,
+
+what's been acquired, and so on.
+
+Fiduciary duties are fidelity,
+
+so faithfulness to the principal
+
+and not to make secret profits,
+
+which is less obvious, I think,
+
+than the others and we'll
+look at that in due course.
+
+Firstly, there's a duty
+
+by the agent to
+perform the contract.
+
+If it's a contractually
+formed agency,
+
+then they're under a duty to
+perform the contract and,
+
+that I think is blinding
+the obvious, isn't it?
+
+Take a look at these cases,
+
+especially Cohen and Kittell,
+
+because that's fairly
+amusing, I think.
+
+Duty to obey the principal.
+
+Now, this is more complex.
+
+It's less obvious.
+
+An agent owes a duty to be
+obedient to the principal,
+
+the principal gives
+instructions,
+
+the agent needs to
+carry those out.
+
+But there are exceptions.
+
+It's exceptions
+that are important.
+
+The agent is entitled to
+
+act in any way that
+is in accordance with
+
+the usual authority unless
+
+expressly forbidden
+by the principal.
+
+Now, we saw with Watteau and
+
+Fenwick the pub landlord case.
+
+Now, there he had acted in
+
+accordance with the
+usual authority
+
+of someone in his position,
+
+but he had been expressly
+forbidden to do so.
+
+The consequences of this
+
+are that because it was
+within the usual authority,
+
+the third part of the
+supplier of the cigars in
+
+that case was
+entitled to get paid.
+
+But there's an action
+
+arises between the owner of
+the pub and the landlord,
+
+for breach of the
+agent's duties so
+
+any loss would be
+recoverable from
+
+the landlord who had gone
+out and bought these cigars.
+
+We see other examples,
+
+Cunliffe-Owen against Teather
+
+and Greenwood, for instance,
+
+about the actions of, say,
+
+a solicitor or some other person
+
+who normally acts on
+behalf of other people.
+
+But typically, solicitors are
+
+the most obvious example
+where they can settle
+
+cases or sign off on
+
+transactions on behalf
+of the principal.
+
+Again, if that would normally
+be done by your solicitor,
+
+then, unless you've expressly
+
+forbidden them from doing
+so, they're entitled.
+
+They're not acting in breach
+
+of the duty to obey
+the principal.
+
+Now, ideally,
+
+an agent should always act
+to the principal's benefit,
+
+but they may not act contrary
+to express instructions.
+
+Volkers and Midland Doherty,
+
+it's transactions about the
+sales of stocks and shares
+
+and instructions are given to
+
+the stock broker about
+
+when they must sell
+or when they must
+
+hold they're
+
+entitled and indeed must,
+
+they're entitled to obey
+those instructions.
+
+Even if as was the case in
+
+Volkers the actual
+transaction is
+
+contrary to the interests
+of the principal.
+
+The principal is
+entitled to twat up
+
+his own life if those
+are the instructions,
+
+that's what happens
+even when you
+
+know that it's the wrong thing.
+
+Finally, obedience does not
+
+extend to acting unlawfully.
+
+For instance, selling
+stuff that doesn't belong
+
+to the principal would
+be an example of that.
+
+Or in the Bexwell and Christie,
+
+it's about trying to
+
+artificially bid up
+the price of things.
+
+That's unlawful.
+
+The auctioneer was not
+obliged to obey the seller in
+
+his instructions
+to take bids from
+
+a particular person who
+is acting fraudulently.
+
+There is the duty to
+exercise due care and skill.
+
+This is obvious in
+every possible way.
+
+We've covered this
+last year in contracts
+
+obviously you're doing torts
+at the moment, aren't you?
+
+You're probably doing the
+law of negligence right now,
+
+that's the usual starting point.
+
+It's the same principle.
+
+It's a principle we looked
+at in the contracts for
+
+the provision of
+services last year,
+
+where there's an implied
+term to act with
+
+due care and skill or
+reasonable care and skill.
+
+These are just the same
+principles you apply to
+
+every aspect of life
+not special in agency.
+
+It's a duty not to delegate.
+
+I wouldn't worry too
+much about that one.
+
+Just note that it is.
+
+You can't as an agent,
+
+if you are given instructions by
+
+your principal to do
+something on their behalf,
+
+you can't then turn around
+
+and give that job
+to somebody else.
+
+Now, how that
+
+might operate in
+individual cases
+
+is going to depend on the
+particular circumstances.
+
+If I give instructions
+to a firm of solicitors,
+
+to do something on my behalf.
+
+If I give it to Allen & Overy
+
+I don't expect Mr. Allen or Mr.
+
+Overy to do this personally.
+
+I'm just giving it that
+these people exist anymore,
+
+long dead, no doubt.
+
+But obviously, the firm is
+going to have to delegate it
+
+to a lawyer within
+the firm and some of
+
+the jobs are going to be done by
+
+paralegals and
+trainees and so on.
+
+But you can't just shift
+
+things off that are meant to
+be carried out personally.
+
+Everything here,
+context is king.
+
+Now, not to deny the
+principal's title,
+
+it can be goods or it could
+be a house, real property.
+
+Whatever it is, it might be
+stocks and shares, whatever.
+
+Now, this I'll skip
+
+a bit on this because we
+
+cover it in a bit of depth
+anyway in bailments.
+
+In that case, of course,
+
+it's in relation to goods.
+
+It's only goods
+that can be bailed,
+
+but the same principle
+would apply to
+
+other kinds of property
+in relation to the agent.
+
+But essentially, if you're
+acting as someone's agent,
+
+you can't then refuse their
+instructions or disobey them.
+
+On the grounds that
+you say, well, yeah,
+
+but you're not
+really the owner of
+
+this stuff. It's not yours.
+
+You can't do that.
+
+That's what it is to deny
+the principal's title.
+
+However, of course, there's
+
+an exception and that
+
+really is where
+somebody else owns it,
+
+which is when that other
+person is a third party.
+
+There's a principle called
+
+[inaudible] the rights
+of a third party.
+
+If somebody else is saying,
+
+Oh, this is mine.
+
+Doesn't belong to your
+principal at all,
+
+the agent can say,
+
+I'm afraid for the moment,
+
+I'm not going to deliver it to
+
+you till we've settled
+this whole matter.
+
+How do these work
+with the agency?
+
+It's likely to be
+
+you can imagine that goods
+have been purchased,
+
+apparently, on behalf of
+
+a principal the principal
+
+now claims to be
+the owner of them.
+
+The [inaudible] will apply
+
+between your principal and
+
+the other principal or
+any other third party,
+
+a third party in
+relation to you.
+
+You could get that denied.
+
+What you can't do,
+
+what an agent can't
+
+do is having entered
+into a transaction,
+
+perhaps as an undisclosed agent
+
+or an agent of an
+undisclosed principle.
+
+They buy stuff on behalf of
+their principal and then say,
+
+Do you know, I'm
+going to keep hold of
+
+this. I bought this.
+
+They thought they
+were dealing with me,
+
+their receipts made out to me.
+
+It's mine. You can't have
+it, they can't do that.
+
+That would be a denial
+
+that cannot be justified
+on grounds of [inaudible]
+
+then we get that final
+common law duty,
+
+which is the duty to account.
+
+That's obvious as well.
+
+It is just what it
+says on the tin.
+
+If the principal asks,
+
+what have you done on my behalf?
+
+You've got to produce
+your books, your ledgers,
+
+or just send them
+an email saying,
+
+Well, I spent this, I
+bought this for you.
+
+This is where we stand.
+
+I've knocked this money out
+for my commission and so on.
+
+Now, we move on to the
+two fiduciary duties.
+
+These are fidelity and not
+to make secret profits.
+
+Fidelity first.
+
+Now, an agent who has
+
+a personal interest that
+
+might be in some way
+
+relevant for the principal
+to know must disclose it.
+
+Let me think of a
+general hypothetical.
+
+Yeah imagine on behalf
+of the government,
+
+you're buying a lot of
+
+personal protective
+equipment for the NHS.
+
+Imagine that your husband
+
+owns a personal protective
+equipment supply company.
+
+The government might
+want to know about that.
+
+They might take an interest.
+
+They might say, Oh, maybe
+you're not entirely unbiased in
+
+purchasing a pile of redundant,
+
+non workable shit from
+your husband's company.
+
+Is that touched nicely
+good illustration?
+
+That's what we're talking about.
+
+Any number of
+situations where you
+
+might have a personal
+interest in something.
+
+I'm on a school
+board of governors,
+
+I used to be on the
+city council as well.
+
+In both of these cases,
+
+sometimes you could potentially
+
+win or lose on
+something for yourself.
+
+According to what decision
+is made by the body,
+
+in which case, you must
+declare that interest.
+
+On planning committee, there's
+
+a planning application
+for a new block of flats,
+
+you've got to mention
+the fact that
+
+you perhaps own a property
+
+nearby the value of which
+might be affected by this.
+
+You've got to mention
+that you happen to own
+
+shares in the development
+company, things like that.
+
+It's fairly straightforward but
+
+it's a positive duty of honesty.
+
+It's not just about
+not being dishonest,
+
+not lying, you've got
+to volunteer stuff.
+
+I think you already
+probably sense it.
+
+I think from criminal
+law last year,
+
+that lack of a duty to
+rescue and help people.
+
+You might enjoy some
+
+legal and you'll be covering
+this in torts as well,
+
+rescuing someone and then
+you cock up the rescue,
+
+can they sue you
+for their injuries
+
+because you rescued them
+in a negligent manner?
+
+Well, you may have some defence
+because you volunteered,
+
+but we're not under,
+
+generally speaking, positive
+duties to do things.
+
+One of the things
+that has caused
+
+an awful lot of problems
+to many organisations
+
+broadly in the public sector
+
+has been in the
+Equality Act of 2010.
+
+There's something called the
+public sector equality duty,
+
+public bodies are meant
+
+to act proactively
+to promote equality.
+
+Now, what that means,
+nobody really knows.
+
+You might be aware from the
+media of a case relatively
+
+recently about
+police officers in
+
+trouble because I think
+they'd refused to go on
+
+an LGBTQ rally march thing
+
+and wear rainbow
+lanyards and stuff.
+
+Anyway. The head of the
+police, the chief constable,
+
+I think this is up in Durham,
+
+somewhere like that, said, well,
+
+we have to promote equalities,
+
+public sector
+positively to promote.
+
+It was actually held
+that well, not so much.
+
+Because it has to be aligned
+with your actual function.
+
+Your function is
+policing, not marching.
+
+Nobody knows really, what it
+means and that is a problem.
+
+I'm against all positive duties
+
+in legislation really
+simply because it's
+
+so hard to place upon
+people, positive duties.
+
+The government's
+planning on a new one,
+
+which is that if you
+see an accident,
+
+you've got to try
+and rescue people.
+
+If I see some twat in his Audi,
+
+involved in a crash
+because he was involved
+
+in dangerously
+overtaking everything,
+
+I'm just going to drive on.
+
+Sorry to him, he's got what
+was coming to him, hasn't he?
+
+Apologise to anyone with Audis.
+
+I'm not particularly
+against Audis.
+
+BMW. I'll say BM.
+
+But this is one that has
+come not from legislation,
+
+but from longstanding the
+fiduciary a person who's
+
+a fiduciary does have
+positive duties.
+
+It's no excuse to say,
+
+actually, this is a
+good deal for you.
+
+It's no excuse to say,
+for instance, well,
+
+my husband's company will
+
+supply this PPE at
+a really good rate.
+
+Which wasn't, in fact,
+the case anyway.
+
+But you still need to
+have disclosed you're
+
+still in breach of your
+fiduciary duty of fidelity.
+
+Not to use knowledge
+gained from acting as
+
+agent to compete
+against the principal.
+
+Now, the exception to this
+
+is also the perfect
+illustration of the rule.
+
+It's the gloriously named
+Faccenda Chicken and Fowler.
+
+Now, Mr. Fowler,
+
+it's a perfect name for a
+chicken salesman, isn't it?
+
+Mr. Fowler was a salesman
+
+for chickens on behalf
+of Faccenda Chicken,
+
+which is a big
+supplier of poultry.
+
+This is not so long,
+this is back in
+
+the 1980s, this case.
+
+Now, he had a round.
+
+He had a number
+of customers that
+
+he visited on behalf
+of Faccenda Chicken.
+
+He knew what those different
+customers tended to want,
+
+quantities and so on.
+
+Also how much they were paying.
+
+He then left Faccenda Chicken
+
+and set up in
+business on his own.
+
+Flogging Chickens.
+
+He went round to all the
+customers that he used to
+
+go to on behalf of Faccenda and
+
+undercut them off
+a better price.
+
+Now, you would imagine that
+
+Faccenda Chicken were
+none too chuffed about
+
+this and indeed it ends up in
+
+the Chancery Division of
+
+the high court as they
+attempt to stop him.
+
+Now, there are all complexities
+
+that go around competition.
+
+For instance, it's very
+likely at some point that
+
+you sign some employment
+contract restricts
+
+your right to go and
+work for a competitor
+
+and we didn't have
+
+room to cover this in
+contract law last year,
+
+but those restrictive clauses
+
+they fall into the
+category where they can
+
+be void for being contrary
+to public policy.
+
+It simply wasn't time to deal
+
+with every aspect
+of contract law.
+
+That is because people
+
+should be allowed
+to make a living.
+
+Also, competition
+is considered to
+
+be good in the market and in
+the interests of everyone.
+
+But they are allowed if there
+
+reasonable in relation to
+
+the geographic extent
+and their time.
+
+You could say you
+won't work for any of
+
+our competitors anywhere in
+the world for three months.
+
+Quite possibly that will be
+
+allowed because the three
+months is very short,
+
+or you can't work for
+
+Sprogaton Sylvesters in Bradford
+
+anytime in the next 10 years.
+
+That might be allowed because
+it's a narrow restriction,
+
+but the wider the restriction,
+
+the shorter the
+time needs to be.
+
+Anyway, what about
+
+Faccenda Chicken and Fowler?
+What about Mr. Fowler?
+
+Well he wins in the end.
+
+He can't be stopped
+from competing.
+
+But why doesn't he fall
+in to this rule not
+
+to use the knowledge
+gained to compete?
+
+What the court
+decided essentially,
+
+and bear in mind this is at
+
+first instance, it
+was never appealed,
+
+so it is only a
+high court judge,
+
+but it's never been challenged.
+
+What they decided was,
+had he taken notes,
+
+had he got written information,
+
+whether he'd made
+them himself or
+
+they were property
+of the company,
+
+had he used those and gone
+and competed against them,
+
+that would have been a breach
+of the duty of fidelity.
+
+But he just got it
+all in his head,
+
+and you're entitled to have,
+
+what you've learned
+in your head,
+
+you're entitled to
+take with you and make
+
+money out of subsequently.
+
+That was the solution
+the court came to.
+
+It's worth having a look at
+
+that case because it illustrates
+
+a whole area of law that
+you might find very
+
+relevant to yourselves and
+
+your working lives
+in the future.
+
+Finally, the last duty,
+
+not to make secret profits.
+
+Now, what's the coat of arms?
+
+That's the coat of
+arms of an ancestor of
+
+mine called Aaron Baker.
+
+Old Aaron was an official
+of the East India Company,
+
+and it was the first
+president of Madras.
+
+When Madras was established as
+
+a presidency rather
+than just a factory,
+
+factory was the term used
+by the company to mean
+
+where agents operated,
+factors agents.
+
+It's not in the sense
+of manufactory.
+
+He'd been president
+of another place
+
+in the islands off
+the Coast of India,
+
+but they made him first
+president of Madras,
+
+and then sacked him after
+two or three years.
+
+This is in the 1650s
+
+because he'd been doing
+
+all sorts of deals on
+the side for himself.
+
+He'd not in any way plundered
+the company's money,
+
+let's just be clear about this,
+
+but he'd been making
+secret profits.
+
+He'd been acting on
+his own behalf as
+
+well as on behalf
+of the company.
+
+Agents, of course,
+will quite often
+
+trade for themselves as
+well as for the principle,
+
+but they must declare that,
+
+they mustn't keep it secret.
+
+That was an instance of
+both an employee and
+
+an agent making secret
+profits and gets
+
+terminated because
+of having done so.
+
+Ironically, within
+about 50 years of that,
+
+the normal way in
+
+which senior company
+figures out in India,
+
+were supposed to
+get rewarded was
+
+by also trading on
+
+their own behalf as well
+as for the company.
+
+The company expected
+them to do that,
+
+but not back in
+Cromwellian times.
+
+That's the duty not to
+make secret profits.
+
+We have, finally for this,
+
+principals duties to agent,
+
+which as I said,
+are far fewer to
+
+remunerate and to indemnify.
+
+Now, we don't have time,
+
+we're out of time now,
+
+so we'll pick this
+up on Thursday,
+
+and go in some detail of this,
+
+and also look at
+perhaps a little bit
+
+at commercial agents.
+
+Thank you.
+
+[inaudible]
+

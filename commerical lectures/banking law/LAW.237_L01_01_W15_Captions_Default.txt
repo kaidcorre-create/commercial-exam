@@ -1,0 +1,2194 @@
+Zora Kizilyurek Jones: Hello,
+everyone. Welcome back
+
+to another commercial
+law lecture.
+
+This week, we move
+on to a new topic,
+
+which is introduction
+to banking law.
+
+In this lecture, we're going to
+
+spend some time to talk
+about the importance of
+
+banks and why they
+are treated as
+
+special institutions rather than
+
+like any other
+ordinary business.
+
+We are then going to look
+at the definition of banks.
+
+We do not have a single
+statutory definition
+
+of bank that is comprehensive,
+
+so we have to rely on
+different provisions
+
+of different statutes to
+understand what a bank is.
+
+Mainly, we have to
+heavily rely on
+
+case law to define
+what a bank is.
+
+Now, defining a
+bank is important
+
+because we will see
+next lecture onwards,
+
+banks and customers
+owe each other duties,
+
+especially banks owe their
+customers some duties,
+
+such as duty of confidentiality,
+
+duty to follow
+payment instructions
+
+of customers and we have
+
+to first define whether an
+institution is a bank or not.
+
+Otherwise, banking
+obligations and
+
+banker duties will only apply if
+
+that institution is
+considered as a bank.
+
+Why do banks matter?
+
+Banks matter because
+they play a major role
+
+within economy and
+therefore wider society.
+
+They provide credit
+for businesses.
+
+They accept deposits from
+wider members of the public,
+
+so they handle large sums
+
+of money that comes with a risk.
+
+For that reason,
+banks are one of
+
+the main financial institutions,
+
+and as a result,
+
+banking law is a broad field.
+
+It covers and
+regulates wide areas.
+
+For example, banking
+law considers
+
+the structure and the
+nature of banking system.
+
+We have different
+types of banks,
+
+such as traditional retail
+
+banks,i.e, Barclays and Halifax.
+
+We have newer banks
+
+which are called challenger
+banks, such as Monzo.
+
+These are more
+digital-based banks.
+
+We have building societies
+
+and investment
+banks and so forth.
+
+There are different
+types of banks,
+
+different categories
+of banks that are
+
+governed with different rules.
+
+Banks also interact with
+
+each other and other
+institutions that are not banks.
+
+They play a role in prevention
+of financial crimes.
+
+Banks play a role
+in helping assist
+
+them with prevention of
+financial crimes and so forth.
+
+One aspect of banking law is
+
+the structure and the nature
+of the banking system.
+
+Another focus banking law
+
+has is the economic and
+systemic importance of banks.
+
+As we said, banks handle
+
+large sums of money
+that belong to
+
+customers most of the time and
+
+they have to deal with
+internal and external risks.
+
+If a bank fails or
+if a bank collapses,
+
+the effect of that goes
+beyond that individual bank.
+
+It will affect the customers
+
+and the wider economy
+and so forth.
+
+Due to the economic and
+systemic importance of banks,
+
+banks are subject to
+
+heavy regulations and
+a legal framework.
+
+That's the third
+aspect of banking law,
+
+legal and regulatory framework.
+
+We are going to
+look at legal and
+
+regulatory framework
+very briefly,
+
+but we won't have time to
+
+expand on that over
+the next two weeks.
+
+But what we need to
+know is since there are
+
+major risks associated
+with collapse of banks,
+
+they are subject to
+
+strict rules to
+minimise their failure.
+
+That's just broadly what
+banking law covers as a field.
+
+Now we said banks play a
+major role in economy.
+
+Why? Banks support the
+economy by allowing
+
+transactions and making funds
+available through credit.
+
+There are two
+overarching themes here.
+
+One of them is that the
+banks allow transactions.
+
+Day-to-day customers, individuals
+would transfer money,
+
+make payments, pay their bills,
+
+or employers may pay
+their employees.
+
+Or I don't know.
+
+Basically, banks allow us
+
+to make transactions day to day.
+
+Make payments day to day.
+
+Without banks, making
+payments would have
+
+been much slower and
+much more complicated.
+
+If we had to, for example,
+
+physically hand the money,
+
+we would not be able to do
+online shopping, and so forth.
+
+Banks play a role in
+economy by allowing
+
+these transactions to take place
+
+in person or through
+apps and so forth.
+
+Another important role banks
+
+play in the economy is
+by providing credit.
+
+Businesses can take out
+a loan from a bank to
+
+invest in their business
+and grow their business,
+
+which essentially as a
+result, grows the economy.
+
+Or if a company is
+struggling with cash flow,
+
+they can take out a loan
+
+to help with their
+business operations,
+
+their business operations
+do not slow down
+
+and they can continue
+functioning as a business.
+
+Banks providing credit
+also helps individuals.
+
+We can take out a loan
+to pay for a mortgage.
+
+We can take out a mortgage
+to purchase a house,
+
+we can take out a loan to
+purchase a car and so forth.
+
+Due to their transaction
+aspect and Credit aspect,
+
+banks play a major role
+within the economy and
+
+how they contribute towards
+the functioning of economy.
+
+But as a result of
+these day-to-day
+
+transactions and as a
+result of providing loans,
+
+banks handle very large
+volumes of money.
+
+That, of course,
+
+comes with a high
+responsibility because,
+
+unlike any other
+ordinary business,
+
+banks do not use their own money
+
+and most of the time they use
+
+the money that belongs
+to the customers.
+
+The customers would
+deposit money into
+
+the bank and that's the money
+
+the banks would use
+most of the time.
+
+Of course, they would
+have their own separate
+
+investments and
+profits from that.
+
+But mainly, the money banks
+receive come from customers.
+
+If a bank fails and if a bank
+does not manage its risks,
+
+then customers would lose
+faith in the banking system.
+
+They would not deposit
+their money into a bank,
+
+and if they don't deposit
+money into a bank,
+
+then that would impact
+
+the general trust within
+the banking system.
+
+If that trust is negatively
+
+impacted and less people
+deposit money into banks,
+
+then the banks would have
+
+less money to give
+out as a loan or
+
+less money to invest
+and make profit from.
+
+As you can see, there would be
+
+that cycle of if a
+bank has less money,
+
+then it's likely that
+the bank will collapse
+
+because it will not
+be able to keep
+
+up with its own
+payments and so forth.
+
+To prevent such risk
+from happening,
+
+Banks have to manage the risk.
+
+There are two types of risks,
+mainly internal risks.
+
+These are the risks that
+
+banks experience with
+their own operations.
+
+If, for example, a bank
+
+employee transfers large sums
+
+of money to a wrong account,
+
+then the bank will
+be personal liable,
+
+so that's one risk.
+
+If the system goes down,
+
+if there is an issue with
+their computer system,
+
+if some fraudulent
+activity takes place,
+
+some form of cyber attack,
+
+these are all internal risks
+that the bank has to manage.
+
+There are also external risks.
+
+For example, economy
+slowing down.
+
+If the economy slows down
+due to various factors,
+
+there could be geopolitical
+events or some other things,
+
+then businesses will slow down.
+
+For example, a
+business who is taken
+
+out a loan from that
+bank may not be able
+
+to repay the bank
+back on time because
+
+they may not be attracting
+
+customers at that
+moment and so forth.
+
+The banks also has to
+manage the external risks
+
+arising outside
+of their control.
+
+If banks, as I said,
+
+don't manage these
+risks and fail,
+
+the impact is systemic.
+
+It does not only impact
+
+the bank that is collapsed
+and its employees,
+
+but it impacts the
+wider society,
+
+the businesses, the local
+area, and so forth.
+
+That's why banks are
+
+subjectively strict regulations
+to protect the customers,
+
+to protect the depositors,
+
+if not a customer, those
+who deposit to the bank,
+
+to keep the financial
+system stable as
+
+a whole and to reduce the
+likelihood of banks failing.
+
+By subjecting banks to
+
+heavy regulations and
+legal frameworks,
+
+we ensure that the banks
+follow the rules that
+
+would minimise the risk
+of banks collapsing.
+
+Now, we've already
+said that there is
+
+no single definition
+of what a bank is.
+
+Defining what a bank is
+important for various reasons.
+
+First of all, an institution
+will be subject to
+
+the regulatory and
+legal framework
+
+only if it's defined as a bank.
+
+Secondly, banking law will
+
+apply to the activities
+of that business,
+
+only if it's considered a bank.
+
+If it's not a bank, then
+
+the relevant provisions
+of banking law that
+
+regulate banking activities will
+
+not apply to that institution.
+
+We also said that banks owe
+
+customers duties such as duty
+
+of confidentiality or duty
+of honouring mandates.
+
+By that I mean customers' order
+
+to the bank to make
+a transfer of funds.
+
+If an institution is
+not defined as a bank,
+
+then the banker's duties
+
+will not apply to
+that institution.
+
+Even though at the moment this
+
+comes across slightly abstract,
+
+we'll see some cases
+
+to understand how that
+works in practise.
+
+As a result, our
+understanding of what bank is
+
+relies on different
+statutory provisions
+
+and mainly case law.
+
+One of the earliest
+mentions of a bank or
+
+a banker is in the Bills
+of Exchange Act 18 82.
+
+That's where we had one of
+
+the earliest references
+of the word banker.
+
+Also in Banking
+Act 1979 and 1987,
+
+a bank is defined as
+an institution that
+
+is licensed to accept
+deposits from wider public.
+
+That's just some guidance
+as to what a bank is.
+
+An institution that is licensed,
+
+that is authorised to
+
+accept deposit from
+the wider society.
+
+Our current Banking
+Act, Banking Act 2009,
+
+Section 2, defines
+
+a banker as a body carrying
+on the business of banking.
+
+As you can see,
+
+the word in carrying on
+
+the business of banking
+is a very broad one,
+
+the statute defines
+banking business
+
+very broadly on purpose.
+
+Because what is considered as
+
+a bank or banking business
+is open to interpretation.
+
+It will depend on the facts of
+
+the case or the
+context of the case,
+
+and it's open to
+
+developments and
+innovations and so forth.
+
+It's on purpose that
+the statute does
+
+not narrowly define it because
+
+different institutions will
+do different activities
+
+that may be considered
+as business of banking.
+
+Since there is
+
+no technical list or
+
+no exhaustive, tick box list,
+
+we need to rely on statute
+and judicial interpretations,
+
+as well as looking at the
+facts of the case to define
+
+whether that institution
+is a bank or not.
+
+Modern statutory
+definition here we've got
+
+some further guidance
+on what a bank is.
+
+As we said, Banking Act
+2009 defines banks as
+
+an institution that
+is authorised under
+
+the Financial Services
+and Markets Act 2000.
+
+Here, the focus is that
+the institution would have
+
+a permission to accept deposits
+from the wider public,
+
+and that would be
+subject to regulation.
+
+An institution may
+be considered as
+
+a bank if it can accept
+funds from the public,
+
+the wider public deposits funds,
+
+and that is done
+
+under the Financial
+Services and Markets Act,
+
+within the permission
+of that Act,
+
+and the institution
+will beyond that
+
+be subject to further
+regulations, further oversight.
+
+It doesn't end with permission,
+
+they will be subject to
+ongoing regulations.
+
+The few general themes that we
+
+see in the statute
+in defining a bank
+
+is accepting deposits
+from the customers,
+
+they're taking deposits
+from the public,
+
+and banks operating accounts.
+
+Again, another important point,
+
+the banks or the institution
+
+must have an account
+on behalf of
+
+the customer and manage
+
+the funds of the customer
+on their behalf.
+
+As we said, there should
+
+also be regulatory
+authorization,
+
+meaning that the institution
+
+must have a legal permission to
+
+do the banking business and
+
+an oversight from
+relevant regulators.
+
+Even though the relevant
+statutory provisions
+
+provide us some guidance that
+is not an exhaustive list,
+
+and what counts as
+a bank will depend
+
+on further judicial
+interpretation
+
+and also facts and
+context of the case.
+
+What we need to understand is,
+
+what the statute provides is
+
+just guidance and even
+if an institution has
+
+all the characteristics of
+
+what we've covered so far about
+
+accepting deposits and so forth,
+
+that does not 100%
+
+automatically means that
+that institution is a bank.
+
+We must take this
+guidance alongside
+
+judicial interpretation
+and factual assessment
+
+of the case at hand.
+
+As a result, common law cases,
+
+judicial decisions
+have an important role
+
+in defining what a
+meaning of bank is.
+
+Let's have a look
+at our first case
+
+that gives us one of
+
+the earliest explanation
+of what a bank is.
+
+In this case, the
+court has decided that
+
+the real business of banking
+is to obtain deposits.
+
+In simple terms, banks
+are in the business
+
+of taking money
+from its customers.
+
+The bank can use
+the money that was
+
+deposited that was
+given by the customers
+
+to give it out as a loan to
+
+other customers or the bank
+can also choose to invest it.
+
+It's up to the bank to decide
+how to use that money,
+
+but that is subject to
+
+a rule that where a customer
+demands that money back,
+
+the bank has to be in a
+position to repay the customer.
+
+A bank can use the
+money as it wishes,
+
+but it will not be
+in a position to
+
+not repay the money
+to the customer
+
+when the customer demands
+it because it has
+
+invested elsewhere or it
+has given it out as a loan.
+
+Another important case
+that helps us understand
+
+how deposits work or how banks
+
+function and the type
+of relationship they
+
+have with their customers
+
+is the case of Joachimson
+and Swiss Bank Corporation.
+
+I'm not going to
+look at the facts,
+
+this case because it's not
+really that relevant for us,
+
+but I will read a quotation
+by Lord Justice Arkin,
+
+and then we will
+unpack it over there.
+
+The bank undertakes
+to receive money
+
+and to collect bills for
+its customers account.
+
+The proceeds so received are
+
+not to be held in trust
+for the customer,
+
+but the bank borrows
+
+the proceeds and
+undertakes to repay them.
+
+The promise to repay is to
+
+repay at the branch of the bank
+
+where the account is kept
+and during banking hours.
+
+This case nicely sets
+out the nature of
+
+deposit and the function
+of the banks as well.
+
+We know from this
+case the type of
+
+relationship a
+customer and a bank
+
+has is not one of trustee
+and beneficiary nature.
+
+Meaning that once we
+deposit the money,
+
+the banks do not hold
+
+that money on trust
+on customer's behalf.
+
+Essentially, the money that
+
+we deposit in a bank becomes
+the bank's property,
+
+but the bank must repay it to
+
+us when we ask for it
+in line with the rules.
+
+That's why there
+somewhere it should say,
+
+yeah, but the bank
+borrows the proceeds.
+
+Essentially, the bank
+is borrowing our money
+
+to invest it or to give
+
+it out as a loan to
+other customers.
+
+Now, the repayment
+will only be made
+
+on demand at the relevant branch
+
+during work banking hours.
+
+This is a case 1921.
+
+Nowadays, we no longer
+have to go to a branch
+
+of a bank to demand that
+money, we have apps.
+
+You can do it online
+and so forth.
+
+You can make bank
+transfers online.
+
+But basically with
+those times rules,
+
+that was the requirement,
+
+but that is strictly
+speaking, no longer the case.
+
+But the important thing
+to understand here
+
+is that the customer
+must demand the payment.
+
+Once the customer deposits
+that payment into a bank,
+
+the bank is not under
+an obligation to
+
+repay unless the
+customer makes a demand.
+
+This case is important not
+only because it establishes
+
+that the legal nature
+
+of banks and customers
+relationship,
+
+which is one of a contract.
+
+The bank is the debtor and
+
+the and the customer is
+the creditor because
+
+the customer credits
+the money and now
+
+the bank owes to repay that
+money back to the customer.
+
+That's why the bank
+becomes a debtor and
+
+the customer becomes
+the creditor.
+
+But say if a customer
+has no money,
+
+no funds in their balance,
+
+and say if they are
+doing overdraft,
+
+then the position swaps.
+
+Then the bank becomes
+the creditor and
+
+the customer becomes the debtor.
+
+As a result of this case,
+
+we now know that the nature of
+
+bank or customer relationship is
+
+one with mutual obligations.
+
+The bank must honour mandates.
+
+If a customer demands payment,
+
+then the bank must honour that
+
+and customers must also
+exercise reasonable care.
+
+We will come onto that in
+
+more detail in the next lecture.
+
+This case essentially clarifies
+
+the nature of banks
+main function,
+
+which is to take
+deposits and make
+
+those deposits available to
+
+the customers when the
+customer demands it.
+
+Most importantly,
+
+once the money is
+deposited into the bank,
+
+that money becomes
+the bank's property,
+
+but they are merely under
+an obligation to repay
+
+it back to the customer
+when the customer demands.
+
+We've got another
+case that contributes
+
+to our understanding
+of what a bank is,
+
+and we can understand
+
+what a bank is by defining
+what a customer is.
+
+Because if we know
+what a customer is,
+
+then that can help us
+establish whether there is
+
+a genuine banking
+relationship between
+
+the bank and the
+customer and whether
+
+the bank is in a
+position to carry
+
+out banking activities and
+comply with banker duties,
+
+that will only be the
+case if the person
+
+the bank is dealing can be
+considered as a customer.
+
+What happened in the
+Greater Western Railway
+
+and London and
+County Banking case,
+
+we had a rate collector.
+
+Basically between
+19th to 20th century,
+
+railway companies
+were created as
+
+a result of statutes
+of statutory power,
+
+and they had special powers
+
+under the statute to
+collect a form of tax,
+
+which was called rate.
+
+If a land owner had a
+railway nearby, their land,
+
+they had to pay some form of
+
+tax to the railway company and
+
+the logic was that
+
+the land owner benefited from
+having a railway nearby.
+
+Railway companies had this
+function of collecting taxes,
+
+and a rate collector was
+
+basically a tax
+collector person.
+
+At the time, this tax collector,
+
+so this rate collector of
+Great Western Railway Company,
+
+used to go and
+collect checks from
+
+the landowners who were paying
+
+their taxes to the
+railway companies.
+
+Rather than paying cash,
+
+they used to hand the check to
+
+the rate collector and
+the rate collector
+
+used to cash that
+check in the banks.
+
+This rate collector of
+
+employee of the Great
+Western Railway Company,
+
+used to use London and
+County banking company
+
+to cash these checks.
+
+After a while, a
+dispute has arisen
+
+and the question was
+whether this rate collector
+
+became a customer of
+the bank as a result of
+
+frequent dealings regularly
+going and cashing the checks.
+
+The court found that no,
+
+even if a person regularly
+deals with a bank,
+
+that is not enough
+for them to be
+
+considered as a customer.
+
+The court found that
+
+the person either has
+to have an account
+
+with the bank or have an
+equivalent banking relationship,
+
+meaning that there should be
+some form of activity that
+
+resembles everything that
+holding an account would i.e,
+
+the person may deposit
+some funds into the bank.
+
+The bank may manage those funds
+on behalf of that person,
+
+or they may owe mutual duties to
+
+each other like a banker
+and a customer would.
+
+Unless those type of
+
+activities or interactions
+were present,
+
+the court found that
+regular dealings will
+
+not be enough for someone to
+be considered as a customer.
+
+The take away from this
+case is having an account,
+
+especially in modern times,
+
+it will always be a must in
+the terms and conditions.
+
+But having an account
+
+is one of the core
+aspects of becoming
+
+a customer and establishing
+
+that bank or customer
+relationship.
+
+We've got another
+case that helps us
+
+understand what
+banking business is.
+
+But I guess more specifically,
+
+this case demonstrates what
+
+counts as banks
+and what counts as
+
+banking business is not
+exhaustively defined.
+
+It does not have
+
+a very specific
+explanation or definition.
+
+What happened in this case was
+
+Mr. Woods inherited some money,
+
+and he went to Martin's bank for
+
+some financial advice on
+
+how to invest that money
+that he inherited.
+
+He trusted the bank as
+
+a financial institution
+and thought he
+
+could get some business
+investment advice
+
+to invest this money.
+
+When he went to the bank,
+
+a senior manager in the bank has
+
+given some advice to Mr. Woods.
+
+As a result of this advice,
+
+he invested the
+money and incurred
+
+substantial losses and
+subsequently sued the bank,
+
+arguing that the bank has given
+
+negligent advice and the
+bank owed him duty of care.
+
+Now, the bank's argument,
+
+on the other hand, was
+we are simply a bank,
+
+we are not financial
+advisors and giving
+
+financial advice does not
+
+fall within the
+scope of banking.
+
+The court had to decide whether,
+
+in this scenario,
+
+the financial advice given by
+
+bank falls within the
+definition of banking business.
+
+The court found for the
+plaintiff or claimant,
+
+arguing that what counts
+
+as banking business
+or what counts
+
+of duties or activities
+
+of a bank will not
+be rigidly defined,
+
+and it will depend on
+
+the context, facts
+and circumstances.
+
+The judge stated
+that the limits of
+
+banking business cannot be
+laid down as a matter of law,
+
+meaning that we cannot
+define banking businesses,
+
+ABC and nothing else.
+
+It will just depend.
+
+The court found that
+since the bank presented
+
+itself as a bank that can
+give financial advice,
+
+and the financial advice was
+given by a senior employee,
+
+and the senior employee knew
+
+this customer was relying
+on their financial advice,
+
+and the advice was also given
+
+in the course of
+bank's business.
+
+It was not advice given
+over Sunday roast dinner.
+
+It was done in
+
+the bank during banking
+hours and so forth.
+
+This case shows us that the
+main duty of the banks are,
+
+or what counts as banking is not
+
+limited to deposit taking
+and is not limited
+
+to repaying customers
+upon demand.
+
+It will depend on the facts
+and as the time evolves,
+
+as the commercial
+activities evolve,
+
+the investment products evolve,
+
+the technology develops, the
+role of banks also expand.
+
+The type of services
+banks offer also
+
+expand and for that reason,
+
+what counts as scope of banking
+
+will change and expand as well.
+
+As you can see, the courts have
+
+a practical approach here,
+
+and they would look
+at the issues.
+
+They will look at the cases.
+
+The courts here will not stick
+
+to rigid definition of
+what is banking business,
+
+and they would look at
+the factual scenario
+
+and the context in
+
+deciding whether such activity
+
+falls within the banking
+business or not.
+
+Another case we have that helps
+
+us understand what a bank is,
+
+is United Dominion Trust
+Limited and Kirkwood case.
+
+In this case, United Dominion
+Trust was a finance house,
+
+not a bank, so they were
+known as a finance house.
+
+Had finance house,
+
+they were not known as a bank.
+
+What happened is Lonsdale
+Motors Limited took out
+
+a loan worth 5,000 pounds
+to purchase vehicles.
+
+For that, the managing director
+
+of the company provided
+a personal guarantee.
+
+Kirkwood provided a
+personal guarantee that if
+
+the Lonsdale Motors Limited
+failed to repay its loan,
+
+then Kirkwood was going to be
+
+personally liable to repay
+that debt from his own funds.
+
+That was the argument.
+
+Before the Lonsdale Motors
+Limited could repay its loan,
+
+it has gone bankrupt,
+
+and as a result,
+
+United Dominion Trust
+Limited brought
+
+legal proceedings against
+
+the managing director, Kirkwood.
+
+Now, Kirkwood's
+argument was that
+
+United Dominion
+Trust Limited was
+
+not a registered moneylender
+under Moneylenders Act.
+
+At the time, the law was that
+
+any institution that wanted
+
+to lend money had to be
+
+registered under
+moneylenders Act.
+
+If they were not registered,
+
+they would lose their right
+to enforce repayment.
+
+That was Moneylenders
+Act where was
+
+implemented to protect consumers
+
+from predatory practises
+of Moneylenders,
+
+aggressive practice
+of moneylenders.
+
+Kirkwood's argument was, since
+
+United Dominion Trust is
+
+not registered under
+Moneylenders Act,
+
+they cannot enforce this loan.
+
+They cannot ask repayment
+of this loan from me.
+
+United Dominion
+Trust's argument was,
+
+I am simply not a lender.
+
+I am acting in a
+capacity of a bank.
+
+That was their argument
+because banks were not subject
+
+to this act Moneylenders Act,
+
+the requirements of
+Moneylenders Act.
+
+The court had to decide whether
+
+United Dominion Trust was
+considered as a bank or not.
+
+Now, in deciding that,
+
+the court looked at well,
+
+let's just start
+with this quote.
+
+What I think is common to
+
+all modern definitions and
+
+essential to the carrying on of
+
+the business of banking
+is that the banker should
+
+accept from his customers
+loans of money on deposit.
+
+'That is to say loans for
+
+an indefinite period
+upon running account
+
+repayable as to the
+whole or any part
+
+there upon demand
+by the customer,
+
+either without notice or upon
+an agreed period of notice.
+
+Here again, the court has given
+
+a very useful definition of
+
+what counts as a
+banking activity.
+
+What is a core
+feature of activity?
+
+Let's unpack this.
+
+First of all, it is
+a requirement that
+
+the institution
+accepts deposits.
+
+It's not enough for an
+institution to give
+
+out a loan like that is what
+
+happened with the United
+Dominant United Dominion Trust
+
+given out a loan
+for 5,000 pounds.
+
+But in this definition,
+
+it states a core feature of
+
+an institution that
+can be considered as
+
+a bank must be of acceptance
+of deposit from customers.
+
+What we mean by acceptance
+of loan is basically
+
+a deposited money
+into an account
+
+is considered as giving
+a loan to the bank.
+
+The deposits made for
+an indefinite period.
+
+When we deposit
+money into a bank,
+
+that money can stay there
+for a long period of time.
+
+There is no fixed period.
+
+If you've got some money that
+you deposit into a bank,
+
+then that money stays
+there until you spend it.
+
+Whereas, let's say with loans,
+
+it's usually given for
+a fixed period of time,
+
+repayment must be made at a
+certain time and so forth.
+
+In this scenario, it says,
+
+sorry, in this definition,
+
+the court clarifies that
+
+deposits should be made
+for indefinite period.
+
+A person can ask for
+
+repayment 5 minutes later or
+
+five days later, or
+five years later.
+
+There is no definite
+period as to how
+
+long that money will
+be deposited for.
+
+Deposits must also be
+held in current accounts,
+
+and repayment must be made to
+
+the customer on demand
+in whole or in part.
+
+If you're, let's say,
+
+requesting a very large amount
+of money from the bank,
+
+even if say you have 20,000
+pounds in your bank account,
+
+you can take all that
+20,000 in one go.
+
+That's what it's referring to.
+
+Sometimes bank can
+repay in part and repay
+
+the remaining amount over a
+few days later, that sort.
+
+As you can see,
+
+United Dominion Trust already
+
+fails most of these
+requirements.
+
+They've not accepted deposits
+from the wider public.
+
+They've only given out loans.
+
+A deposit was not made to
+
+the United Dominion Trust
+for an indefinite period.
+
+Instead, they've
+given out a loan
+
+with a repayment at
+a specific time,
+
+and the company Lonsdale
+Motors Limited Company
+
+did not have an account
+with them and so forth.
+
+You can see some of
+
+the things that we've
+already seen in the statue;
+
+you can also see that
+those themes repeat in
+
+terms of what can be
+defined as a bank.
+
+Another point that
+Lord Denning made to
+
+complement our understanding or
+
+our interpretation
+of what a bank is,
+
+is this idea of having
+
+a commercial approach when
+it comes to identifying
+
+whether the activities
+that institution
+
+is an activity of a bank or not.
+
+What do we mean by that?
+
+Let's just very
+briefly read this.
+
+'Like many other beings,
+
+a banker is easier to
+recognise than to define.
+
+In case of a doubt,
+
+it is, I think,
+
+permissible to look
+at the reputation of
+
+the firm amongst ordinary
+intelligent commercial man.
+
+If they recognise it as
+
+carrying on the
+business of banking,
+
+that should turn the scale.'
+
+Let's unpack this.
+
+If the court is arguing,
+
+there is ambiguity as to whether
+
+the activities of
+that institution
+
+can be considered
+as a bank or not.
+
+Say that institution is
+carrying out some activities
+
+that would make them be
+categorised as a bank,
+
+and some other activities
+that we cannot
+
+clearly say whether they
+
+can be considered
+as a bank or not.
+
+There is some lack of clarity,
+
+whether they should be
+considered as a bank or not.
+
+They have some characteristics
+
+that would say yes, some no.
+
+Lord Denning is bringing
+
+this practical commercial
+reality approach and
+
+stating that if there is
+
+this we are unsure
+type of situation,
+
+what we can do is we
+can consider whether
+
+that institution is
+perceived as a bank by that,
+
+local area or by the commercial
+people and so forth.
+
+If they presented themselves
+
+as institutions that are banks,
+
+if others around
+them or other people
+
+interacting with
+that institution
+
+perceive them as a bank,
+
+then we can consider
+them as a bank.
+
+That's an additional tool
+Lord Denning is bringing in,
+
+helping us interpret whether
+
+an institution is a bank or not.
+
+Now, labels alone or
+
+reputation alone will not
+make an institution a bank.
+
+If a certain institution
+is known to be a bank,
+
+but they do not carry out
+
+the commercial
+activities of a bank,
+
+then they will not be
+considered as a bank.
+
+But if there are
+
+circumstances where a
+bank is carrying out
+
+some activities of a conduct
+
+some activities of the bank
+
+and other activities are not
+really considered as a bank.
+
+The court will look at the
+general reputation they have.
+
+If they are perceived
+as a bank by others,
+
+then that will turn the scale.
+
+Here, in this case,
+
+Lord Denning also set out
+some common features of
+
+modern banks that include
+accepting and collecting cash,
+
+sorry, checks for customers,
+
+honouring checks
+drawn by customers,
+
+maintaining current accounts,
+
+the usual accounts we
+all have with banks.
+
+That we have debits and credits,
+
+meaning that customers
+sometimes credit money,
+
+deposit money into
+their bank account,
+
+and sometimes they
+debit that money.
+
+Sometimes they
+transfer that money,
+
+take that money out,
+use it on support.
+
+It's maintain an account where
+
+the money goes in
+and out basically.
+
+Lending alone does not make
+an institution a bank.
+
+They must also
+accept deposits from
+
+general public to be
+considered as a bank.
+
+Now, another case
+we have here that
+
+an institution has conducted
+
+some activities that would
+
+fall within the
+definition of a bank,
+
+but not so much.
+
+Let's have a look at the facts.
+
+In this case, the company
+
+was operating current
+accounts from customers.
+
+On the face of it,
+
+they were managing
+accounts from customers.
+
+They were also collecting
+
+some checks on
+customer's behalf,
+
+so honouring the requests
+
+of payment orders of
+
+those customers by
+collecting those checks,
+
+and they were also offering
+
+few additional services that
+usually banks would offer.
+
+In this case, the Court
+was asking whether
+
+having operating current
+accounts from customers,
+
+collecting checks
+from customers,
+
+and offering additional
+services would be
+
+sufficient to be
+considered as a bank.
+
+What happened here was,
+
+even though on the face of it,
+
+everything seemed fine,
+
+but when we looked at
+the facts of the case,
+
+we found that first of all,
+
+the banking services were
+operated through an agent bank.
+
+Essentially, an
+intermediary agent bank was
+
+used to conduct these activities
+
+rather than on its own name.
+
+Secondly, the scale of
+the activity was limited.
+
+They only had a handful of
+customers and they only had
+
+very few checks that
+
+were collected on behalf
+of the customers.
+
+Also the deposits that were
+made by customers were
+
+from the shareholders
+and connected companies.
+
+Few shareholders of
+a specific company
+
+rather than the general public.
+
+Here, the Court consider the
+reality of the business,
+
+not the labels, not
+the isolated events.
+
+Even if on the face of it,
+
+an institution is carrying out
+
+some activities that may make
+them be defined as a bank.
+
+If this is in such a small
+and limited scale in
+
+a very superficial way,
+
+the Court will not accept
+that institution as a bank.
+
+Here we can see
+that the courts are
+
+looking at the nature of
+
+the activities and the
+depth of the activities,
+
+not just merely some
+formal transactions
+
+that may make an institution
+appear as a bank.
+
+Here, the courts
+
+will look at the reality of
+the business as a whole.
+
+They would consider
+every aspect of it,
+
+how many customers they have,
+
+how much money they
+handle, and so forth.
+
+Everything will be considered.
+
+In summary, hopefully, we
+understand that banks are
+
+important institutions
+
+for the economy and
+that's why they
+
+are subject to so many
+regulations and rules.
+
+We're going to look
+at few of these
+
+in more detail next time.
+
+There is no single
+definition of a bank,
+
+so we have to heavily rely on
+
+statute and case law
+to define banks.
+
+Thank you so much and
+I'll see you next time.
+
+[BACKGROUND]
+

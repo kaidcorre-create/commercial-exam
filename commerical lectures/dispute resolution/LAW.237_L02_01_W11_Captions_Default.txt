@@ -1,0 +1,1943 @@
+MALE_1: Good evening.
+This is going
+
+to be your second lecture on
+
+Introduction to International
+Commercial Arbitration as
+
+a framework method for
+dispute resolution.
+
+In the last lecture,
+
+we had gotten to the point
+when we were discussing
+
+that once an arbitral award has
+
+been rendered following
+the conclusion
+
+of the arbitration process,
+
+and of course, the arbitration
+process is initiated
+
+with the invocation of
+
+the jurisdiction of
+the arbitral tribunal,
+
+and the arbitral
+tribunal's jurisdiction is
+
+invoked via the
+arbitration agreement.
+
+The arbitration agreement
+is what is required for
+
+the parties to
+consensually or through
+
+their mutual consent enter
+into the arbitration process.
+
+Once there has been
+
+a finding on the
+merits of the dispute,
+
+all factual and legal issues
+that have been referred to
+
+arbitration under the terms of
+
+reference as per the
+arbitration agreement,
+
+there will be an adjudication
+
+on the merits of the dispute.
+
+Once we have an adjudication
+
+on the merits of the dispute,
+
+we have with us a final and
+conclusive arbitral award,
+
+and finality in
+
+international dispute
+resolution is much valued.
+
+We do have a final and
+conclusive arbitral award,
+
+but whether the losing party
+
+does comply with
+the arbitral award,
+
+that is a voluntary question
+
+whether that losing party
+
+will comply with
+the arbitral award,
+
+and let's say pay up on
+
+a damages award that has
+been rendered on the basis
+
+of an international
+commercial contract
+
+where the arbitral
+tribunal awards damages.
+
+Now, if this is
+indeed voluntary,
+
+the question then arises,
+
+how will an arbitral award have
+
+value if compliance with
+
+the arbitral award
+is indeed voluntary?
+
+Now that is where I mentioned
+in the last lecture,
+
+the metaphorical example of
+
+the archipelago of arbitration,
+
+or arbitration being an island
+as a metaphorical example.
+
+That island has to rely on
+
+the mainland in
+order for support.
+
+It is the courts of the
+seat of arbitration
+
+and other courts that are party
+
+to the New York Arbitration
+Convention that
+
+will be responsible for
+enforcing the arbitral award
+
+and providing a remedy
+in case the losing party
+
+does not voluntarily comply
+
+with the terms of
+the arbitral award.
+
+So that is where recognition
+and enforcement of
+
+the arbitral award becomes
+
+necessary that a
+court recognises,
+
+first of all, what has been
+
+decided by the arbitral
+award as final and
+
+conclusive and then enforces
+
+the remedy that has been
+
+provided for under
+the arbitral award.
+
+That is what is
+
+effectively recognition
+and enforcement
+
+of an arbitral award.
+
+Throughout the process
+of arbitration,
+
+we will see that without
+
+judicial support of the
+arbitration process,
+
+the archipelago
+of arbitration or
+
+that singular island
+of arbitration,
+
+the arbitral tribunal, that is,
+
+that island of arbitration,
+
+cannot exist in a vacuum.
+
+It is not hermetically
+
+sealed from the courts of
+the seat of arbitration.
+
+The link always remains,
+
+and where we refer to
+arbitration in London,
+
+it is the English
+courts that are always
+
+in the background in terms
+
+of serving the
+arbitration process
+
+because indeed it is in
+
+the interests of
+the English forum,
+
+the English courts that
+
+arbitration proceedings
+in England,
+
+they proceed efficiently
+and minimum standards of
+
+fairness are followed in
+
+all arbitration proceedings
+that take place in England.
+
+Now, one of the consequences of
+
+having a final and
+binding arbitral award,
+
+which disposes of with
+
+all the factual and
+legal issues that are in
+
+dispute is that there is no
+general right of appeal,
+
+apart from procedural defects,
+
+that there may be a bias or
+
+a conflict of interest when
+it comes to the arbitrators,
+
+where you could apply under
+
+Section 24 of the
+Arbitration Act 1996,
+
+to remove an arbitrator
+on grounds of bias.
+
+Apart from procedural defects,
+
+there is really no
+general right of appeal,
+
+and that is one of the touted
+advantages of arbitration.
+
+But Section 69 of the
+Arbitration Act 1996,
+
+and we follow the
+Arbitration Act 1996.
+
+There have been a couple
+of modifications to
+
+the Arbitration Act 1996 by
+the Arbitration Act 2025.
+
+But generally,
+
+the Arbitration Act 1996 has not
+
+been overhauled by the
+Arbitration Act 2025.
+
+Apart from a couple of changes,
+
+one of the changes which
+we will discuss in
+
+the lectures next week is in
+
+relation to the applicable law
+
+of the arbitration agreement.
+
+The others are really not
+
+very necessary for
+our purposes here
+
+because we're not discussing
+
+the entirety of the
+arbitration process.
+
+You would require a
+module on its own to
+
+discuss arbitration and each
+and every aspect of it.
+
+Section 69 of the Arbitration
+Act 1996 does deal with
+
+a limited right to
+appeal on a point of
+
+law from the decision of
+an arbitral tribunal.
+
+Now, the English
+arbitration law is quite
+
+unique when it comes to
+
+Section 69 of the
+Arbitration Act 1996.
+
+Because if you look at the
+laws of other countries,
+
+when the arbitration laws,
+
+there is generally no right to
+
+appeal from an arbitral
+tribunal's decision.
+
+Remember, you have
+three arbitrators
+
+in general when it comes
+
+to commercial
+arbitrations involving
+
+high value commercial disputes.
+
+The arbitral award that has
+been rendered ultimately by
+
+three arbitrators has been
+
+given due thought
+and consideration.
+
+As a result, the
+arbitration laws
+
+of many countries don't
+allow for a right to appeal.
+
+But with the English
+arbitration law,
+
+the unique aspect here is
+
+there is a limited
+right to appeal,
+
+but only in relation
+to a question of law.
+
+So any factual
+controversy will have
+
+been finally and conclusively
+
+adjudicated upon
+by the tribunal.
+
+You cannot really go on
+
+and go to the English
+courts and say
+
+that the fact finding by the
+arbitral tribunal was wrong.
+
+No, it is only if
+
+the arbitral tribunal has
+
+made a mistake in the
+application of the law.
+
+Also, this is a limited right
+
+to appeal because
+the parties can
+
+exclude the application of
+
+Section 69 of the
+Arbitration Act 1996,
+
+contractually exclude
+its operation.
+
+That's not Article 69,
+
+there's a typo there.
+
+It's Section 69.
+
+There again, you have
+
+some limited role for
+the courts when it comes
+
+to a limited right of
+appeal on a point of
+
+law from the decision of
+an arbitral tribunal,
+
+which you can contractually
+
+contract out of
+that limited right
+
+of appeal under Section 69.
+
+In terms of the
+adjudicatory process,
+
+now, this is a private
+system of adjudication,
+
+but nevertheless, being a
+private system of adjudication,
+
+you cannot escape having
+
+an independent and impartial
+arbitral tribunal.
+
+There again, you can
+
+challenge the appointment
+of arbitrators,
+
+and that is a
+possibility provided
+
+for by the Arbitration Act 1996.
+
+You can approach the high court
+
+to challenge the appointment of
+
+an arbitrator on grounds of
+
+bias or a conflict of interest.
+
+Just as in the civil
+procedure rules,
+
+you rely upon in
+court litigation,
+
+a system of fair,
+impartial litigation.
+
+In similar way,
+
+when it comes to arbitration,
+
+we need a system which is
+
+fair, impartial and independent.
+
+It may be any form
+of adjudication.
+
+This may be private
+adjudication,
+
+but you cannot escape still,
+
+what are the minimum
+standards of fairness?
+
+Natural justice and due
+process, they still apply.
+
+It is the courts of the seat
+of arbitration which have
+
+the supervisory jurisdiction to
+
+guarantee that standard of
+fairness is in fact applied.
+
+So that is something
+
+about the adjudicatory
+process that is involved.
+
+Now, let's get on further
+
+with arbitration
+
+and arbitration agreements.
+
+Now, we'll be dealing here with
+
+some examples of
+arbitration agreements
+
+and dealing with
+what we refer to,
+
+what is international and what
+
+is commercial and
+what we mean by
+
+it in the context of
+
+arbitration as a method
+of dispute resolution.
+
+We will also be discussing
+
+the relative advantages
+and disadvantages of
+
+arbitration vis a vis
+
+litigation as a method
+for dispute resolution.
+
+Now, in terms of
+arbitration clauses,
+
+the ones that you could
+
+encounter in a sale
+of goods contract,
+
+in a carriage of goods
+by sea contract,
+
+et cetera, there are
+up there two examples.
+
+The first one is one which
+
+is basically
+referring the parties
+
+to arbitration in London.
+
+Any dispute arising out of
+
+this contract shall be resolved
+by arbitration in London.
+
+This is very basic and it
+
+is basic in the
+sense that there is
+
+no selection of a particular
+arbitral institution
+
+to resolve the dispute.
+
+There is no reference to any of
+
+the rules on arbitration
+of an institution.
+
+This is a reference
+basically on a construction,
+
+a contractual construction or
+
+interpretation of this
+arbitration agreement,
+
+it is a reference to
+ad hoc arbitration,
+
+where there is maximum
+procedural flexibility
+
+that would be allowed for by
+
+the national and
+international legislation
+
+on arbitration.
+
+One other particular
+characteristic
+
+of that arbitration
+agreement up there
+
+is only contractual disputes
+
+are referred to
+arbitration there.
+
+There is no express reference
+to any other type of
+
+a dispute that is referred
+
+to by the arbitration
+agreement therein.
+
+The second example there is
+
+a multi-tier dispute
+resolution agreement.
+
+What are multi-tier dispute
+resolution agreements?
+
+Multi-tier dispute
+resolution agreements
+
+are those that provide
+
+for more than one method
+of dispute resolution,
+
+and there is a process
+of escalation involved,
+
+and through that
+process of escalation,
+
+you exhaust the first type of
+
+dispute resolution
+method as provided
+
+for by the multi-tier dispute
+resolution agreement,
+
+and ultimately, you land up
+with going to arbitration.
+
+Here in this multi-tier
+dispute resolution agreement,
+
+in the event of any
+dispute arising out
+
+of or in connection with
+the present contract,
+
+the parties will be referred to
+
+dispute resolution under
+the ICC mediation rules.
+
+Mediation is the first
+method that is selected.
+
+But then there is a
+condition that is involved,
+
+which is that if,
+
+within 45 days of filing
+the request for mediation,
+
+the dispute shall then be
+
+settled under the rules of
+arbitration of the ICC.
+
+You are given time to get
+
+the dispute resolved
+through mediation.
+
+If that condition is not met,
+
+then the matter is escalated and
+
+you then proceed to arbitration
+as per the ICC rules.
+
+These are types of
+
+arbitration agreements
+that you can encounter.
+
+With multi-tier dispute
+resolution agreements,
+
+a particular issue that arises
+
+is that you need
+to have a clear,
+
+and unequivocal and
+
+unambiguous multi-tier
+dispute resolution
+
+agreement because two
+different methods
+
+of dispute resolution
+are involved.
+
+You don't want a conflicting
+dispute resolution agreement
+
+where you cannot determine
+
+unequivocally or
+unambiguously how would
+
+each stage of the dispute
+resolution process be invoked?
+
+Here, there is clarity in
+terms of a time limit laid
+
+down for resolution of
+a dispute by mediation,
+
+then followed by arbitration.
+
+But you do have instances,
+
+or what are called conflicting
+
+dispute resolution agreements,
+
+where you could
+have mediation and
+
+arbitration as competing
+methods of dispute resolution.
+
+What would you then do?
+
+Would you opt for
+mediation or arbitration?
+
+That is what are called
+
+conflicting dispute
+resolution agreements.
+
+Now, here in the
+example that we have,
+
+there are two agreements here.
+
+And in each of these examples,
+
+where is an arbitration
+clause actually involved?
+
+Because there's a difference,
+
+as I mentioned in
+the last lecture,
+
+between what is a
+substantive agreement
+
+between the parties that relates
+
+to the performance
+of the contract.
+
+The performance of
+the substantive or
+
+the underlying contract
+between the parties,
+
+that may be a sale
+of goods contract,
+
+that may be a carriage
+of goods contract,
+
+that may be a contract
+of agency, etc.
+
+There's a difference between
+
+the substantive or
+underlying contract.
+
+Or the main contract,
+
+whatever you may call
+it, between the parties,
+
+and this arbitration
+agreement is
+
+ancillary to
+
+that underlying or
+substantive agreement
+
+between the parties.
+
+Here in the first example,
+
+what kind of
+contract do we have?
+
+Is it a dispute resolution
+agreement or not?
+
+Or is it simply not a dispute
+resolution agreement,
+
+and it is just a
+contract on its own.
+
+Alice agrees to loan
+her bike to Bob.
+
+Bob needs to return it
+to the playground by
+
+six and to do Alice's homework
+for a week in exchange.
+
+This is quite like an
+exchange of promises.
+
+It's a contract as such.
+
+There's nothing here involved
+that indicates that this
+
+is a dispute resolution
+agreement at all.
+
+The second one is, in fact,
+
+a dispute resolution
+agreement where
+
+you are referred to the rules
+of arbitration of the ICC,
+
+and it is an arbitration
+clause that is involved here.
+
+So when we say
+
+that commercial and
+commercial arbitration,
+
+what are we referring to?
+
+We are referring to
+business-to-business contracts.
+
+Which effectively would
+include sale of contracts.
+
+I would include
+carriage of goods by
+
+sea contracts, commercial
+agency agreements,
+
+et cetera, it would not include
+
+areas of private law
+such as family law,
+
+inheritance, et cetera,
+that is excluded.
+
+Consumer contracts would also
+
+fall outside this definition.
+
+When we refer to international
+this could refer to
+
+the fact that the performance of
+
+the contract may
+be sale of goods,
+
+may be carriage of goods.
+
+It takes place abroad.
+
+The place of performance
+of the contract is abroad.
+
+It is not linked in any
+way to England or London,
+
+or it could be the fact
+that either one or
+
+both the parties to the
+contract are non-English.
+
+A lot of the arbitration
+work that comes to London is
+
+international
+because you may have
+
+a Chinese party in
+
+arbitration against a party
+from the Middle East.
+
+That is why we call
+
+it international
+commercial arbitration,
+
+and you may have a contract
+
+between a Middle Eastern
+and a Russian entity,
+
+where they choose
+arbitration in London,
+
+and they choose English law as
+
+the governing law
+for their contract.
+
+That is indeed very common.
+
+When we are referring to
+
+international commercial
+arbitration in London,
+
+think of it as very much
+
+an international or a
+cross-border forum.
+
+You will come across
+parties from all over
+
+the world where contracts are
+
+performed in any
+part of the world,
+
+and disputes arising
+from those contracts are
+
+brought or commenced in an
+arbitral tribunal in London.
+
+As a result of
+merely the fact that
+
+the parties have through
+their party autonomy,
+
+selected to arbitrate
+the dispute in London.
+
+The only connection of
+
+that international or
+cross-border dispute to London is
+
+the fact that the
+parties have exercised
+
+their autonomy to select
+
+London as a forum for
+dispute resolution.
+
+None of the other
+connecting factors
+
+connect that dispute to London.
+
+In a way international
+arbitration work
+
+brings in a lot of
+
+inward investment into
+England, London in particular.
+
+That inward investment comes in
+
+because you choose
+English layers,
+
+ex-judges to be arbitrators.
+
+You choose English lawyers or
+
+ex-judges to be counsel
+for you in arbitration,
+
+and as a result of
+that limited pool
+
+of expertise in let's
+say the commercial bar,
+
+where effectively you have
+
+those people being paid
+a lot for their work.
+
+It works well for
+the British economy,
+
+for the services economy here,
+
+in London in particular,
+and in England.
+
+That is the
+international flavour of
+
+the arbitration work that comes
+
+into London and
+England by and large.
+
+In terms of the advantages of
+
+arbitration as a method
+of dispute resolution,
+
+two advantages can be first
+and foremost, be highlighted.
+
+There was a survey conducted
+
+by the law firm White
+and Case in 2018 or so,
+
+where they asked
+through a survey,
+
+they conducted an
+empirical investigation,
+
+and through that survey,
+
+they asked the
+various stakeholders
+
+involved in
+arbitration in London,
+
+what do they see
+as the central or
+
+the main advantages of
+arbitration as a method
+
+of dispute resolution
+for commercial disputes.
+
+The two advantages that
+
+they mentioned first and
+foremost were Number 1,
+
+that the New York
+Arbitration convention,
+
+which we will be looking
+at in some more detail
+
+as we proceed the central
+provisions therein,
+
+the New York Arbitration
+Convention of 1958
+
+has an extensive reach.
+
+Now that extensive reach is now
+
+in that slide says
+156 countries,
+
+but now it is in excess of 170.
+
+Over 170 contracting states
+
+to the New York
+Arbitration Convention,
+
+which effectively means that
+
+arbitral awards that have
+
+been rendered by
+contracting state,
+
+let's say you have
+an arbitral award
+
+that has been rendered by
+
+ICC arbitration or in
+
+arbitration before
+
+the London Court of International
+Arbitration in London,
+
+that orbital award will
+
+easily be subject
+to recognition and
+
+enforcement in 170 countries
+all over the world.
+
+There is near
+
+universal application
+
+of the New York
+Arbitration Convention.
+
+Number 2, what they
+
+mentioned as the
+stakeholders mentioned as
+
+the advantage of arbitration
+was that it neutralises
+
+effectively any home
+court advantage
+
+that one side may have?
+
+For example, you have a
+Turkish construction company,
+
+which has been given
+construction contract in Russia.
+
+The Turkish construction
+company does not
+
+want to litigate matters
+
+in the courts in Moscow or St.
+
+Petersburg because
+
+the Turkish construction
+company feels,
+
+rightly or wrongly or
+yes or no, maybe, yes,
+
+that this Russian
+court would unduly
+
+favour the Russian entity
+involved in the contract.
+
+That could be a
+Russian state entity
+
+where the Russian
+state entity is
+
+asking this Turkish
+construction company to
+
+construct a power plant
+in a part of Russia.
+
+The Turkish construction
+company really wants to make
+
+sure that there's neutral
+adjudication on the dispute.
+
+The Turkish construction
+company says, "Okay,
+
+we will only get into
+this contract if there's
+
+a London arbitration
+clause involved
+
+with arbitration before
+the LCIA or the ICC,
+
+and we will not get
+into the contract
+
+without any dispute
+resolution agreement,
+
+especially if we don't want
+
+a dispute resolution agreement
+
+choosing the courts in Moscow or
+
+Petersburg because we
+think that the courts
+
+will unduly favour the
+Russian entity involved.
+
+That is a case in a lot
+of the case law where
+
+parties shy away from
+the courts in Russia,
+
+and there are
+reasons for that in
+
+both litigation and in
+terms of arbitration.
+
+Those are two reasons there,
+
+the neutrality of the forum,
+
+and you want to neutralise
+
+any home code advantage
+that would exist.
+
+The New York
+Arbitration Convention,
+
+you should note that there is
+
+no similar convention for
+court litigation globally.
+
+We have the Hague Convention
+on judgments of 2019.
+
+But the Hague Convention on
+
+judgments and the
+recognition and enforcement
+
+of judgments of 2019 is
+not widely applicable.
+
+It only became applicable
+in 2025 in the UK,
+
+and it is applicable in
+some states in Europe.
+
+As a result, there is nothing
+
+comparable when we
+discuss court litigation.
+
+Arbitration obviously
+has advantages and
+
+the New York Convention
+has pro enforcement bias.
+
+With Article 3 of the New
+York Arbitration convention,
+
+it is most likely that
+an arbitral award will
+
+be enforced subject
+to some exceptions,
+
+of course, laid
+down in Article 5,
+
+When we discuss the
+advantages of arbitration,
+
+in addition to the two that
+I have already mentioned,
+
+the neutrality of
+the forum and the
+
+extensive reach of the New
+York Arbitration Convention,
+
+there are others
+that are involved,
+
+such as party autonomy and
+procedural flexibility,
+
+and procedural
+flexibility, remember,
+
+is most important when
+
+it comes to ad hoc arbitration
+
+because in ad hoc arbitration,
+
+you're not relying upon any
+of the institutional rules.
+
+You have no framework,
+
+and you can conduct arbitration
+and lay down arbitration,
+
+your own rules for arbitration
+as long as you stay within
+
+the framework provided for by
+
+the national arbitration
+legislation.
+
+Confidentiality is another
+advantage of arbitration.
+
+Now, there is an advantage
+when it comes to
+
+confidentiality
+and a disadvantage
+
+that comes with confidentiality.
+
+The advantage with
+confidentiality is you may not
+
+want your dispute
+to be publicised.
+
+The disadvantage with
+confidentiality is
+
+that you will have
+
+no body of precedent
+that will develop.
+
+As a result of that,
+commercial law,
+
+when it comes to
+court litigation or
+
+commercial court decisions from
+
+the Queen's Bench
+division, the High Court,
+
+you have a body of
+precedent that is
+
+developing where you know how
+
+the law is developing and the
+
+direction the law is taking
+in terms of the common law,
+
+in terms of the interpretation
+
+of the statutes by
+the common law, etc.
+
+But with this confidentiality,
+
+if a lot of these high-value
+commercial disputes are
+
+being arbitrated or go through
+the arbitration process,
+
+you may not get
+
+publicly available
+arbitral awards
+
+that you could refer to,
+
+especially if there is
+voluntary compliance with
+
+the arbitral award and there
+is no enforcement involved.
+
+You may never get to know
+what was actually decided in
+
+closed doors between parties
+
+to the arbitration proceedings.
+
+That is one disadvantage from
+
+a broader perspective
+in terms of
+
+the development of the
+law on arbitration.
+
+Subject matter expertise, I
+think I did mention this in
+
+the last lecture that with
+
+three arbitrators
+adjudicating on
+
+your dispute in the
+first instance,
+
+rather than one high court judge
+
+adjudicating on your dispute,
+
+you are more likely to get
+
+final and conclusive arbitral
+award where you have
+
+a subject matter
+expert who is maybe
+
+a non legal expert
+
+who is an expert who has
+deep industry knowledge,
+
+who can provide input into
+the arbitration process,
+
+particularly if the
+arbitration issues
+
+are fact intensive or fact
+sensitive in that sense.
+
+The last advantage
+there is not so
+
+much of an advantage now
+because as the process
+
+of arbitration has
+become that much more
+
+formalised with
+institutional arbitration,
+
+we cannot really say
+that arbitration
+
+is less expensive than
+court litigation,
+
+especially because where
+
+arbitral institutions
+are involved,
+
+costs will be involved,
+
+which will deal
+with the costs for
+
+arbitration before the
+arbitral institution.
+
+Remember, you'll not be paying
+
+only the arbitrators
+or your counsel,
+
+a fee will be involved for
+the arbitral institution as
+
+well that will administer
+the arbitration process.
+
+Disadvantages of
+arbitration as a process,
+
+the tribunal does not
+have coercive powers.
+
+Now, that is an
+important disadvantage,
+
+and that is an important
+disadvantage when it comes
+
+to enforcement of
+an arbitral award,
+
+enforcement of an
+arbitration agreement.
+
+When it comes to you
+have to remember that
+
+arbitration agreements only bind
+
+the parties to the
+arbitration agreement.
+
+If during arbitration
+proceedings,
+
+it becomes necessary
+to call in a witness,
+
+to call in a party to
+
+the arbitration proceedings
+to help in the adjudication,
+
+then the arbitral
+tribunal's jurisdiction
+
+will be limited to
+
+the parties to the
+arbitration agreement.
+
+That is one of
+
+the limitations of arbitration
+as a creature of contract.
+
+What is referred to
+arbitration will be
+
+the extent of the jurisdiction
+of the arbitral tribunal.
+
+There are then gender and
+ethnic diversity issues that
+
+arise when it comes to
+
+the constitution of
+the arbitral tribunal,
+
+and this may be an issue.
+
+Yes, it is an issue.
+
+But ultimately, you want to
+involve arbitrators that
+
+have the relevant qualifications
+
+that have the relevant
+ability to adjudicate.
+
+There have been questions
+
+that have been
+raised about this.
+
+Sources that are involved,
+
+and what are the most
+significant sources
+
+of law on arbitration?
+
+First and foremost,
+
+we know that it is the
+arbitration agreement that
+
+is the sine qua non or
+
+the necessary or
+sufficient condition
+
+for the arbitration process.
+
+But that is at the micro level,
+
+where you can commence
+
+proceedings in an
+arbitral tribunal and
+
+invoke the jurisdiction of
+
+the arbitral tribunal based
+
+on that arbitration agreement.
+
+But beyond that
+arbitration agreement,
+
+what other sources of law are
+
+involved in the
+arbitration process?
+
+Above the arbitration agreement,
+
+sit the institutional
+arbitration rules.
+
+The institutional
+arbitration rules will
+
+provide for a formalised
+system of arbitration.
+
+How would you commence a
+claim for arbitration?
+
+How would notice be served on
+
+the other party to commence
+arbitral proceedings?
+
+How much time does the
+other party have to file
+
+a defence to the claim in
+arbitration proceedings, etc?
+
+All those would be
+then determined by
+
+the institutional
+arbitration rules
+
+that are provided for.
+
+Now, the institutional
+arbitration rules
+
+will provide for
+rules of procedure,
+
+quite like in a sense,
+
+you have the civil
+procedure rules
+
+that govern court litigation,
+
+right from commencement of
+
+litigation with the service of
+
+a claim for
+particulars of claim,
+
+a defence, a counterclaim,
+
+down to the trial of the dispute
+
+to an adjudication of the
+merits with a judgement.
+
+These are covered for with
+
+the institutional rules and
+
+the appointment of
+the arbitrator,
+
+etc, will also be covered,
+
+and the procedure for
+the appointment of
+
+arbitrators will
+also be covered.
+
+Then you may have
+some institutions,
+
+such as the ICC,
+
+the International
+Chamber of Commerce.
+
+Whenever an arbitral award is
+
+rendered by a panel in the ICC,
+
+the ICC has a body of experts,
+
+the whole of
+
+the International Court of
+Arbitration of the ICC.
+
+Then once award has
+
+been rendered by the
+three arbitrators,
+
+it is reviewed by
+their entire panel.
+
+So that if there is
+
+a certain deficiency
+in the arbitral award,
+
+it can be referred back
+to the three arbitrators.
+
+All these are rules provided
+for by the institution.
+
+What sits above the
+institutional rules
+
+is the national
+arbitration legislation.
+
+The national
+arbitration legislation
+
+includes for us the
+[inaudible] arbitrary,
+
+the law of arbitration.
+
+It includes the
+Arbitration Act 1996,
+
+and supplemented therein by
+the Arbitration Act 2025.
+
+Above this national
+legislation sits
+
+the international
+convention on arbitration,
+
+which is the New York
+Convention of 1958.
+
+In a sense, what we
+see is that right
+
+from the arbitration agreement
+
+to the institutional rules,
+
+to the national legislation,
+
+and the international
+legislation,
+
+each one of these
+has to be aligned.
+
+The arbitration agreement
+that is entered into between
+
+the parties has to align with
+the institutional rules,
+
+the national legislation,
+the Arbitration Act 1996,
+
+what is provided for
+
+the arbitration agreement
+has to be in writing,
+
+evidenced in writing
+as per Section
+
+5 of the Arbitration Act 1996.
+
+Then when we go to the
+international legislation,
+
+there also there is under
+the New York Convention,
+
+the requirement that the
+arbitration agreement
+
+has to be in writing, et cetera.
+
+All of these have to align
+
+and those are the main sources
+
+for the law on arbitration.
+
+If we look at the arbitration
+agreement and what
+
+possibly would be
+the constitute parts
+
+of an arbitration agreement,
+
+we need to have, of course,
+
+an agreement to arbitrate,
+
+which is clear and unambiguous.
+
+We need a defined scope of
+
+what is referred to arbitration,
+
+what in fact would
+be the scope of
+
+the jurisdiction of
+the arbitral tribunal.
+
+This will be referred to in
+terms of what are the terms
+
+of reference of what has been
+referred to the tribunal.
+
+We may have a
+selection therein in
+
+the arbitration agreement of
+
+arbitration as per the
+institutional rules.
+
+You will have a
+selection of let's
+
+say possibly the ICC rules or
+
+the LCIA rules that
+you will conduct
+
+arbitration as per
+the rules of either.
+
+There will be a mention of
+
+the arbitral seat that this
+is the seat of arbitration.
+
+You would have a choice of
+language for the arbitration,
+
+and you could possibly also have
+
+an applicable law for
+
+the arbitration agreement
+that is chosen therein.
+
+Now, one of the
+points that you need
+
+to know at this stage is that
+
+the arbitration agreement can
+
+be governed by a law that is
+
+separate from the law that
+
+governs the main or the
+underlying contract.
+
+There comes in what
+is referred to as
+
+the concept of the separability
+
+of the arbitration agreement.
+
+The arbitration agreement is
+
+a separate and
+independent contract,
+
+and you need to understand
+
+here that as the
+arbitration agreement
+
+is independent and a separate
+
+contract a challenge
+to the validity of
+
+the main or underlying
+contract will not on
+
+its own challenge the validity
+
+of the arbitration agreement.
+
+We'll get into this in more
+detail in the next session.
+

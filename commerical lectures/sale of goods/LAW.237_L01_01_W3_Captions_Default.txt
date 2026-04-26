@@ -1,0 +1,1832 @@
+MALE_1: [BACKGROUND]
+
+Good afternoon, everyone.
+
+We're now starting
+what I would say is
+
+a central subject
+in commercial law.
+
+It's the linchpin about which
+all the other bits circle.
+
+That is to say, sale of goods
+or just sales for short.
+
+In this topic, we're going to
+
+consider five
+distinct subtopics.
+
+Today, looking at sources
+
+of sales law and
+principle definitions,
+
+we then move on to
+passing of property.
+
+The key notion in sales,
+
+as you'll quickly see is
+this transfer of property
+
+in personality from
+one person to another.
+
+That's quite, it's very
+
+important because with
+it goes questions of
+
+whose risk are the
+goods at if the ship
+
+sinks while carrying the goods
+
+from one country to another,
+
+who needs to have those insured?
+
+Whose responsibility is that?
+
+Then we'll look at
+the seller's duties,
+
+which are fairly extensive and
+
+the buyer's duties
+somewhat less so.
+
+For today, we're
+going to look at,
+
+I'm going to introduce it.
+
+We'll look at the
+key definitions.
+
+Everything has a
+technical sense,
+
+though some of it doesn't
+sound terribly technical,
+
+but it has a definite meaning.
+
+Look at the sources of
+sales law because this is
+
+one area where we do
+
+have some important
+statutory intervention,
+
+which as you know,
+
+from last year, it's
+quite rare in contracts.
+
+There aren't many statutes,
+
+but sale of goods is
+one of the areas where
+
+really pressure from judges
+and lawyers and so on,
+
+led to judges and lawyers
+drafting some legislation,
+
+which has therefore
+proved extremely
+
+good and effective legislation,
+
+unlike the politicians can't
+with their own accord.
+
+We'll be looking at that.
+
+What is a contract of sale?
+
+Now, starting with this
+
+and just starting with
+the word contract,
+
+it needs to be a contract,
+
+needs to be a valid contract,
+
+subject to all the
+same rules as anything
+
+else that you did last year.
+
+If it's not a valid contract,
+
+then property will
+not be able to pass,
+
+so a sale can't
+actually take place.
+
+You remember last
+year when we did,
+
+for instance, Ingram and Little,
+
+that's the two sisters
+selling their car to
+
+a rogue calling himself
+Henderson who turns out,
+
+just disappears with no
+idea who just a crook.
+
+He then went and sold it on to
+
+a dealer in Blackpool who then
+sold it on to a customer.
+
+The dealer in Blackpool
+ended up having
+
+to stump up for the car.
+
+That's because the contractor
+sale to Henderson was
+
+void for an identity mistake.
+
+We use that as one
+side to look at
+
+where do we divide
+
+identity mistakes from mere
+mistakes as to quality.
+
+Had the sisters mistaken
+
+him for just someone who
+was reliable and well off,
+
+or had they genuinely
+
+intended only to deal
+with a Mr. Henderson?
+
+It was held perhaps
+
+unsurprisingly in the
+particular circumstance they
+
+intended to deal with Mr.
+Henderson and it was void.
+
+There was no passing of property
+
+to the pretend Mr.
+
+Henderson because the
+contract was void.
+
+A sale has to have a
+valid contract in it.
+
+Now, then the second bit
+is that property in goods.
+
+Because if the property then is,
+
+we can trace from the
+original owner right
+
+down the line to any number
+
+of buyers and sub
+buyers and so on,
+
+and get our stuff
+back, potentially.
+
+Somewhere along the line,
+
+probably someone will
+stump up some money.
+
+But you can theoretically
+
+get a remedy in REM,
+as it's called.
+
+That is to say the
+actual thing itself.
+
+We're passing property.
+
+If the contract, even if valid,
+
+fails to pass property,
+
+then it's not a sale.
+
+This contract to pass
+
+property must be in exchange
+for a money consideration.
+
+Here's our first special
+technical term called the price.
+
+I told you a difficult
+technical language.
+
+Now, this is important.
+
+If I agree to
+
+exchange my laptop
+for your iPhone,
+
+that's not a sale
+of goods contract.
+
+Property is going to pass,
+but it's not a sale.
+
+It's not governed by
+sale of goods law.
+
+Because that's a barter.
+
+It's not for money
+consideration.
+
+The consideration here
+are physical objects.
+
+It doesn't count as a sale then.
+
+But, what if I say crunch?
+
+What does that bring to mind?
+
+Crunch.
+
+Yes.
+
+Because what did crunch
+actually mean to you? Crunch.
+
+MALE_2: Nestle crunch.
+
+MALE_1: Nestle crunch.
+
+Chocolate bar, yummy.
+
+We saw last year in
+Chappell and Nestle,
+
+that anything can
+be consideration.
+
+Also, in that case,
+
+although we're handing over
+wrappers of chocolate,
+
+it was still a sale,
+
+for the purposes of
+copyright law and so on,
+
+because there was also
+a money consideration.
+
+You had to send off one
+shilling and sixpence
+
+along with your three
+wrappers. That's fine.
+
+The whole consideration
+doesn't have
+
+to be money to make it
+
+a sale as long
+
+as some aspect of the
+consideration is money.
+
+The meaning of the word money
+
+becomes important
+in a little bit.
+
+But we've already
+raised a technicality.
+
+What do we mean by goods?
+
+What's goods?
+
+Now, they are personal chat ons.
+
+Everything you've got
+about your person at
+
+the moment is goods.
+
+But quite probably,
+
+judging from the length
+of the queues at Greg's,
+
+which comes down
+to people farting
+
+about with their
+telephones to pay.
+
+On your phone, you got some
+payment method installed.
+
+That isn't goods.
+
+Your software isn't goods.
+
+Electronic payments
+aren't goods.
+
+It has to be something physical.
+
+Actually, the word cattle
+comes from the word chattel.
+
+They're the same.
+
+They're just a spelling is
+
+trained along the
+way it's mutated.
+
+Cattle to an Anglo Saxon
+or a Norman meant.
+
+In fact, well into Tudor times,
+
+meant, generally speaking,
+
+they meant cows and also sheep.
+
+We don't talk about sheep
+as cattle now, do we?
+
+We talk about cows as cattle.
+
+But it means it's just
+
+drawn from this
+property. It's stuff.
+
+The most important stuff you
+could have back then were
+
+cows and sheep and such
+so personal chattels.
+
+It includes new technical term,
+
+emblements and industrial
+growing crops.
+
+That wants some
+explanation, doesn't it?
+
+Obviously, you can
+look these things up.
+
+There are dictionaries
+out there.
+
+You can even access
+them through Google.
+
+But I'll tell you anyway.
+
+Emblements are the
+rights to a crop.
+
+When it was very common
+for farmers to have
+
+a one year tenancy on a farm
+and they'd move on today,
+
+we're back not quite
+to that situation,
+
+but it's now
+typically five years,
+
+whereas from the 50s onwards,
+
+the normal thing
+was you got it for
+
+life and your children's life
+
+and your grandchildren's life.
+
+But there was a
+very common thing
+
+that you had to
+pass on the farm to
+
+the next tenant before your
+crops were ready for cutting.
+
+That's an emblement your rights
+
+in that crop, which is odd,
+
+it sits a bit
+
+outside the rest of the
+definition of goods.
+
+Because as you'll see in a bit,
+
+legal rights to stuff,
+
+we don't count as goods,
+but emblements do.
+
+I suppose it can be
+
+excused at a conceptual
+level by saying,
+
+it is the actual crop itself
+that you've got a right to.
+
+Includes industrial
+growing crops.
+
+Now, industrial growing crops
+
+means crops have
+actually been planted.
+
+Every year, if I
+want to grow wheat,
+
+I got to plant wheat.
+
+None of the farmers
+around by me have
+
+any industrial growing crops
+
+because they're all stockmen.
+
+They keep cattle
+or sheep or a mix.
+
+They're grazing on the land
+
+and you don't have to sow grass.
+
+Maybe once every umpteen years,
+
+you want to renew and improve
+
+your grassland and so grassy.
+
+But basically, it just grows.
+
+Your grass is not
+industrial growing crops.
+
+That means it can turn into
+
+goods once you've cut it
+and it's no longer growing.
+
+You're then going to have
+hay and haylage and silage,
+
+they're goods, but not
+while the grass is growing.
+
+I have a paddock full of non
+industrial growing weeds,
+
+which continual a front
+
+to the eye whenever I
+turn into the house.
+
+But never mind. Things
+that are attached to land,
+
+but they agreed to be severed
+before the sale itself.
+
+Not before the contract of sale,
+
+and we'll move on to that
+shortly before sale.
+
+Now, you've started land law.
+
+You're couple of weeks in.
+
+Have you looked at all about
+what constitutes land?
+
+Have you been told that stuff
+
+that's fixed to the
+land counts as land?
+
+Now, if it's land,
+
+it's real property, it's
+not personal property.
+
+Therefore, not goods.
+
+Goods are only personal
+property, not realty.
+
+But you can treat something
+attached to the land as
+
+goods if you agree to separate
+
+it from the land prior to
+the sale going through.
+
+I've illustrated that with
+
+a heavy bronze statue
+outside Blenheim Palace.
+
+We'd probably consider that
+
+pretty much affixed to
+the land, wouldn't it?
+
+If you bought Blenheim Palace,
+
+you'd expect the
+statue to come with
+
+it and that makes it realty,
+
+but I can turn it into
+personalty for our purposes
+
+by contracting to separate it
+
+from the land and
+transfer it to you.
+
+Slightly fuzzy edge around that.
+
+Now, what certainly isn't
+goods is things in action.
+
+Another phrase we use very
+commonly amongst lawyers,
+
+we talk about choses in action.
+
+Chose in action or choses
+as in action they're
+
+legal rights over money, really.
+
+Essentially your right
+to stuff that sits
+
+out there that you could enforce
+
+through the courts in action.
+
+Why chose?
+
+Come on someone. Amongst
+this many people,
+
+someone must recognise chose.
+
+No one did A level French,
+
+even O-level French,
+
+sorry, GCSE French.
+
+No one at all.
+
+Chose is French for thing.
+
+Things in action.
+Choses in action.
+
+What do we mean by
+choses in action,
+
+examples might be the ownership
+of shares in a company.
+
+Now, that's a chose in action.
+
+You can sell [inaudible]
+
+but they're not goods
+when you sell them.
+
+That's something else entirely.
+
+But they do give you a
+right as a shareholder.
+
+You have rights
+against the company.
+
+You have rights against
+all other shareholders.
+
+You have legal rights that
+can be enforced through
+
+action. Shares in the company.
+
+They're just one example
+of choses is in action.
+
+I can't give you an extensive
+list of every sort.
+
+You'll know them when you see
+
+them in practise in due course.
+
+Choses is in action don't
+
+count as goods for the
+purpose of sales law.
+
+As we'll see in bailments,
+
+they can potentially be bailed.
+
+But we'll get to that
+one when we reach it.
+
+But for sales law,
+they're not goods.
+
+Money is not goods.
+
+Whether it's money existing
+in the digital world
+
+or actual cash folding stuff
+
+in my wallet, it's not goods.
+
+There are, however, exceptions
+to both of these things.
+
+Choses in action and money.
+
+Money actually in many ways,
+
+is just a chose in action.
+
+One quite confusing
+term that's used.
+
+We talk about debt,
+
+government debt, national debt.
+
+But actually, government
+debt is quite
+
+different from national debt.
+
+Government debt
+is the money that
+
+is owed through
+bonds and so forth.
+
+Another example of a
+chose in action or bond.
+
+This is the national debt.
+
+Actual cash in your pocket or
+
+electrons in your bank's
+computer, other national debt.
+
+You can't get rid of
+the national debt
+
+because if you had
+no national debt,
+
+there'd be no money
+for people to spend.
+
+This represents it's
+got a promise on it.
+
+You may never have
+seen a banknote,
+
+but it says on it,
+
+I promise to pay the payer
+on demand the sum of £20.
+
+I can go to the
+government and say,
+
+look, you owe me money.
+
+It's an IOU from the government.
+
+If you do take it to
+the Bank of England,
+
+they'll just give you
+a nice new £20 note.
+
+In the past when we
+had the gold standard,
+
+they exchange it for gold.
+
+It also slightly ruins,
+
+some of these heist movies,
+
+whether British or American,
+
+where people get out of
+prison 15 years after
+
+carrying out a robbery
+and they go and dig
+
+up their hidden stash.
+
+Then they can't spend it because
+
+the notes have been replaced.
+
+You've seen yourself
+from time to time,
+
+new notes are issued and
+
+the old ones you've got so
+long to get rid of them.
+
+But actually, they
+don't really work
+
+because you could
+take those notes to
+
+the Bank of England and
+they'll have to exchange them,
+
+however old, they'll have
+
+to exchange them
+for brand new ones.
+
+But money is not,
+
+but what if I've
+
+got one
+
+of those big old white £5
+notes with brown printing.
+
+They're like A4 size, close to.
+
+That's actually worth a
+hell of a lot more than £5.
+
+There's a good market in those.
+
+You can go on eBay
+and find them.
+
+The collector's items.
+
+Collector's items, if you're
+
+treating money not as money
+for purchasing things with,
+
+but as an item to be collected.
+
+You're interested in
+the physical artefact,
+
+then it can be goods.
+
+I can, yes, enter into a sale of
+
+goods contract to
+buy an old £5 note.
+
+Of course, coins are very
+
+collectible as well.
+It's the same thing.
+
+I could also buy a share
+certificate as an artefact.
+
+It's not the share in Preston
+North End Football Club.
+
+That's the subject of the
+sale of goods contract.
+
+It's the piece of paper itself.
+
+Let us say I'm a great fan of
+Preston North End. I'm not.
+
+I don't really do soccer.
+
+Soccer. That's what we
+called it when I was
+
+a boy because it
+comes from soccer
+
+and rugger are just
+public school slang for
+
+association football and rugby
+football, both football.
+
+Schools only played one code.
+
+They would just
+call it football,
+
+whichever code it was.
+
+This is a modern shit thing,
+
+in recent years, no,
+soccer's American.
+
+No, it's not. It's
+what we all called it.
+
+We even had soccer today
+on the television back in
+
+the early '70s before
+
+any American had discovered
+a game with a round ball.
+
+Yeah, so soccer. I'm
+not a fan of soccer.
+
+But a guy I drink
+with in the pub,
+
+his family owns
+Preston North End,
+
+and he tells me
+that his hobby of
+
+Preston North End owing cost
+him £15 million a year.
+
+There you go. That could be
+when we want the artefact.
+
+Gold. Obviously, here I've
+illustrated some ancient,
+
+these are Roman coins.
+
+They're clearly just like
+
+the old big old £5 note in
+the collectibles thing.
+
+But gold in itself can be goods.
+
+It's a bit different from that.
+
+For instance, if I
+buy a gold Sovereign,
+
+which is now about
+
+2.5 grand or something for
+
+this because of the price of
+gold has gone up so much.
+
+Now, that is a bullion coin.
+
+It has a nominal value of £1.
+
+I'm not actually going
+to spend it in a shop to
+
+buy something for a pound, am I?
+
+As gold it can be sold as goods.
+
+As a £1, it can't be.
+
+We now have to make the
+distinction between
+
+sale and agreement to sell,
+
+and it is really
+just what you think.
+
+You pop into,
+
+I keep using Greggs
+as an example because
+
+all the other shops
+on campus seem
+
+to have closed down pretty much.
+
+You can't even go into
+Smith's on campus.
+
+I go into Greggs.
+
+That's a sale, isn't it?
+
+Because I get my steak bake
+and they get their money.
+
+It's an immediate exchange.
+
+There's no suggestion
+that I'm going to
+
+come back in a week's time and
+
+they're going to supply
+me with a steak bake.
+
+Where this sale is happening
+as an immediate exchange,
+
+that is called a sale,
+
+a contract of sale.
+
+Now, if there's
+
+going to be an element
+of futurity to it,
+
+so the actual goods are
+
+going to be delivered at
+some point in the future,
+
+then that's an
+agreement to sell.
+
+You will see when you start
+
+looking at the
+Sale of Goods Act,
+
+that there are
+distinctions between.
+
+They always specify if
+a rule is to apply both
+
+to a sale and an agreement
+to sell, it'll say so.
+
+When the property then
+subsequently passes,
+
+all the requirements of the
+agreement to sell are met,
+
+it turns into a sale.
+
+This is something,
+
+the agreement to sell can
+change in its nature.
+
+Whereas that is not always the
+case in sale of goods law,
+
+when we look at the nature
+of the property we're
+
+selling and the legal
+rules applying there,
+
+sounds just remember the
+urgent need for a state bake.
+
+Remember that is one,
+
+but it doesn't set a pattern
+
+throughout sales law
+that things can mutate.
+
+Let's look at the
+sources of sales law.
+
+Now, case law is
+there very much,
+
+so lots and lots of case law.
+
+Going back hundreds of years.
+
+But we've got a significant
+statutory codification
+
+in sale of goods.
+
+We got this first with the
+sale of goods at 1893.
+
+It's now the sale
+of goods at 1979.
+
+That covers a tremendous amount.
+
+It's on the whole pretty clear.
+
+But of course, you still need
+
+all the case law
+interpreting the statute.
+
+Even the case law that
+
+predates the statute you're
+using or even predates
+
+the 1879 statute can
+still be relevant
+
+to understanding what is meant
+
+in the statute for
+the interpretation.
+
+Now, we're a trader and just
+
+take that word as meaning
+what you think it means.
+
+There's no magic to it.
+
+We know what we
+mean by a trader.
+
+When a trader sells
+to a consumer,
+
+and that's not so
+straightforward
+
+because a business
+could be a consumer for
+
+the purpose of the
+particular contract if it's
+
+nothing to do with their
+actual business operation.
+
+When a trader sells
+to a consumer,
+
+that's no longer governed
+by the Sale of Goods Act.
+
+That's governed by the
+Consumer Rights Act, 2015,
+
+in which we have little or
+no interest in this module.
+
+Because we have to draw
+the line somewhere.
+
+But if a consumer,
+
+if an ordinary person,
+
+you sell something to a
+mate, another consumer,
+
+that's still covered by
+the Sale of Goods Act,
+
+not by the Consumer Rights Act.
+
+It's very definite and its
+scope is the 2015 Act.
+
+But obviously, in commercial,
+
+we're mainly concerned with
+B2B activity, aren't we?
+
+It's in the name, isn't it?
+
+The Unfair Contract
+Terms Act 1977,
+
+which we looked at last year,
+
+as we did look at
+
+a little slice of the
+Sale of Goods Act,
+
+that is significant
+in sales contracts,
+
+except those covered by
+the Consumer Rights Act,
+
+which has its own
+equivalent provisions
+
+that's built into that.
+
+You don't turn to UCTA where
+the sale is from trader to
+
+consumer about unfair
+terms, exclusion clauses.
+
+You look within the
+Consumer Rights Act.
+
+It gives you all
+you need to have.
+
+Some of the Sale of
+Goods Act is still
+
+perfectly relevant in a way
+
+to traders selling to consumers.
+
+In that, there are
+
+various aspects in the
+Consumer Rights Act,
+
+not going into detail
+
+because we're not dealing
+with this Act in detail.
+
+But sometimes you get
+
+a bit in the Consumer Rights
+Act and it says, as to XYZ.
+
+Section so and so and so and
+
+of the Sale of Goods Act apply.
+
+It applies the existing
+law without copying it.
+
+This is our legislation, really,
+
+Sale of Goods Act,
+
+Unfair Contract Terms Act.
+
+This codification, a big event.
+
+It's a big event, and it's
+really quite I think quite
+
+interesting in its way
+in the methodology
+
+adopted, and so on.
+
+The Sale of goods
+Act was effectively
+
+written by one person,
+
+not a great team of people,
+
+not a big committee.
+
+Obviously it had to go
+through the committee stages
+
+of the House of
+Commons and so on.
+
+But it's essentially the work
+
+of a single genius as it buyer,
+
+which is probably why so
+
+coherent and why it
+lasted from 1893-1979,
+
+and then in 1979, the
+changes are quite modest.
+
+A lot of the sections of
+the '79 Act are identically
+
+worded with their
+equivalents in the 1893 Act.
+
+This guy, Mackenzie
+Chalmers was tasked
+
+with the job of coming up with
+
+a codification of sales law.
+
+How did he go about it?
+
+Now, this is, quite interesting.
+
+He did obviously the
+library research.
+
+Just the stuff that you see in,
+
+if you look at a law
+Commission report,
+
+there's a lot of stuff in there,
+
+the existing law and you get
+
+a big survey, library
+based research.
+
+He looked at hundreds if
+not thousands of cases,
+
+looked at what the law has
+
+been and tried to
+represent that,
+
+because this is a codification,
+
+not a complete radical overhaul,
+
+tried to represent that
+in statutory language.
+
+But he also went and spoke
+to businessmen and said,
+
+what would you expect to
+happen if this occurs?
+
+In event A, what do
+business people do?
+
+What do you think the rule is?
+
+He provided there,
+
+in the Act, lots
+of default rules.
+
+The Sale of Goods Act,
+
+works a great deal
+through default rules.
+
+There are only a few
+mandatory rules.
+
+If we look at the sections
+we looked at last year,
+
+Sections 12-15 of the
+Sale of Goods Act,
+
+the implied terms
+as to the right to
+
+sell conforming
+with description,
+
+satisfactory quality, and so on.
+
+Only one of those is mandatory,
+
+and that's the Section 12.
+
+The others can be excluded
+by contractual agreement.
+
+The '77 Act says,
+
+you can only do that if it's
+
+reasonable. But you
+can still do it.
+
+Lots of the stuff and you'll
+see this very vividly
+
+illustrated when we move
+on to passing of property.
+
+Lots of the stuff,
+it's just default.
+
+If the parties
+haven't specified,
+
+or there isn't some particular
+custom in the trade,
+
+which can be implied as a term.
+
+We say that they
+meant to specify,
+
+then these are the rules.
+
+This is what the court will
+follow to get to a result.
+
+But it's only in
+default of agreements,
+
+we call them default rules.
+
+This methodology he took up
+
+of doing his traditional
+legal research
+
+and then going and talking
+to business people,
+
+was the methodology adopted
+by Al Corbin in America,
+
+no relation,
+differently spelled.
+
+Al Corbin in America,
+
+when he was asked to
+
+organise the drafting
+of something
+
+called Uniform Commercial Code,
+
+you will come across the UCC.
+
+It's not applicable
+to England and Wales,
+
+but it is applicable to 49 of
+
+the 50 states of the US who
+have adopted it as their law.
+
+Anyone want to guess
+what the 50th state is?
+
+MALE_3: Louisiana.
+
+MALE_1: It is
+Louisiana. Good man.
+
+I've read various books
+
+and articles and so
+on over the years,
+
+how radical he was.
+What a wonderful job.
+
+He actually spoke
+to business people.
+
+I asked them what should happen.
+
+If I were a Czech,
+conversations.
+
+This is the 1950s.
+
+It had already been done by
+the 1890s by an Englishman.
+
+Typical bloody
+Americans claiming
+
+credit for stuff we did.
+
+It's like that film
+about the U-boat and
+
+American Navy captures
+the enigma machine.
+
+From a U-boat that
+was never captured by
+
+the American Navy and survived
+to the end of the war.
+
+It was sunk just before the
+end of the war in Norway,
+
+by non-American planes.
+
+Of course, we captured
+Empire forces,
+
+Canadian ships actually
+captured the enigma machine,
+
+before America even
+got around to joining
+
+the war because it takes
+years for them to rock up.
+
+Finally say, most of
+the jobs been done,
+
+let's get in there, claim
+
+all the credit and try and
+make some money out of it.
+
+That's the way things work.
+
+Anyway, I digress.
+
+But it wouldn't be my lecture
+without digression with it.
+
+This was a radical thing
+to do at the time,
+
+though not completely
+unprecedented
+
+because even back in
+the 18th century,
+
+as commercial law was developing
+as a distinctive thing,
+
+we see Lord Mansfield,
+
+when he was if Lord Chief
+
+Justice in charge of the
+King's Banch division,
+
+he had special juries that
+
+he appointed of
+city businessmen.
+
+I'd say and sometimes
+
+you just gather them
+into a private room,
+
+not even for the actual case
+
+on trial and say,
+what's the practise?
+
+Then he did whatever
+
+the businessman's customs
+is that should be the law.
+
+His successor, Lord Kenyon,
+
+said, not so much.
+
+The law is the law.
+Businessmen should
+
+conform to the law.
+
+Radical idea.
+
+It's up to parliament to change
+
+stuff which is a bit like
+Boris Johnson when he said,
+
+is it fuck business?
+
+Business weren't like that.
+
+I wasn't saying business
+isn't important,
+
+but he's saying it's got
+to fit in its place.
+
+What was our result of all this?
+
+We've got the 1893 Act,
+
+and if you print off
+
+a copy of that and print
+off a copy of the '79 Act,
+
+you'll find they
+are very similar,
+
+but there are subtle and
+important differences.
+
+The 1893 Act is no
+longer in force,
+
+so we don't have two
+Sales of Goods Act.
+
+We have one.
+
+It's important when you read
+
+the case law to look at
+
+the date of the case and the
+date of the transaction.
+
+Because that will affect
+which of the two statutes
+
+governed the decision
+in the case,
+
+you then need to check when you
+
+look at the judgement
+and the judge, clearly.
+
+You need then to look,
+
+is the wording the same
+in the '79 Act that
+
+currently governs as it was in
+
+the 1893 Act that that
+judge was interpreting?
+
+If it is, it's still good.
+
+We still use lots of
+pre-1979 cases to interpret
+
+the 1979 Act because
+
+it's interpreting
+the same wording
+
+in the predecessor Act.
+
+But you just need to
+be on guard for that.
+
+That is important. Even the sale
+
+of goods at '79 has
+been amended a bit.
+
+Now we talk about as you
+remember from last year,
+
+there's an implied term
+of satisfactory quality.
+
+But when the '79 Act was passed,
+
+it carried on the language of
+
+the 1893 Act and used the
+term merchantable quality.
+
+The reason in 1994,
+
+the amendment was made to
+make it satisfactory quality
+
+was to make it a bit
+more consumer friendly.
+
+The judges managed
+to get around it,
+
+but it made the law a
+
+mess because when
+you buy something,
+
+you want to use it, don't you?
+
+When a business buys something,
+
+they may want just
+to sell it on.
+
+Now, merchantable
+quality meant that it
+
+could be sold as goods
+of that description.
+
+Any of us would think that was
+
+a satisfactory goods
+to be delivered
+
+to us when ordered
+through Amazon.
+
+We had some amendments.
+
+Again, you have to
+watch out so that when
+
+you're dealing with decisions
+about merchant quality,
+
+they don't necessarily map on to
+
+current law about
+satisfactory quality.
+
+In spite of the fact of
+
+carving out the
+Consumer Rights Act,
+
+we still stick with
+
+a satisfactory quality in
+
+the Sale of Goods Act
+as it now stands.
+
+One thing I would
+suggest you do,
+
+and I know it seem
+desperately old-fashioned,
+
+and I know it obviously costs
+you a bit on your accounts,
+
+but print out a copy of
+
+the 1979 act from the
+legislation.gov.uk.
+
+As it currently stands,
+
+it gives you the
+option as originally
+
+passed and as amended.
+
+Print out a copy,
+
+splash out on a staple,
+
+have it with you in
+physical form, peruse it.
+
+I suppose, you might be able
+
+to not have to look
+it up every time,
+
+but be able to download
+it into some like
+
+a PDF or something that you
+could use electronically.
+
+I've suggested before that while
+
+you're waiting for mates
+to turn up at the pub,
+
+for instance, nothing
+better to do,
+
+read a bit of the
+Sale of Goods Act.
+
+[NOISE] I'm going to
+
+draw your attention to
+
+particular sections of
+the Sale of goods Act.
+
+But actually, you can
+
+score extra brownie points
+
+for having learned
+the whole thing.
+
+It's your job to
+learn the thing,
+
+to learn sales law.
+
+If you come, and you do
+
+an assessed essay on sales
+
+or assessed problem
+question on sales,
+
+you're not confined to
+
+just the stuff we talk
+about in lectures and
+
+seminars, it's all relevant.
+
+The better you know
+it, the better.
+
+At that point, we
+will end for today.
+
+Next lecture, we're
+going to start on
+
+passing a property. Thank you.
+
+[BACKGROUND].
+
